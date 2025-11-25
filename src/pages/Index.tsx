@@ -1,16 +1,32 @@
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import Navbar from "@/components/Navbar";
 import CoinDisplay from "@/components/CoinDisplay";
 import { quizzes } from "@/data/quizzes";
+import type { Quiz } from "@/data/quizzes";
 import heroImage from "@/assets/hero-character.jpg";
-import djCharacter from "@/assets/dj-character.jpg";
-import sniperCharacter from "@/assets/sniper-character.jpg";
-import assaultCharacter from "@/assets/assault-character.jpg";
+
+const CATEGORY_TABS = [
+  { id: "characters", label: "Characters" },
+  { id: "pets", label: "Pets" },
+  { id: "weapons", label: "Weapons" },
+] as const;
+
+type CategoryId = (typeof CATEGORY_TABS)[number]["id"];
+
+const categorizedQuizzes: Record<CategoryId, Quiz[]> = CATEGORY_TABS.reduce(
+  (acc, category) => {
+    acc[category.id] = quizzes.filter((quiz) => quiz.category === category.id);
+    return acc;
+  },
+  {} as Record<CategoryId, Quiz[]>
+);
 
 const Index = () => {
-  const characterImages = [djCharacter, sniperCharacter, assaultCharacter];
+  const [activeCategory, setActiveCategory] = useState<CategoryId>("characters");
 
   return (
     <div className="min-h-screen bg-background">
@@ -42,43 +58,69 @@ const Index = () => {
         <h2 className="text-3xl font-bold mb-8 text-center">
           Available <span className="text-gradient">Quizzes</span>
         </h2>
-        
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {quizzes.map((quiz, index) => (
-            <Card 
-              key={quiz.id} 
-              className="group hover:shadow-glow transition-all duration-300 hover:scale-105 border-border bg-card overflow-hidden"
-            >
-              <div className="relative h-48 overflow-hidden">
-                <img 
-                  src={characterImages[index]} 
-                  alt={quiz.title}
-                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-card to-transparent" />
+
+        <Tabs
+          value={activeCategory}
+          onValueChange={(value) => setActiveCategory(value as CategoryId)}
+          className="space-y-8"
+        >
+          <TabsList className="grid grid-cols-3 gap-2 bg-muted/20 p-1 rounded-xl">
+            {CATEGORY_TABS.map((category) => (
+              <TabsTrigger
+                key={category.id}
+                value={category.id}
+                className="data-[state=active]:bg-gradient-primary data-[state=active]:text-white rounded-lg py-2 font-semibold"
+              >
+                {category.label}
+              </TabsTrigger>
+            ))}
+          </TabsList>
+
+          {CATEGORY_TABS.map((category) => (
+            <TabsContent key={category.id} value={category.id}>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {categorizedQuizzes[category.id]?.map((quiz) => (
+                  <Card
+                    key={quiz.id}
+                    className="group hover:shadow-glow transition-all duration-300 hover:scale-105 border-border bg-card overflow-hidden"
+                  >
+                    <div className="relative h-48 overflow-hidden">
+                      <img
+                        src={quiz.image}
+                        alt={quiz.title}
+                        className="cover group-hover:scale-110 transition-transform duration-300"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-card to-transparent" />
+                    </div>
+                    <CardHeader>
+                      <div className="flex items-center justify-between text-sm uppercase tracking-wide text-primary">
+                        <span>{category.label}</span>
+                        <span>{quiz.questions.length} Questions</span>
+                      </div>
+                      <CardTitle className="text-2xl">{quiz.title}</CardTitle>
+                      <CardDescription className="text-muted-foreground">
+                        {quiz.description}
+                      </CardDescription>
+                    </CardHeader>
+                    <CardContent>
+                      <div className="flex items-center justify-between">
+                        <div className="flex items-center gap-2 text-primary">
+                          <span className="text-2xl">🪙</span>
+                          <span className="font-bold">50 Coins</span>
+                        </div>
+                        <Link to={`/quiz/${quiz.id}`}>
+                          <Button className="bg-gradient-primary hover:opacity-90 shadow-glow">
+                            Start Quiz
+                          </Button>
+                        </Link>
+                      </div>
+                    </CardContent>
+                  </Card>
+                ))}
               </div>
-              <CardHeader>
-                <CardTitle className="text-2xl">{quiz.title}</CardTitle>
-                <CardDescription className="text-muted-foreground">
-                  {quiz.description}
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center gap-2 text-primary">
-                    <span className="text-2xl">🪙</span>
-                    <span className="font-bold">50 Coins</span>
-                  </div>
-                  <Link to={`/quiz/${quiz.id}`}>
-                    <Button className="bg-gradient-primary hover:opacity-90 shadow-glow">
-                      Start Quiz
-                    </Button>
-                  </Link>
-                </div>
-              </CardContent>
-            </Card>
+            </TabsContent>
           ))}
-        </div>
+        </Tabs>
       </section>
     </div>
   );

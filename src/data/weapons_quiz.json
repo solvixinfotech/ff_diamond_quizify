@@ -1,0 +1,3480 @@
+[
+  {
+    "imagePath": "Gloo Melter.webp",
+    "name": "Gloo Melter",
+    "description": "Gloo Melter is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Gloo Melter unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Gloo Melter best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Gloo Melter?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Gloo Melter inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Gloo Melter is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Shield Gun.webp",
+    "name": "Shield Gun",
+    "description": "Shield Gun is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Shield Gun unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Shield Gun best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Shield Gun?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Shield Gun inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Shield Gun is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Treatment Laser Gun.webp",
+    "name": "Treatment Laser Gun",
+    "description": "Treatment Laser Gun is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Treatment Laser Gun unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Treatment Laser Gun best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Treatment Laser Gun?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Treatment Laser Gun inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Treatment Laser Gun is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Trogon.webp",
+    "name": "Trogon",
+    "description": "Trogon is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Trogon unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Trogon best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Trogon?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Trogon inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Trogon is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Vsk94.webp",
+    "name": "Vsk94",
+    "description": "Vsk94 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Vsk94 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Vsk94 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Vsk94?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Vsk94 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Vsk94 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Fgl-24.webp",
+    "name": "Fgl-24",
+    "description": "Fgl-24 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Fgl-24 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Fgl-24 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Fgl-24?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Fgl-24 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Fgl-24 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M590.webp",
+    "name": "M590",
+    "description": "M590 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M590 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M590 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M590?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M590 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M590 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Winchester.webp",
+    "name": "Winchester",
+    "description": "Winchester is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Winchester unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Winchester best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Winchester?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Winchester inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Winchester is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Rgs50.webp",
+    "name": "Rgs50",
+    "description": "Rgs50 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Rgs50 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Rgs50 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Rgs50?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Rgs50 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Rgs50 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Gatling.webp",
+    "name": "Gatling",
+    "description": "Gatling is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Gatling unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Gatling best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Gatling?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Gatling inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Gatling is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Cg15.webp",
+    "name": "Cg15",
+    "description": "Cg15 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Cg15 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Cg15 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Cg15?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Cg15 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Cg15 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Katana.webp",
+    "name": "Katana",
+    "description": "Katana is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Katana unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Katana best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Katana?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Katana inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Katana is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "An94.webp",
+    "name": "An94",
+    "description": "An94 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes An94 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits An94 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using An94?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does An94 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "An94 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Healing Pistol.webp",
+    "name": "Healing Pistol",
+    "description": "Healing Pistol is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Healing Pistol unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Healing Pistol best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Healing Pistol?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Healing Pistol inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Healing Pistol is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mgl140.webp",
+    "name": "Mgl140",
+    "description": "Mgl140 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Mgl140 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Mgl140 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Mgl140?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Mgl140 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Mgl140 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "P90.webp",
+    "name": "P90",
+    "description": "P90 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes P90 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits P90 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using P90?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does P90 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "P90 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Xm8.webp",
+    "name": "Xm8",
+    "description": "Xm8 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Xm8 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Xm8 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Xm8?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Xm8 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Xm8 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M60.webp",
+    "name": "M60",
+    "description": "M60 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M60 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M60 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M60?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M60 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M60 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Spas12.webp",
+    "name": "Spas12",
+    "description": "Spas12 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Spas12 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Spas12 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Spas12?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Spas12 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Spas12 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Bat.webp",
+    "name": "Bat",
+    "description": "Bat is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Bat unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Bat best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Bat?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Bat inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Bat is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Svd.webp",
+    "name": "Svd",
+    "description": "Svd is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Svd unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Svd best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Svd?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Svd inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Svd is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Crossbow.webp",
+    "name": "Crossbow",
+    "description": "Crossbow is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Crossbow unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Crossbow best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Crossbow?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Crossbow inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Crossbow is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Famas.webp",
+    "name": "Famas",
+    "description": "Famas is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Famas unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Famas best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Famas?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Famas inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Famas is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M500.webp",
+    "name": "M500",
+    "description": "M500 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M500 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M500 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M500?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M500 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M500 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mp40.webp",
+    "name": "Mp40",
+    "description": "Mp40 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Mp40 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Mp40 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Mp40?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Mp40 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Mp40 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M79.webp",
+    "name": "M79",
+    "description": "M79 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M79 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M79 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M79?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M79 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M79 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kar98K.webp",
+    "name": "Kar98K",
+    "description": "Kar98K is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Kar98K unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Kar98K best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Kar98K?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Kar98K inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Kar98K is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M1873.webp",
+    "name": "M1873",
+    "description": "M1873 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M1873 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M1873 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M1873?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M1873 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M1873 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M249.webp",
+    "name": "M249",
+    "description": "M249 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M249 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M249 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M249?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M249 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M249 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Grenade.webp",
+    "name": "Grenade",
+    "description": "Grenade is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Grenade unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Grenade best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Grenade?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Grenade inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Grenade is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M4A1.webp",
+    "name": "M4A1",
+    "description": "M4A1 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M4A1 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M4A1 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M4A1?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M4A1 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M4A1 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ak47.webp",
+    "name": "Ak47",
+    "description": "Ak47 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Ak47 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Ak47 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Ak47?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Ak47 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Ak47 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Awm.webp",
+    "name": "Awm",
+    "description": "Awm is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Awm unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Awm best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Awm?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Awm inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Awm is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Sks.webp",
+    "name": "Sks",
+    "description": "Sks is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Sks unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Sks best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Sks?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Sks inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Sks is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Groza.webp",
+    "name": "Groza",
+    "description": "Groza is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Groza unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Groza best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Groza?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Groza inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Groza is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M1014.webp",
+    "name": "M1014",
+    "description": "M1014 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M1014 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M1014 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M1014?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M1014 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M1014 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ump.webp",
+    "name": "Ump",
+    "description": "Ump is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Ump unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Ump best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Ump?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Ump inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Ump is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mp5.webp",
+    "name": "Mp5",
+    "description": "Mp5 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Mp5 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Mp5 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Mp5?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Mp5 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Mp5 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M14.webp",
+    "name": "M14",
+    "description": "M14 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M14 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M14 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M14?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M14 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M14 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Scar.webp",
+    "name": "Scar",
+    "description": "Scar is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Scar unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Scar best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Scar?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Scar inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Scar is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Vss.webp",
+    "name": "Vss",
+    "description": "Vss is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Vss unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Vss best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Vss?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Vss inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Vss is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Usp.webp",
+    "name": "Usp",
+    "description": "Usp is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Usp unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Usp best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Usp?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Usp inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Usp is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "G18.webp",
+    "name": "G18",
+    "description": "G18 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes G18 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits G18 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using G18?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does G18 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "G18 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Desert Eagle.webp",
+    "name": "Desert Eagle",
+    "description": "Desert Eagle is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Desert Eagle unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Desert Eagle best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Desert Eagle?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Desert Eagle inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Desert Eagle is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Pan.webp",
+    "name": "Pan",
+    "description": "Pan is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Pan unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Pan best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Pan?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Pan inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Pan is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Parang.webp",
+    "name": "Parang",
+    "description": "Parang is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Parang unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Parang best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Parang?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Parang inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Parang is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M1887.webp",
+    "name": "M1887",
+    "description": "M1887 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M1887 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M1887 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M1887?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M1887 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M1887 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Thompson.webp",
+    "name": "Thompson",
+    "description": "Thompson is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Thompson unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Thompson best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Thompson?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Thompson inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Thompson is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Hand-Cannon.webp",
+    "name": "Hand-Cannon",
+    "description": "Hand-Cannon is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Hand-Cannon unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Hand-Cannon best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Hand-Cannon?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Hand-Cannon inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Hand-Cannon is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Plasma.webp",
+    "name": "Plasma",
+    "description": "Plasma is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Plasma unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Plasma best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Plasma?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Plasma inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Plasma is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M82B.webp",
+    "name": "M82B",
+    "description": "M82B is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M82B unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M82B best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M82B?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M82B inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M82B is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Aug.webp",
+    "name": "Aug",
+    "description": "Aug is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Aug unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Aug best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Aug?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Aug inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Aug is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Parafal.webp",
+    "name": "Parafal",
+    "description": "Parafal is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Parafal unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Parafal best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Parafal?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Parafal inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Parafal is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Woodpecker.webp",
+    "name": "Woodpecker",
+    "description": "Woodpecker is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Woodpecker unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Woodpecker best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Woodpecker?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Woodpecker inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Woodpecker is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Vector.webp",
+    "name": "Vector",
+    "description": "Vector is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Vector unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Vector best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Vector?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Vector inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Vector is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Scythe.webp",
+    "name": "Scythe",
+    "description": "Scythe is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Scythe unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Scythe best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Scythe?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Scythe inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Scythe is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mag-7.webp",
+    "name": "Mag-7",
+    "description": "Mag-7 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Mag-7 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Mag-7 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Mag-7?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Mag-7 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Mag-7 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kord.webp",
+    "name": "Kord",
+    "description": "Kord is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Kord unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Kord best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Kord?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Kord inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Kord is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M1917.webp",
+    "name": "M1917",
+    "description": "M1917 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M1917 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M1917 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M1917?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M1917 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M1917 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Usp-2.webp",
+    "name": "Usp-2",
+    "description": "Usp-2 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Usp-2 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Usp-2 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Usp-2?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Usp-2 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Usp-2 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Smoke Grenade.webp",
+    "name": "Smoke Grenade",
+    "description": "Smoke Grenade is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Smoke Grenade unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Smoke Grenade best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Smoke Grenade?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Smoke Grenade inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Smoke Grenade is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Gloo Wall.webp",
+    "name": "Gloo Wall",
+    "description": "Gloo Wall is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Gloo Wall unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Gloo Wall best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Gloo Wall?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Gloo Wall inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Gloo Wall is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Flash Freeze.webp",
+    "name": "Flash Freeze",
+    "description": "Flash Freeze is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Flash Freeze unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Flash Freeze best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Flash Freeze?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Flash Freeze inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Flash Freeze is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ff Knife.webp",
+    "name": "Ff Knife",
+    "description": "Ff Knife is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Ff Knife unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Ff Knife best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Ff Knife?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Ff Knife inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Ff Knife is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kingfisher.webp",
+    "name": "Kingfisher",
+    "description": "Kingfisher is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Kingfisher unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Kingfisher best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Kingfisher?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Kingfisher inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Kingfisher is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Uzi.webp",
+    "name": "Uzi",
+    "description": "Uzi is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Uzi unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Uzi best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Uzi?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Uzi inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Uzi is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Healing Sniper.webp",
+    "name": "Healing Sniper",
+    "description": "Healing Sniper is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Healing Sniper unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Healing Sniper best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Healing Sniper?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Healing Sniper inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Healing Sniper is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Flamethrower.webp",
+    "name": "Flamethrower",
+    "description": "Flamethrower is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Flamethrower unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Flamethrower best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Flamethrower?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Flamethrower inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Flamethrower is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mac10.webp",
+    "name": "Mac10",
+    "description": "Mac10 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Mac10 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Mac10 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Mac10?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Mac10 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Mac10 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ac80.webp",
+    "name": "Ac80",
+    "description": "Ac80 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Ac80 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Ac80 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Ac80?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Ac80 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Ac80 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "G36.webp",
+    "name": "G36",
+    "description": "G36 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes G36 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits G36 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using G36?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does G36 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "G36 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Charge Buster.webp",
+    "name": "Charge Buster",
+    "description": "Charge Buster is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Charge Buster unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Charge Buster best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Charge Buster?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Charge Buster inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Charge Buster is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "M24.webp",
+    "name": "M24",
+    "description": "M24 is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes M24 unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits M24 best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using M24?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does M24 inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "M24 is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  },
+  {
+    "imagePath": "Bizon.webp",
+    "name": "Bizon",
+    "description": "Bizon is a Free Fire weapon known for its unique features.",
+    "questions": [
+      {
+        "question": "What makes Bizon unique in Free Fire?",
+        "answer": "A",
+        "A": "High burst damage",
+        "B": "Unlimited ammo",
+        "C": "Fast reload",
+        "D": "Silent fire"
+      },
+      {
+        "question": "Which range suits Bizon best?",
+        "answer": "C",
+        "A": "Melee range",
+        "B": "Close range",
+        "C": "Mid to long range",
+        "D": "Only aerial combat"
+      },
+      {
+        "question": "What is the best strategy when using Bizon?",
+        "answer": "B",
+        "A": "Stay hidden and fire randomly",
+        "B": "Use cover and aim precisely",
+        "C": "Run directly at enemies",
+        "D": "Avoid all firefights"
+      },
+      {
+        "question": "What kind of damage type does Bizon inflict?",
+        "answer": "A",
+        "A": "Physical damage",
+        "B": "Elemental energy",
+        "C": "Healing aura",
+        "D": "EMP shock"
+      },
+      {
+        "question": "Bizon is best for which player role?",
+        "answer": "D",
+        "A": "Medic",
+        "B": "Scout",
+        "C": "Support",
+        "D": "Assaulter"
+      }
+    ]
+  }
+]

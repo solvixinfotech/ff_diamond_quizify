@@ -1,0 +1,2963 @@
+[
+  {
+    "imagePath": "Nero.webp",
+    "name": "Nero",
+    "description": "Nero is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Nero's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Nero best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Nero's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Nero is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Nero to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Rin.webp",
+    "name": "Rin",
+    "description": "Rin is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Rin's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Rin best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Rin's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Rin is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Rin to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Oscar.webp",
+    "name": "Oscar",
+    "description": "Oscar is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Oscar's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Oscar best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Oscar's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Oscar is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Oscar to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kassie.webp",
+    "name": "Kassie",
+    "description": "Kassie is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kassie's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kassie best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kassie's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kassie is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kassie to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kairos.webp",
+    "name": "Kairos",
+    "description": "Kairos is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kairos's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kairos best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kairos's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kairos is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kairos to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ryden.webp",
+    "name": "Ryden",
+    "description": "Ryden is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Ryden's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Ryden best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Ryden's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Ryden is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Ryden to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ignis.webp",
+    "name": "Ignis",
+    "description": "Ignis is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Ignis's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Ignis best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Ignis's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Ignis is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Ignis to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Suzy.webp",
+    "name": "Suzy",
+    "description": "Suzy is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Suzy's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Suzy best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Suzy's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Suzy is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Suzy to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Sonia.webp",
+    "name": "Sonia",
+    "description": "Sonia is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Sonia's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Sonia best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Sonia's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Sonia is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Sonia to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Orion.webp",
+    "name": "Orion",
+    "description": "Orion is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Orion's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Orion best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Orion's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Orion is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Orion to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Santino.webp",
+    "name": "Santino",
+    "description": "Santino is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Santino's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Santino best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Santino's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Santino is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Santino to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Luna.webp",
+    "name": "Luna",
+    "description": "Luna is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Luna's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Luna best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Luna's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Luna is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Luna to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Tatsuya.webp",
+    "name": "Tatsuya",
+    "description": "Tatsuya is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Tatsuya's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Tatsuya best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Tatsuya's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Tatsuya is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Tatsuya to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "A-Patroa.webp",
+    "name": "A-Patroa",
+    "description": "A-Patroa is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is A-Patroa's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits A-Patroa best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does A-Patroa's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "A-Patroa is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates A-Patroa to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Iris.webp",
+    "name": "Iris",
+    "description": "Iris is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Iris's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Iris best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Iris's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Iris is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Iris to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "J.Biebs.webp",
+    "name": "J.Biebs",
+    "description": "J.Biebs is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is J.Biebs's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits J.Biebs best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does J.Biebs's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "J.Biebs is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates J.Biebs to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Homer.webp",
+    "name": "Homer",
+    "description": "Homer is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Homer's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Homer best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Homer's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Homer is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Homer to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kenta.webp",
+    "name": "Kenta",
+    "description": "Kenta is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kenta's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kenta best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kenta's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kenta is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kenta to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Nairi.webp",
+    "name": "Nairi",
+    "description": "Nairi is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Nairi's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Nairi best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Nairi's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Nairi is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Nairi to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Otho.webp",
+    "name": "Otho",
+    "description": "Otho is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Otho's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Otho best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Otho's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Otho is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Otho to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Leon.webp",
+    "name": "Leon",
+    "description": "Leon is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Leon's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Leon best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Leon's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Leon is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Leon to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Koda.webp",
+    "name": "Koda",
+    "description": "Koda is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Koda's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Koda best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Koda's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Koda is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Koda to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Thiva.webp",
+    "name": "Thiva",
+    "description": "Thiva is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Thiva's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Thiva best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Thiva's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Thiva is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Thiva to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Dimitri.webp",
+    "name": "Dimitri",
+    "description": "Dimitri is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Dimitri's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Dimitri best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Dimitri's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Dimitri is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Dimitri to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "D-Bee.webp",
+    "name": "D-Bee",
+    "description": "D-Bee is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is D-Bee's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits D-Bee best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does D-Bee's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "D-Bee is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates D-Bee to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Maro.webp",
+    "name": "Maro",
+    "description": "Maro is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Maro's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Maro best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Maro's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Maro is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Maro to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Skyler.webp",
+    "name": "Skyler",
+    "description": "Skyler is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Skyler's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Skyler best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Skyler's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Skyler is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Skyler to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Xayne.webp",
+    "name": "Xayne",
+    "description": "Xayne is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Xayne's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Xayne best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Xayne's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Xayne is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Xayne to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Shirou.webp",
+    "name": "Shirou",
+    "description": "Shirou is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Shirou's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Shirou best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Shirou's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Shirou is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Shirou to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Chrono.webp",
+    "name": "Chrono",
+    "description": "Chrono is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Chrono's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Chrono best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Chrono's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Chrono is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Chrono to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Dasha.webp",
+    "name": "Dasha",
+    "description": "Dasha is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Dasha's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Dasha best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Dasha's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Dasha is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Dasha to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "K.webp",
+    "name": "K",
+    "description": "K is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is K's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits K best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does K's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "K is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates K to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Luqueta.webp",
+    "name": "Luqueta",
+    "description": "Luqueta is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Luqueta's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Luqueta best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Luqueta's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Luqueta is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Luqueta to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kelly.webp",
+    "name": "Kelly",
+    "description": "Kelly is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kelly's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kelly best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kelly's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kelly is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kelly to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Hayato.webp",
+    "name": "Hayato",
+    "description": "Hayato is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Hayato's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Hayato best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Hayato's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Hayato is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Hayato to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Moco.webp",
+    "name": "Moco",
+    "description": "Moco is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Moco's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Moco best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Moco's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Moco is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Moco to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Steffie.webp",
+    "name": "Steffie",
+    "description": "Steffie is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Steffie's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Steffie best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Steffie's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Steffie is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Steffie to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Misha.webp",
+    "name": "Misha",
+    "description": "Misha is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Misha's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Misha best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Misha's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Misha is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Misha to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Maxim.webp",
+    "name": "Maxim",
+    "description": "Maxim is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Maxim's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Maxim best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Maxim's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Maxim is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Maxim to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Andrew.webp",
+    "name": "Andrew",
+    "description": "Andrew is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Andrew's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Andrew best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Andrew's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Andrew is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Andrew to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Lila.webp",
+    "name": "Lila",
+    "description": "Lila is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Lila's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Lila best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Lila's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Lila is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Lila to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Caroline.webp",
+    "name": "Caroline",
+    "description": "Caroline is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Caroline's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Caroline best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Caroline's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Caroline is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Caroline to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Laura.webp",
+    "name": "Laura",
+    "description": "Laura is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Laura's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Laura best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Laura's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Laura is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Laura to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Rafael.webp",
+    "name": "Rafael",
+    "description": "Rafael is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Rafael's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Rafael best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Rafael's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Rafael is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Rafael to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Alok.webp",
+    "name": "Alok",
+    "description": "Alok is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Alok's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Alok best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Alok's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Alok is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Alok to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Jota.webp",
+    "name": "Jota",
+    "description": "Jota is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Jota's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Jota best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Jota's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Jota is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Jota to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Clu.webp",
+    "name": "Clu",
+    "description": "Clu is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Clu's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Clu best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Clu's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Clu is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Clu to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Wolfrahh.webp",
+    "name": "Wolfrahh",
+    "description": "Wolfrahh is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Wolfrahh's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Wolfrahh best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Wolfrahh's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Wolfrahh is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Wolfrahh to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Jai.webp",
+    "name": "Jai",
+    "description": "Jai is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Jai's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Jai best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Jai's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Jai is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Jai to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Alvaro.webp",
+    "name": "Alvaro",
+    "description": "Alvaro is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Alvaro's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Alvaro best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Alvaro's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Alvaro is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Alvaro to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Antonio.webp",
+    "name": "Antonio",
+    "description": "Antonio is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Antonio's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Antonio best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Antonio's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Antonio is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Antonio to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Plaoma.webp",
+    "name": "Plaoma",
+    "description": "Plaoma is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Plaoma's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Plaoma best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Plaoma's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Plaoma is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Plaoma to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Miguel.webp",
+    "name": "Miguel",
+    "description": "Miguel is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Miguel's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Miguel best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Miguel's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Miguel is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Miguel to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Nikita.webp",
+    "name": "Nikita",
+    "description": "Nikita is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Nikita's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Nikita best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Nikita's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Nikita is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Nikita to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kapella.webp",
+    "name": "Kapella",
+    "description": "Kapella is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kapella's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kapella best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kapella's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kapella is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kapella to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Joseph.webp",
+    "name": "Joseph",
+    "description": "Joseph is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Joseph's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Joseph best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Joseph's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Joseph is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Joseph to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Notora.webp",
+    "name": "Notora",
+    "description": "Notora is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Notora's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Notora best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Notora's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Notora is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Notora to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "A124.webp",
+    "name": "A124",
+    "description": "A124 is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is A124's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits A124 best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does A124's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "A124 is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates A124 to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Kla.webp",
+    "name": "Kla",
+    "description": "Kla is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Kla's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Kla best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Kla's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Kla is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Kla to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Wukong.webp",
+    "name": "Wukong",
+    "description": "Wukong is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Wukong's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Wukong best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Wukong's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Wukong is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Wukong to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Olivia.webp",
+    "name": "Olivia",
+    "description": "Olivia is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Olivia's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Olivia best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Olivia's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Olivia is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Olivia to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ford.webp",
+    "name": "Ford",
+    "description": "Ford is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Ford's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Ford best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Ford's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Ford is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Ford to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  },
+  {
+    "imagePath": "Shani.webp",
+    "name": "Shani",
+    "description": "Shani is a Free Fire hero with unique powers.",
+    "questions": [
+      {
+        "question": "What is Shani's main ability in Free Fire?",
+        "answer": "A",
+        "A": "Energy Surge",
+        "B": "Healing Wave",
+        "C": "Silent Strike",
+        "D": "Shield Mode"
+      },
+      {
+        "question": "Which type of combat suits Shani best?",
+        "answer": "C",
+        "A": "Sniping",
+        "B": "Support",
+        "C": "Close Combat",
+        "D": "Stealth Ops"
+      },
+      {
+        "question": "What special effect does Shani's ability create?",
+        "answer": "B",
+        "A": "Slows enemies",
+        "B": "Creates an energy field",
+        "C": "Heals allies",
+        "D": "Boosts jump height"
+      },
+      {
+        "question": "Shani is best known for their?",
+        "answer": "A",
+        "A": "Aggressive playstyle",
+        "B": "Defensive skill",
+        "C": "Team coordination",
+        "D": "Camouflage ability"
+      },
+      {
+        "question": "What motivates Shani to fight in Free Fire?",
+        "answer": "D",
+        "A": "Revenge",
+        "B": "Fame",
+        "C": "Money",
+        "D": "Freedom"
+      }
+    ]
+  }
+]

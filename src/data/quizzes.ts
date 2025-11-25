@@ -1,9 +1,16 @@
+import charactersQuiz from "./characters_quiz.json";
+import petsQuiz from "./pets_quiz.json";
+import weaponsQuiz from "./weapons_quiz.json";
+
+export type QuizCategory = "characters" | "pets" | "weapons";
+
 export interface Quiz {
   id: string;
   title: string;
   description: string;
   image: string;
   questions: Question[];
+  category: QuizCategory;
 }
 
 export interface Question {
@@ -13,119 +20,62 @@ export interface Question {
   correctAnswer: number;
 }
 
+type RawQuizEntry = {
+  imagePath?: string;
+  name: string;
+  description: string;
+  questions: Array<{
+    question: string;
+    answer: string;
+    A: string;
+    B: string;
+    C: string;
+    D: string;
+  }>;
+};
+
+const PLACEHOLDER_IMAGE = "/placeholder.svg";
+
+const slugify = (value: string) =>
+  value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)+/g, "");
+
+const getAnswerIndex = (letter: string) => {
+  const index = letter.trim().toUpperCase().charCodeAt(0) - 65;
+  return index >= 0 && index <= 3 ? index : 0;
+};
+
+const getImagePath = (imagePath: string | undefined, category: QuizCategory): string => {
+  if (!imagePath) {
+    return PLACEHOLDER_IMAGE;
+  }
+  // Images are stored in public/images/{category}/{imagePath}
+  // For Vite, public folder files are served from root
+  return `/images/${category}/${imagePath}`;
+};
+
+const fromJson = (entries: RawQuizEntry[], category: QuizCategory): Quiz[] =>
+  entries.map((entry) => {
+    const slug = slugify(entry.name);
+    return {
+      id: `${category}-${slug}`,
+      title: entry.name,
+      description: entry.description,
+      image: getImagePath(entry.imagePath, category),
+      category,
+      questions: entry.questions.map((question, index) => ({
+        id: `${category}-${slug}-${index + 1}`,
+        question: question.question,
+        options: [question.A, question.B, question.C, question.D],
+        correctAnswer: getAnswerIndex(question.answer),
+      })),
+    };
+  });
+
 export const quizzes: Quiz[] = [
-  {
-    id: "1",
-    title: "DJ Alok Master",
-    description: "Test your knowledge about DJ Alok's abilities and history",
-    image: "/src/assets/dj-character.jpg",
-    questions: [
-      {
-        id: "1",
-        question: "What is DJ Alok's special ability called?",
-        options: ["Drop the Beat", "Sonic Boom", "Bass Drop", "Music Wave"],
-        correctAnswer: 0,
-      },
-      {
-        id: "2",
-        question: "DJ Alok's ability creates a healing zone that increases ally movement speed by?",
-        options: ["5%", "10%", "15%", "20%"],
-        correctAnswer: 1,
-      },
-      {
-        id: "3",
-        question: "What is the duration of DJ Alok's ability at max level?",
-        options: ["5 seconds", "8 seconds", "10 seconds", "12 seconds"],
-        correctAnswer: 2,
-      },
-      {
-        id: "4",
-        question: "DJ Alok was introduced in Free Fire in which year?",
-        options: ["2018", "2019", "2020", "2021"],
-        correctAnswer: 1,
-      },
-      {
-        id: "5",
-        question: "What type of character is DJ Alok?",
-        options: ["Rusher", "Supporter", "Defender", "Sniper"],
-        correctAnswer: 1,
-      },
-    ],
-  },
-  {
-    id: "2",
-    title: "Sniper Expert",
-    description: "Master the art of long-range combat",
-    image: "/src/assets/sniper-character.jpg",
-    questions: [
-      {
-        id: "1",
-        question: "Which sniper rifle has the highest damage in Free Fire?",
-        options: ["AWM", "Kar98k", "M82B", "SVD"],
-        correctAnswer: 2,
-      },
-      {
-        id: "2",
-        question: "What is the effective range of AWM?",
-        options: ["50m", "75m", "90m", "100m"],
-        correctAnswer: 2,
-      },
-      {
-        id: "3",
-        question: "Which scope is best for long-range sniping?",
-        options: ["2x", "4x", "8x", "Red Dot"],
-        correctAnswer: 2,
-      },
-      {
-        id: "4",
-        question: "What attachment reduces sniper recoil the most?",
-        options: ["Foregrip", "Stock", "Muzzle", "Barrel"],
-        correctAnswer: 0,
-      },
-      {
-        id: "5",
-        question: "Which character ability helps with sniping accuracy?",
-        options: ["Moco", "Kelly", "Olivia", "Ford"],
-        correctAnswer: 0,
-      },
-    ],
-  },
-  {
-    id: "3",
-    title: "Assault Tactics",
-    description: "Prove your assault and combat strategy knowledge",
-    image: "/src/assets/assault-character.jpg",
-    questions: [
-      {
-        id: "1",
-        question: "Which assault rifle has the highest fire rate?",
-        options: ["M4A1", "AK47", "FAMAS", "GROZA"],
-        correctAnswer: 2,
-      },
-      {
-        id: "2",
-        question: "What is the magazine capacity of AK47 without extensions?",
-        options: ["25", "30", "35", "40"],
-        correctAnswer: 1,
-      },
-      {
-        id: "3",
-        question: "Which throwable deals the most damage?",
-        options: ["Frag Grenade", "Gloo Wall", "Smoke Grenade", "Flash"],
-        correctAnswer: 0,
-      },
-      {
-        id: "4",
-        question: "What does the EP (Extra Points) bar represent?",
-        options: ["Energy", "Armor", "Experience", "Extra Health"],
-        correctAnswer: 0,
-      },
-      {
-        id: "5",
-        question: "Maximum armor capacity in Free Fire is?",
-        options: ["100", "150", "200", "250"],
-        correctAnswer: 2,
-      },
-    ],
-  },
+  ...fromJson(charactersQuiz as RawQuizEntry[], "characters"),
+  ...fromJson(petsQuiz as RawQuizEntry[], "pets"),
+  ...fromJson(weaponsQuiz as RawQuizEntry[], "weapons"),
 ];

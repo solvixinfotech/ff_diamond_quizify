@@ -1,0 +1,1130 @@
+[
+  {
+    "imagePath": "Kactus.webp",
+    "name": "Kactus",
+    "description": "Kactus is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Kactus's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Kactus's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Kactus is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Kactus have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Kactus?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Fang.webp",
+    "name": "Fang",
+    "description": "Fang is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Fang's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Fang's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Fang is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Fang have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Fang?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Hoot.webp",
+    "name": "Hoot",
+    "description": "Hoot is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Hoot's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Hoot's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Hoot is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Hoot have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Hoot?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Finn.webp",
+    "name": "Finn",
+    "description": "Finn is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Finn's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Finn's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Finn is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Finn have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Finn?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Zasil.webp",
+    "name": "Zasil",
+    "description": "Zasil is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Zasil's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Zasil's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Zasil is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Zasil have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Zasil?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Arvon.webp",
+    "name": "Arvon",
+    "description": "Arvon is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Arvon's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Arvon's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Arvon is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Arvon have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Arvon?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Flash.webp",
+    "name": "Flash",
+    "description": "Flash is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Flash's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Flash's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Flash is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Flash have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Flash?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Yeti.webp",
+    "name": "Yeti",
+    "description": "Yeti is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Yeti's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Yeti's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Yeti is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Yeti have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Yeti?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Agent Hop.webp",
+    "name": "Agent Hop",
+    "description": "Agent Hop is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Agent Hop's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Agent Hop's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Agent Hop is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Agent Hop have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Agent Hop?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Sensei Tig.webp",
+    "name": "Sensei Tig",
+    "description": "Sensei Tig is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Sensei Tig's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Sensei Tig's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Sensei Tig is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Sensei Tig have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Sensei Tig?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Dr. Beanie.webp",
+    "name": "Dr. Beanie",
+    "description": "Dr. Beanie is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Dr. Beanie's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Dr. Beanie's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Dr. Beanie is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Dr. Beanie have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Dr. Beanie?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Moony.webp",
+    "name": "Moony",
+    "description": "Moony is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Moony's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Moony's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Moony is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Moony have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Moony?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Dreki.webp",
+    "name": "Dreki",
+    "description": "Dreki is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Dreki's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Dreki's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Dreki is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Dreki have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Dreki?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Beaston.webp",
+    "name": "Beaston",
+    "description": "Beaston is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Beaston's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Beaston's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Beaston is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Beaston have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Beaston?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Rockie.webp",
+    "name": "Rockie",
+    "description": "Rockie is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Rockie's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Rockie's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Rockie is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Rockie have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Rockie?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Mr.Waggor.webp",
+    "name": "Mr.Waggor",
+    "description": "Mr.Waggor is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Mr.Waggor's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Mr.Waggor's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Mr.Waggor is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Mr.Waggor have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Mr.Waggor?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Falco.webp",
+    "name": "Falco",
+    "description": "Falco is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Falco's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Falco's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Falco is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Falco have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Falco?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Ottero.webp",
+    "name": "Ottero",
+    "description": "Ottero is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Ottero's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Ottero's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Ottero is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Ottero have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Ottero?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Robo.webp",
+    "name": "Robo",
+    "description": "Robo is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Robo's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Robo's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Robo is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Robo have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Robo?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Spirit Fox.webp",
+    "name": "Spirit Fox",
+    "description": "Spirit Fox is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Spirit Fox's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Spirit Fox's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Spirit Fox is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Spirit Fox have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Spirit Fox?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Shiba.webp",
+    "name": "Shiba",
+    "description": "Shiba is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Shiba's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Shiba's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Shiba is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Shiba have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Shiba?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Defective Panda.webp",
+    "name": "Defective Panda",
+    "description": "Defective Panda is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Defective Panda's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Defective Panda's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Defective Panda is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Defective Panda have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Defective Panda?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Night Panther.webp",
+    "name": "Night Panther",
+    "description": "Night Panther is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Night Panther's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Night Panther's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Night Panther is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Night Panther have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Night Panther?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  },
+  {
+    "imagePath": "Pug.webp",
+    "name": "Pug",
+    "description": "Pug is a Free Fire pet with a special ability.",
+    "questions": [
+      {
+        "question": "What is Pug's unique skill in Free Fire?",
+        "answer": "B",
+        "A": "Healing Pulse",
+        "B": "Energy Boost",
+        "C": "Stealth Field",
+        "D": "Armor Shield"
+      },
+      {
+        "question": "How does Pug's skill help the player?",
+        "answer": "C",
+        "A": "Increases armor level",
+        "B": "Boosts running speed",
+        "C": "Restores EP over time",
+        "D": "Enhances weapon range"
+      },
+      {
+        "question": "Pug is most effective in which situation?",
+        "answer": "A",
+        "A": "During close combat",
+        "B": "While looting items",
+        "C": "When sniping",
+        "D": "Inside safe zones"
+      },
+      {
+        "question": "What kind of personality does Pug have?",
+        "answer": "D",
+        "A": "Calm and quiet",
+        "B": "Aggressive and bold",
+        "C": "Lazy and funny",
+        "D": "Loyal and energetic"
+      },
+      {
+        "question": "Which color best represents Pug?",
+        "answer": "A",
+        "A": "Blue",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      }
+    ]
+  }
+]
