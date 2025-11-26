@@ -1,0 +1,1009 @@
+[
+  {
+    "name": "Kactus",
+    "title": "The Cactus Companion",
+    "description": "A loyal desert companion with the power to restore energy. Kactus helps players maintain their EP levels during intense battles, making it essential for aggressive gameplay.",
+    "type": "Support / Energy Restoration",
+    "skill": {
+      "name": "Energy Boost",
+      "type": "Passive",
+      "details": {
+        "ep_restoration_per_second": 4,
+        "activation_condition": "When EP is below 100",
+        "max_ep_bonus": 50,
+        "cooldown_seconds": 0,
+        "special_effects": [
+          "Automatically restores EP over time",
+          "No manual activation required",
+          "Works continuously during combat"
+        ]
+      }
+    },
+    "strengths": [
+      "Constant EP restoration without player input",
+      "Essential for aggressive playstyles",
+      "No cooldown or activation needed",
+      "Works passively in all situations"
+    ],
+    "weaknesses": [
+      "EP restoration is gradual, not instant",
+      "Most effective when EP is low",
+      "Doesn't provide immediate healing"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Alok", "Kelly", "Jota"],
+        "reason": "Increases movement speed and sustain, allowing aggressive EP-dependent plays."
+      },
+      {
+        "combo": ["Hayato", "Miguel", "Chrono"],
+        "reason": "Complements aggressive abilities that consume EP frequently."
+      }
+    ],
+    "release": {
+      "update": "OB20",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Fang",
+    "title": "The Loyal Protector",
+    "description": "A fierce guardian pet that provides protective abilities. Fang enhances the player's defensive capabilities and helps survive critical moments in battle.",
+    "type": "Defense / Protection",
+    "skill": {
+      "name": "Protective Shield",
+      "type": "Passive",
+      "details": {
+        "armor_damage_reduction": 8,
+        "activation_threshold": "When health drops below 50%",
+        "duration_seconds": 10,
+        "cooldown_seconds": 90,
+        "effects": [
+          "Reduces incoming armor damage when health is low",
+          "Activates automatically in critical situations",
+          "Provides temporary defensive boost"
+        ]
+      }
+    },
+    "strengths": [
+      "Automatic activation when needed most",
+      "Reduces critical damage to armor",
+      "Helps survive close encounters"
+    ],
+    "weaknesses": [
+      "Only activates at low health",
+      "Long cooldown period",
+      "Limited to armor damage reduction only"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Andrew", "Rafael", "Joseph"],
+        "reason": "Enhances overall survivability with defensive character abilities."
+      },
+      {
+        "combo": ["A124", "Ford", "Notora"],
+        "reason": "Complements healing and recovery-based strategies."
+      }
+    ],
+    "release": {
+      "update": "OB22",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Hoot",
+    "title": "The Wise Owl",
+    "description": "An intelligent owl companion that provides tactical advantages. Hoot offers enhanced vision and awareness to help players track enemies and navigate the battlefield.",
+    "type": "Reconnaissance / Vision",
+    "skill": {
+      "name": "Night Vision",
+      "type": "Passive",
+      "details": {
+        "vision_range_bonus": 15,
+        "enemy_detection_radius": 20,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Increases vision range in all conditions",
+          "Better enemy detection capabilities",
+          "Improved navigation in low visibility"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active passive ability",
+      "Better enemy awareness",
+      "Improved battlefield navigation"
+    ],
+    "weaknesses": [
+      "Utility-focused, no combat bonuses",
+      "Requires player awareness to utilize",
+      "Minimal direct combat impact"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Laura", "Clu"],
+        "reason": "Combines with tracking and accuracy characters for maximum tactical advantage."
+      },
+      {
+        "combo": ["Dasha", "Alvaro", "Tatsuya"],
+        "reason": "Enhances movement and positioning abilities."
+      }
+    ],
+    "release": {
+      "update": "OB25",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Finn",
+    "title": "The Aquatic Helper",
+    "description": "A friendly aquatic companion that aids in survival. Finn helps players recover faster and provides swimming advantages in water-based combat situations.",
+    "type": "Support / Recovery",
+    "skill": {
+      "name": "Aquatic Recovery",
+      "type": "Passive",
+      "details": {
+        "swimming_speed_bonus": 12,
+        "water_recovery_rate": 8,
+        "activation_condition": "In water or near water",
+        "special_effects": [
+          "Faster swimming speed",
+          "Enhanced recovery in water",
+          "Better water-based mobility"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent for water-based maps",
+      "Faster movement in aquatic environments",
+      "Enhanced recovery capabilities"
+    ],
+    "weaknesses": [
+      "Limited effectiveness on land",
+      "Map-dependent utility",
+      "Situational advantage only"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Maro", "Hayato", "Nairi"],
+        "reason": "Complements long-range and survival-focused character abilities."
+      }
+    ],
+    "release": {
+      "update": "OB28",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Zasil",
+    "title": "The Speedster",
+    "description": "A lightning-fast pet that enhances player mobility. Zasil provides movement speed bonuses and helps players traverse the battlefield quickly.",
+    "type": "Mobility / Speed",
+    "skill": {
+      "name": "Speed Boost",
+      "type": "Passive",
+      "details": {
+        "movement_speed_bonus": 10,
+        "sprint_duration_increase": 20,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Constant movement speed increase",
+          "Longer sprint duration",
+          "Better mobility in all situations"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active speed bonus",
+      "Better positioning capabilities",
+      "Improved escape and chase potential"
+    ],
+    "weaknesses": [
+      "No direct combat advantages",
+      "Speed bonus is moderate",
+      "Requires good positioning skills"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Alok", "Joseph"],
+        "reason": "Stacks with movement speed abilities for maximum mobility."
+      },
+      {
+        "combo": ["Jota", "Miguel", "Homer"],
+        "reason": "Complements aggressive rushing strategies."
+      }
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Arvon",
+    "title": "The Guardian Spirit",
+    "description": "A protective spirit pet that shields players from harm. Arvon provides damage reduction and helps players survive longer in intense firefights.",
+    "type": "Defense / Damage Reduction",
+    "skill": {
+      "name": "Protective Aura",
+      "type": "Passive",
+      "details": {
+        "damage_reduction_percentage": 5,
+        "health_threshold": "Below 60% HP",
+        "duration_seconds": 8,
+        "cooldown_seconds": 120,
+        "effects": [
+          "Reduces incoming damage when health is low",
+          "Automatic activation",
+          "Provides temporary protection"
+        ]
+      }
+    },
+    "strengths": [
+      "Damage reduction when needed",
+      "Automatic activation",
+      "Helps survive critical moments"
+    ],
+    "weaknesses": [
+      "Only activates at low health",
+      "Very long cooldown",
+      "Moderate damage reduction"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Andrew", "A124", "Rafael"],
+        "reason": "Combines with defensive characters for maximum survivability."
+      }
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Flash",
+    "title": "The Quick Healer",
+    "description": "A rapid recovery pet that speeds up healing processes. Flash reduces the time needed for medkit usage and improves overall recovery speed.",
+    "type": "Support / Healing",
+    "skill": {
+      "name": "Rapid Recovery",
+      "type": "Passive",
+      "details": {
+        "medkit_usage_speed_increase": 25,
+        "healing_item_effectiveness": 10,
+        "activation_condition": "When using healing items",
+        "special_effects": [
+          "Faster medkit usage",
+          "More effective healing items",
+          "Quicker recovery in combat"
+        ]
+      }
+    },
+    "strengths": [
+      "Faster healing in combat",
+      "More efficient medkit usage",
+      "Better survival in extended fights"
+    ],
+    "weaknesses": [
+      "Only works with healing items",
+      "No passive healing",
+      "Requires item management"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Notora", "A124", "Joseph"],
+        "reason": "Complements healing and recovery-focused character abilities."
+      },
+      {
+        "combo": ["Alok", "Ford", "Kapella"],
+        "reason": "Enhances overall sustain and recovery strategies."
+      }
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Yeti",
+    "title": "The Frost Guardian",
+    "description": "A powerful frost companion that provides defensive advantages. Yeti helps players resist damage and survive harsh combat situations with its protective abilities.",
+    "type": "Defense / Resistance",
+    "skill": {
+      "name": "Frost Armor",
+      "type": "Passive",
+      "details": {
+        "damage_resistance": 6,
+        "activation_condition": "Always active",
+        "max_health_bonus": 20,
+        "special_effects": [
+          "Constant damage resistance",
+          "Increased maximum health",
+          "Better overall survivability"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active protection",
+      "Health bonus for tankiness",
+      "Consistent defensive advantage"
+    ],
+    "weaknesses": [
+      "Moderate defensive bonuses",
+      "No offensive capabilities",
+      "Utility-focused only"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Andrew", "Rafael", "A124"],
+        "reason": "Creates a tanky build with maximum survivability."
+      },
+      {
+        "combo": ["Maro", "Kapella", "Notora"],
+        "reason": "Enhances support and defensive playstyles."
+      }
+    ],
+    "release": {
+      "update": "OB38",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Agent Hop",
+    "title": "The Tactical Agent",
+    "description": "A strategic pet that provides tactical advantages. Agent Hop enhances player positioning and provides information about enemy movements.",
+    "type": "Reconnaissance / Tactical",
+    "skill": {
+      "name": "Tactical Awareness",
+      "type": "Passive",
+      "details": {
+        "enemy_marker_duration": 3,
+        "detection_range": 25,
+        "activation_condition": "When spotting enemies",
+        "special_effects": [
+          "Marks enemies for longer duration",
+          "Better enemy tracking",
+          "Improved tactical awareness"
+        ]
+      }
+    },
+    "strengths": [
+      "Better enemy tracking",
+      "Improved tactical positioning",
+      "Enhanced awareness"
+    ],
+    "weaknesses": [
+      "Requires enemy spotting",
+      "No direct combat bonuses",
+      "Information-based utility only"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Clu", "Shani"],
+        "reason": "Maximizes tracking and information gathering capabilities."
+      }
+    ],
+    "release": {
+      "update": "OB40",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Sensei Tig",
+    "title": "The Master Teacher",
+    "description": "A wise master pet that teaches improved weapon handling. Sensei Tig provides weapon-related bonuses and helps players master their equipment.",
+    "type": "Combat / Weapon Mastery",
+    "skill": {
+      "name": "Weapon Mastery",
+      "type": "Passive",
+      "details": {
+        "weapon_switch_speed": 15,
+        "reload_speed_bonus": 8,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Faster weapon switching",
+          "Quicker reload times",
+          "Better weapon handling"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active weapon bonuses",
+      "Better weapon management",
+      "Improved combat fluidity"
+    ],
+    "weaknesses": [
+      "Moderate bonuses",
+      "No damage increases",
+      "Skill-dependent advantages"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Dasha", "Laura", "Joseph"],
+        "reason": "Complements weapon handling and accuracy characters."
+      },
+      {
+        "combo": ["Nikita", "Maro", "Tatsuya"],
+        "reason": "Enhances fire rate and weapon performance."
+      }
+    ],
+    "release": {
+      "update": "OB42",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Dr. Beanie",
+    "title": "The Medical Expert",
+    "description": "A medical expert pet that enhances healing capabilities. Dr. Beanie provides improved healing effects and faster recovery rates for players.",
+    "type": "Support / Medical",
+    "skill": {
+      "name": "Medical Expertise",
+      "type": "Passive",
+      "details": {
+        "healing_effectiveness_bonus": 15,
+        "medkit_cooldown_reduction": 20,
+        "activation_condition": "When using healing items",
+        "effects": [
+          "More effective healing items",
+          "Faster medkit availability",
+          "Better overall recovery"
+        ]
+      }
+    },
+    "strengths": [
+      "Enhanced healing effectiveness",
+      "Faster recovery cycles",
+      "Better sustain in battles"
+    ],
+    "weaknesses": [
+      "Requires healing items",
+      "No passive healing",
+      "Item-dependent"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["A124", "Notora", "Ford"],
+        "reason": "Creates maximum healing and recovery potential."
+      },
+      {
+        "combo": ["Alok", "Kapella", "Joseph"],
+        "reason": "Enhances overall sustain strategies."
+      }
+    ],
+    "release": {
+      "update": "OB44",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Moony",
+    "title": "The Night Companion",
+    "description": "A nocturnal pet that provides advantages during night battles. Moony enhances player capabilities in low-light conditions and provides stealth bonuses.",
+    "type": "Stealth / Night Operations",
+    "skill": {
+      "name": "Night Vision",
+      "type": "Passive",
+      "details": {
+        "night_vision_range": 20,
+        "stealth_movement_bonus": 8,
+        "activation_condition": "During night or low light",
+        "special_effects": [
+          "Better vision in darkness",
+          "Improved stealth movement",
+          "Enhanced night combat capabilities"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent for night gameplay",
+      "Better stealth capabilities",
+      "Enhanced vision in darkness"
+    ],
+    "weaknesses": [
+      "Daytime-limited effectiveness",
+      "Map and time-dependent",
+      "Situational advantage"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Shani", "Nairi", "Ford"],
+        "reason": "Complements stealth and survival-focused characters."
+      }
+    ],
+    "release": {
+      "update": "OB46",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Dreki",
+    "title": "The Dragon Spirit",
+    "description": "A powerful dragon pet that provides combat advantages. Dreki enhances player damage output and provides offensive bonuses during combat.",
+    "type": "Offensive / Damage",
+    "skill": {
+      "name": "Dragon's Wrath",
+      "type": "Passive",
+      "details": {
+        "damage_increase_percentage": 4,
+        "headshot_damage_bonus": 6,
+        "activation_condition": "During combat",
+        "effects": [
+          "Increased overall damage",
+          "Bonus headshot damage",
+          "Better offensive capabilities"
+        ]
+      }
+    },
+    "strengths": [
+      "Damage increase bonus",
+      "Headshot damage enhancement",
+      "Offensive combat advantages"
+    ],
+    "weaknesses": [
+      "Moderate damage bonuses",
+      "No defensive capabilities",
+      "Requires good aim"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Laura", "Wolfrahh", "Clu"],
+        "reason": "Maximizes damage output with accuracy and headshot characters."
+      },
+      {
+        "combo": ["Maro", "Dasha", "Tatsuya"],
+        "reason": "Enhances long-range damage potential."
+      }
+    ],
+    "release": {
+      "update": "OB48",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Beaston",
+    "title": "The Wild Beast",
+    "description": "An aggressive beast pet that enhances combat performance. Beaston provides damage bonuses and helps players dominate in close-range engagements.",
+    "type": "Offensive / Close Combat",
+    "skill": {
+      "name": "Beast Mode",
+      "type": "Passive",
+      "details": {
+        "close_range_damage_bonus": 8,
+        "melee_damage_increase": 12,
+        "activation_range": "Within 10 meters",
+        "special_effects": [
+          "Bonus damage in close range",
+          "Enhanced melee damage",
+          "Better close combat performance"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong close-range bonus",
+      "Enhanced melee damage",
+      "Excellent for aggressive plays"
+    ],
+    "weaknesses": [
+      "Range-limited effectiveness",
+      "Requires close engagement",
+      "Less useful for long-range"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Jota", "Hayato", "Miguel"],
+        "reason": "Perfect for aggressive close-range combat strategies."
+      },
+      {
+        "combo": ["Kelly", "Alok", "Homer"],
+        "reason": "Enhances rushing and close combat abilities."
+      }
+    ],
+    "release": {
+      "update": "OB50",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Rockie",
+    "title": "The Steady Companion",
+    "description": "A reliable pet that provides stability and consistency. Rockie offers balanced bonuses across various combat situations.",
+    "type": "Balanced / Versatile",
+    "skill": {
+      "name": "Steady Support",
+      "type": "Passive",
+      "details": {
+        "all_stats_bonus": 3,
+        "stability_increase": 5,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Minor bonus to all stats",
+          "Improved stability",
+          "Versatile support"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active bonuses",
+      "Balanced stat improvements",
+      "Versatile utility"
+    ],
+    "weaknesses": [
+      "Small individual bonuses",
+      "No specialized advantage",
+      "Jack-of-all-trades approach"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Any balanced character lineup"],
+        "reason": "Provides consistent support for any playstyle."
+      }
+    ],
+    "release": {
+      "update": "OB52",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Mr.Waggor",
+    "title": "The Lucky Charm",
+    "description": "A lucky pet that provides random beneficial effects. Mr.Waggor occasionally grants unexpected bonuses during combat.",
+    "type": "Utility / Luck",
+    "skill": {
+      "name": "Lucky Charm",
+      "type": "Passive",
+      "details": {
+        "random_bonus_chance": 10,
+        "bonus_types": ["Ammo", "Medkit", "Armor"],
+        "cooldown_seconds": 60,
+        "effects": [
+          "Chance to find extra ammo",
+          "Occasional medkit discovery",
+          "Random armor bonuses"
+        ]
+      }
+    },
+    "strengths": [
+      "Surprise bonuses",
+      "Resource advantages",
+      "Helpful in long games"
+    ],
+    "weaknesses": [
+      "RNG-dependent",
+      "Unreliable",
+      "No consistent advantages"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Versatile character lineups"],
+        "reason": "Provides occasional support for any strategy."
+      }
+    ],
+    "release": {
+      "update": "OB54",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Falco",
+    "title": "The Sky Scout",
+    "description": "An aerial scout pet that provides battlefield awareness. Falco enhances player vision and helps detect enemies from above.",
+    "type": "Reconnaissance / Aerial",
+    "skill": {
+      "name": "Aerial Recon",
+      "type": "Passive",
+      "details": {
+        "vision_range_bonus": 18,
+        "enemy_marker_radius": 22,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Extended vision range",
+          "Better enemy detection",
+          "Improved battlefield awareness"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active vision bonus",
+      "Better enemy detection",
+      "Tactical advantages"
+    ],
+    "weaknesses": [
+      "No combat bonuses",
+      "Information-only utility",
+      "Requires good game sense"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Clu", "Laura"],
+        "reason": "Maximizes tracking and information gathering."
+      }
+    ],
+    "release": {
+      "update": "OB56",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Ottero",
+    "title": "The Water Helper",
+    "description": "An aquatic pet that excels in water-based combat. Ottero provides swimming advantages and water-related bonuses.",
+    "type": "Aquatic / Mobility",
+    "skill": {
+      "name": "Aquatic Mastery",
+      "type": "Passive",
+      "details": {
+        "swimming_speed_bonus": 15,
+        "underwater_breath_bonus": 20,
+        "activation_condition": "In water",
+        "special_effects": [
+          "Faster swimming",
+          "Longer underwater breathing",
+          "Better water mobility"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent water mobility",
+      "Better underwater capabilities",
+      "Map-specific advantages"
+    ],
+    "weaknesses": [
+      "Land-limited effectiveness",
+      "Situational",
+      "Map-dependent"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Maro", "Nairi", "Hayato"],
+        "reason": "Complements survival and positioning characters."
+      }
+    ],
+    "release": {
+      "update": "OB58",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Robo",
+    "title": "The Mechanical Helper",
+    "description": "A robotic pet that provides technological advantages. Robo enhances weapon performance and provides combat bonuses.",
+    "type": "Combat / Technology",
+    "skill": {
+      "name": "Tech Enhancement",
+      "type": "Passive",
+      "details": {
+        "weapon_accuracy_bonus": 5,
+        "recoil_reduction": 8,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Improved weapon accuracy",
+          "Reduced recoil",
+          "Better weapon control"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active accuracy bonus",
+      "Better weapon control",
+      "Improved combat performance"
+    ],
+    "weaknesses": [
+      "Moderate bonuses",
+      "No damage increases",
+      "Skill-dependent"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Dasha", "Laura", "Tatsuya"],
+        "reason": "Maximizes accuracy and weapon handling capabilities."
+      }
+    ],
+    "release": {
+      "update": "OB60",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Spirit Fox",
+    "title": "The Mystical Guide",
+    "description": "A mystical spirit pet that provides magical enhancements. Spirit Fox offers unique bonuses and helps players in various combat situations.",
+    "type": "Mystical / Versatile",
+    "skill": {
+      "name": "Spirit Blessing",
+      "type": "Passive",
+      "details": {
+        "movement_speed_bonus": 6,
+        "damage_resistance": 4,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Balanced speed and defense",
+          "Versatile combat support",
+          "Mystical enhancements"
+        ]
+      }
+    },
+    "strengths": [
+      "Balanced bonuses",
+      "Always active",
+      "Versatile utility"
+    ],
+    "weaknesses": [
+      "Moderate individual bonuses",
+      "No specialization",
+      "Balanced but not exceptional"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Versatile character combinations"],
+        "reason": "Provides balanced support for any playstyle."
+      }
+    ],
+    "release": {
+      "update": "OB62",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Shiba",
+    "title": "The Loyal Friend",
+    "description": "A faithful companion that provides consistent support. Shiba offers reliable bonuses and helps players throughout the match.",
+    "type": "Support / Loyalty",
+    "skill": {
+      "name": "Loyal Support",
+      "type": "Passive",
+      "details": {
+        "ep_regeneration_bonus": 3,
+        "health_regeneration_bonus": 2,
+        "activation_condition": "Always active",
+        "special_effects": [
+          "Constant EP regeneration",
+          "Minor health regeneration",
+          "Reliable support"
+        ]
+      }
+    },
+    "strengths": [
+      "Always active regeneration",
+      "Constant support",
+      "Reliable bonuses"
+    ],
+    "weaknesses": [
+      "Small regeneration rates",
+      "Gradual effects",
+      "No instant benefits"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Alok", "A124", "Notora"],
+        "reason": "Enhances overall sustain and recovery strategies."
+      }
+    ],
+    "release": {
+      "update": "OB64",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Defective Panda",
+    "title": "The Unpredictable One",
+    "description": "An unpredictable pet that provides random but sometimes powerful effects. Defective Panda offers unique advantages through its quirky behavior.",
+    "type": "Unpredictable / Random",
+    "skill": {
+      "name": "Random Boost",
+      "type": "Passive",
+      "details": {
+        "random_effect_chance": 8,
+        "possible_effects": ["Speed", "Damage", "Defense", "Healing"],
+        "effect_duration": 5,
+        "cooldown_seconds": 90,
+        "special_effects": [
+          "Random beneficial effects",
+          "Unpredictable bonuses",
+          "Occasional powerful boosts"
+        ]
+      }
+    },
+    "strengths": [
+      "Potential powerful effects",
+      "Variety of bonuses",
+      "Surprise advantages"
+    ],
+    "weaknesses": [
+      "Completely RNG-dependent",
+      "Unreliable",
+      "No consistency"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Versatile lineups"],
+        "reason": "Random effects can benefit any strategy."
+      }
+    ],
+    "release": {
+      "update": "OB66",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Night Panther",
+    "title": "The Shadow Hunter",
+    "description": "A stealthy panther pet that excels in covert operations. Night Panther provides stealth advantages and helps players move undetected.",
+    "type": "Stealth / Assassination",
+    "skill": {
+      "name": "Shadow Stalk",
+      "type": "Passive",
+      "details": {
+        "movement_noise_reduction": 12,
+        "stealth_duration_bonus": 4,
+        "activation_condition": "When crouching or walking",
+        "effects": [
+          "Reduced movement noise",
+          "Better stealth capabilities",
+          "Enhanced covert operations"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent stealth capabilities",
+      "Better positioning",
+      "Surprise attack potential"
+    ],
+    "weaknesses": [
+      "Limited in direct combat",
+      "Requires stealth playstyle",
+      "No direct combat bonuses"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Shani", "Nairi", "Ford"],
+        "reason": "Perfect for stealth and survival-focused strategies."
+      }
+    ],
+    "release": {
+      "update": "OB68",
+      "type": "Pet Release"
+    }
+  },
+  {
+    "name": "Pug",
+    "title": "The Courageous Companion",
+    "description": "A brave and loyal pet that provides defensive support. Pug helps players survive tough situations with its protective abilities.",
+    "type": "Defense / Courage",
+    "skill": {
+      "name": "Courageous Shield",
+      "type": "Passive",
+      "details": {
+        "damage_reduction_percentage": 5,
+        "health_threshold": "Below 40% HP",
+        "duration_seconds": 12,
+        "cooldown_seconds": 150,
+        "special_effects": [
+          "Damage reduction in critical situations",
+          "Longer duration protection",
+          "Automatic activation"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong damage reduction",
+      "Longer protection duration",
+      "Automatic critical situation protection"
+    ],
+    "weaknesses": [
+      "Very long cooldown",
+      "Only at very low health",
+      "Infrequent activation"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Andrew", "Rafael", "A124"],
+        "reason": "Creates maximum defensive capabilities for survival."
+      }
+    ],
+    "release": {
+      "update": "OB70",
+      "type": "Pet Release"
+    }
+  }
+]
+

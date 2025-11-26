@@ -1,6 +1,9 @@
 import charactersQuiz from "./characters_quiz.json";
 import petsQuiz from "./pets_quiz.json";
 import weaponsQuiz from "./weapons_quiz.json";
+import charactersDetails from "./characters_details.json";
+import petsDetails from "./pets_details.json";
+import weaponsDetails from "./waepons_details.json";
 
 export type QuizCategory = "characters" | "pets" | "weapons";
 
@@ -79,3 +82,53 @@ export const quizzes: Quiz[] = [
   ...fromJson(petsQuiz as RawQuizEntry[], "pets"),
   ...fromJson(weaponsQuiz as RawQuizEntry[], "weapons"),
 ];
+
+// Export details data
+export type ItemDetails = {
+  name: string;
+  title: string;
+  description: string;
+  role?: string;
+  type?: string;
+  ability?: {
+    name: string;
+    type: string;
+    details: any;
+  };
+  skill?: {
+    name: string;
+    type: string;
+    details: any;
+  };
+  weapon_type?: string;
+  damage?: number;
+  fire_rate?: number;
+  range?: string;
+  magazine_size?: number | string;
+  reload_time?: number;
+  healing_per_second?: number;
+  special_features?: string[];
+  strengths?: string[];
+  weaknesses?: string[];
+  best_for?: string[];
+  best_combinations?: Array<{
+    combo: string[];
+    reason: string;
+  }>;
+  tips?: string[];
+  release: {
+    update: string;
+    type: string;
+  };
+};
+
+const allDetails: Record<QuizCategory, ItemDetails[]> = {
+  characters: charactersDetails as ItemDetails[],
+  pets: petsDetails as ItemDetails[],
+  weapons: weaponsDetails as ItemDetails[],
+};
+
+export const getItemDetails = (category: QuizCategory, name: string): ItemDetails | undefined => {
+  const categoryDetails = allDetails[category];
+  return categoryDetails.find((item) => slugify(item.name) === slugify(name));
+};

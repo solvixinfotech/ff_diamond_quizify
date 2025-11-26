@@ -1,0 +1,2890 @@
+[
+  {
+    "name": "Gloo Melter",
+    "title": "The Cover Destroyer",
+    "description": "A specialized weapon designed to melt through Gloo Walls and other cover. The Gloo Melter is essential for breaking enemy defenses and forcing them out of position.",
+    "type": "Special / Anti-Cover",
+    "weapon_type": "Energy Weapon",
+    "damage": 28,
+    "fire_rate": 60,
+    "range": "Medium to Long",
+    "magazine_size": 20,
+    "reload_time": 2.5,
+    "special_features": [
+      "Melts Gloo Walls instantly",
+      "Area of effect damage",
+      "High damage to structures",
+      "Effective at medium range"
+    ],
+    "best_for": [
+      "Breaking enemy cover",
+      "Area denial",
+      "Forcing enemies out of position",
+      "Support role in team fights"
+    ],
+    "weaknesses": [
+      "Limited damage to players compared to standard weapons",
+      "Uses special ammo",
+      "Slower fire rate than assault rifles"
+    ],
+    "tips": [
+      "Use to destroy Gloo Walls before engaging",
+      "Pair with teammates for maximum effectiveness",
+      "Best used in coordinated team attacks",
+      "Keep distance while using"
+    ],
+    "release": {
+      "update": "OB40",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Shield Gun",
+    "title": "The Protector",
+    "description": "A unique weapon that fires protective shields. The Shield Gun provides both offensive and defensive capabilities, making it versatile in various combat situations.",
+    "type": "Special / Utility",
+    "weapon_type": "Shield Launcher",
+    "damage": 35,
+    "fire_rate": 45,
+    "range": "Medium",
+    "magazine_size": 15,
+    "reload_time": 3.0,
+    "special_features": [
+      "Creates deployable shields",
+      "Can provide cover while attacking",
+      "Dual-purpose weapon",
+      "Good for defensive plays"
+    ],
+    "best_for": [
+      "Creating instant cover",
+      "Defensive gameplay",
+      "Supporting teammates",
+      "Tactical positioning"
+    ],
+    "weaknesses": [
+      "Lower DPS than standard weapons",
+      "Shields can be destroyed",
+      "Requires careful positioning"
+    ],
+    "tips": [
+      "Use shields to create angles",
+      "Combine with Gloo Walls for maximum protection",
+      "Support teammates with shield placement",
+      "Don't rely solely on this weapon for damage"
+    ],
+    "release": {
+      "update": "OB38",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Treatment Laser Gun",
+    "title": "The Medic's Choice",
+    "description": "A healing weapon that restores health to teammates. The Treatment Laser Gun is essential for support players who want to keep their team alive during intense battles.",
+    "type": "Support / Healing",
+    "weapon_type": "Medical Device",
+    "damage": 0,
+    "healing_per_second": 15,
+    "range": "Medium",
+    "magazine_size": "Infinite",
+    "reload_time": 0,
+    "special_features": [
+      "Heals teammates over time",
+      "No ammo consumption",
+      "Can heal multiple targets",
+      "Essential for support role"
+    ],
+    "best_for": [
+      "Supporting teammates",
+      "Keeping team alive",
+      "Sustained team fights",
+      "Squad coordination"
+    ],
+    "weaknesses": [
+      "No offensive capabilities",
+      "Cannot heal yourself",
+      "Requires teammates nearby",
+      "Vulnerable while healing"
+    ],
+    "tips": [
+      "Stay behind teammates while healing",
+      "Prioritize low-health allies",
+      "Switch to secondary weapon when needed",
+      "Coordinate with team for maximum effectiveness"
+    ],
+    "release": {
+      "update": "OB36",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Trogon",
+    "title": "The Precision Beast",
+    "description": "A powerful assault rifle with exceptional damage and accuracy. The Trogon is one of the most versatile and reliable weapons in Free Fire, suitable for all combat ranges.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 58,
+    "fire_rate": 56,
+    "range": "Long",
+    "magazine_size": 30,
+    "reload_time": 2.3,
+    "special_features": [
+      "High damage output",
+      "Excellent accuracy",
+      "Low recoil",
+      "Good range"
+    ],
+    "best_for": [
+      "All combat ranges",
+      "Versatile gameplay",
+      "Medium to long range engagements",
+      "Balanced playstyle"
+    ],
+    "weaknesses": [
+      "Moderate fire rate",
+      "Requires good recoil control",
+      "Less effective in close quarters"
+    ],
+    "tips": [
+      "Tap fire for better accuracy at range",
+      "Use attachments for recoil control",
+      "Excellent for mid-range combat",
+      "Pair with SMG for close range"
+    ],
+    "release": {
+      "update": "OB44",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Vsk94",
+    "title": "The Marksman",
+    "description": "A semi-automatic sniper rifle with high damage and decent fire rate. The VSK94 bridges the gap between assault rifles and bolt-action snipers.",
+    "type": "Sniper Rifle",
+    "weapon_type": "DMR",
+    "damage": 82,
+    "fire_rate": 35,
+    "range": "Very Long",
+    "magazine_size": 10,
+    "reload_time": 2.8,
+    "special_features": [
+      "High single-shot damage",
+      "Semi-automatic",
+      "Good for long-range",
+      "Can use extended magazines"
+    ],
+    "best_for": [
+      "Long-range engagements",
+      "Marksman role",
+      "Single-shot precision",
+      "Medium to long range"
+    ],
+    "weaknesses": [
+      "Lower fire rate than ARs",
+      "Small magazine size",
+      "Requires precise aiming",
+      "Slow rate of fire"
+    ],
+    "tips": [
+      "Aim for headshots for maximum damage",
+      "Use in semi-automatic mode",
+      "Pair with SMG for close range",
+      "Take time between shots for accuracy"
+    ],
+    "release": {
+      "update": "OB42",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Fgl-24",
+    "title": "The Launcher",
+    "description": "A grenade launcher that fires explosive projectiles. The FGL-24 is devastating against groups of enemies and structures.",
+    "type": "Explosive / Launcher",
+    "weapon_type": "Grenade Launcher",
+    "damage": 100,
+    "fire_rate": 8,
+    "range": "Medium to Long",
+    "magazine_size": 1,
+    "reload_time": 3.5,
+    "special_features": [
+      "Area of effect damage",
+      "Can destroy Gloo Walls",
+      "High single-shot damage",
+      "Explosive radius"
+    ],
+    "best_for": [
+      "Area denial",
+      "Destroying cover",
+      "Group engagements",
+      "Finishing wounded enemies"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Single shot reload",
+      "Can damage yourself",
+      "Projectile travel time"
+    ],
+    "tips": [
+      "Aim for ground near enemies",
+      "Use for area denial",
+      "Be careful of close range",
+      "Excellent for finishing enemies behind cover"
+    ],
+    "release": {
+      "update": "OB40",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M590",
+    "title": "The Close Quarter Beast",
+    "description": "A pump-action shotgun with devastating close-range damage. The M590 is deadly in close quarters but loses effectiveness at distance.",
+    "type": "Shotgun",
+    "weapon_type": "Pump Shotgun",
+    "damage": 100,
+    "fire_rate": 28,
+    "range": "Very Short",
+    "magazine_size": 5,
+    "reload_time": 3.0,
+    "special_features": [
+      "Extremely high close-range damage",
+      "One-shot potential",
+      "Multiple pellets per shot",
+      "High damage per shot"
+    ],
+    "best_for": [
+      "Close quarters combat",
+      "Indoor fights",
+      "Ambushing enemies",
+      "Finishing wounded enemies"
+    ],
+    "weaknesses": [
+      "Very limited range",
+      "Slow fire rate",
+      "Small magazine",
+      "Long reload time"
+    ],
+    "tips": [
+      "Get as close as possible",
+      "Aim for center mass or head",
+      "Use in buildings and tight spaces",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB15",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Winchester",
+    "title": "The Classic",
+    "description": "A lever-action rifle with high damage and classic design. The Winchester offers good damage at medium range with a moderate fire rate.",
+    "type": "Rifle",
+    "weapon_type": "Lever Action",
+    "damage": 65,
+    "fire_rate": 40,
+    "range": "Medium",
+    "magazine_size": 7,
+    "reload_time": 2.5,
+    "special_features": [
+      "High single-shot damage",
+      "Good accuracy",
+      "Medium range effectiveness",
+      "Classic weapon feel"
+    ],
+    "best_for": [
+      "Medium range combat",
+      "Single-shot precision",
+      "Balanced gameplay",
+      "Versatile situations"
+    ],
+    "weaknesses": [
+      "Small magazine size",
+      "Moderate fire rate",
+      "Not optimal for close range",
+      "Limited for long range"
+    ],
+    "tips": [
+      "Take advantage of high damage",
+      "Use in medium range",
+      "Pair with close-range weapon",
+      "Aim for headshots when possible"
+    ],
+    "release": {
+      "update": "OB10",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Rgs50",
+    "title": "The Rocket Launcher",
+    "description": "A rocket launcher with massive explosive damage. The RGS50 is devastating but slow to fire and reload.",
+    "type": "Explosive / Launcher",
+    "weapon_type": "Rocket Launcher",
+    "damage": 100,
+    "fire_rate": 5,
+    "range": "Long",
+    "magazine_size": 1,
+    "reload_time": 4.0,
+    "special_features": [
+      "Massive explosive damage",
+      "Large blast radius",
+      "Can destroy vehicles",
+      "Area of effect"
+    ],
+    "best_for": [
+      "Vehicle destruction",
+      "Area denial",
+      "Group engagements",
+      "Cover destruction"
+    ],
+    "weaknesses": [
+      "Extremely slow fire rate",
+      "Very long reload",
+      "Can damage yourself",
+      "Limited ammo availability"
+    ],
+    "tips": [
+      "Use for vehicles and groups",
+      "Maintain distance when firing",
+      "Aim for center of groups",
+      "Coordinate with team"
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Gatling",
+    "title": "The Suppressor",
+    "description": "A heavy machine gun with extremely high fire rate. The Gatling provides suppressive fire but has significant recoil.",
+    "type": "Heavy Machine Gun",
+    "weapon_type": "LMG",
+    "damage": 48,
+    "fire_rate": 85,
+    "range": "Medium to Long",
+    "magazine_size": 100,
+    "reload_time": 4.5,
+    "special_features": [
+      "Extremely high fire rate",
+      "Large magazine capacity",
+      "Suppressive fire capability",
+      "Continuous damage output"
+    ],
+    "best_for": [
+      "Suppressive fire",
+      "Holding positions",
+      "Team support",
+      "Sustained engagements"
+    ],
+    "weaknesses": [
+      "High recoil",
+      "Long reload time",
+      "Reduced mobility",
+      "Requires good recoil control"
+    ],
+    "tips": [
+      "Use bipod or crouch for stability",
+      "Control bursts",
+      "Perfect for defending positions",
+      "Pair with movement abilities"
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Cg15",
+    "title": "The Battle Rifle",
+    "description": "A powerful assault rifle with high damage and good range. The CG15 is effective at medium to long ranges.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 56,
+    "fire_rate": 52,
+    "range": "Long",
+    "magazine_size": 30,
+    "reload_time": 2.4,
+    "special_features": [
+      "High damage per shot",
+      "Good accuracy",
+      "Effective at range",
+      "Versatile combat"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "Balanced gameplay",
+      "Versatile combat",
+      "All-around performance"
+    ],
+    "weaknesses": [
+      "Moderate fire rate",
+      "Requires recoil control",
+      "Less effective close range"
+    ],
+    "tips": [
+      "Use for medium-long range",
+      "Control recoil with attachments",
+      "Tap fire for accuracy",
+      "Pair with SMG"
+    ],
+    "release": {
+      "update": "OB28",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Katana",
+    "title": "The Blade Master",
+    "description": "A melee weapon with fast attack speed. The Katana is deadly in close combat and allows for quick silent eliminations.",
+    "type": "Melee",
+    "weapon_type": "Sword",
+    "damage": 90,
+    "attack_speed": 1.2,
+    "range": "Melee",
+    "special_features": [
+      "One-hit kill potential",
+      "Fast attack speed",
+      "Silent eliminations",
+      "High mobility"
+    ],
+    "best_for": [
+      "Stealth eliminations",
+      "Close quarters",
+      "Surprise attacks",
+      "Finishing wounded enemies"
+    ],
+    "weaknesses": [
+      "Requires melee range",
+      "Vulnerable to ranged weapons",
+      "No ranged capabilities",
+      "Difficult to use against groups"
+    ],
+    "tips": [
+      "Use for stealth approaches",
+      "Surprise enemies from behind",
+      "High risk, high reward",
+      "Use cover to close distance"
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "An94",
+    "title": "The Russian Rifle",
+    "description": "A powerful assault rifle with a unique two-round burst feature. The AN94 offers high damage and good accuracy.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 58,
+    "fire_rate": 60,
+    "range": "Long",
+    "magazine_size": 30,
+    "reload_time": 2.2,
+    "special_features": [
+      "Two-round burst capability",
+      "High damage",
+      "Good accuracy",
+      "Effective at range"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "Burst firing",
+      "Precision shots",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Requires skill for burst mode",
+      "Moderate fire rate in auto",
+      "Needs recoil control"
+    ],
+    "tips": [
+      "Use burst mode for accuracy",
+      "Excellent for medium range",
+      "Tap fire for better control",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB25",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Healing Pistol",
+    "title": "The Support Sidearm",
+    "description": "A pistol that can heal teammates. The Healing Pistol provides support capabilities while still being a sidearm.",
+    "type": "Support / Healing",
+    "weapon_type": "Medical Pistol",
+    "damage": 0,
+    "healing_per_second": 12,
+    "range": "Short",
+    "magazine_size": "Infinite",
+    "reload_time": 0,
+    "special_features": [
+      "Heals teammates",
+      "No ammo consumption",
+      "Portable healing",
+      "Sidearm slot"
+    ],
+    "best_for": [
+      "Quick healing support",
+      "Squad support",
+      "Emergency healing",
+      "Secondary healing option"
+    ],
+    "weaknesses": [
+      "No offensive capability",
+      "Lower healing than Treatment Laser Gun",
+      "Requires teammates",
+      "Short range"
+    ],
+    "tips": [
+      "Keep as secondary weapon",
+      "Quick healing on the go",
+      "Support primary healer",
+      "Use in emergencies"
+    ],
+    "release": {
+      "update": "OB42",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Mgl140",
+    "title": "The Grenade Machine Gun",
+    "description": "An automatic grenade launcher with high explosive damage. The MGL140 provides sustained explosive firepower.",
+    "type": "Explosive / Launcher",
+    "weapon_type": "Grenade Machine Gun",
+    "damage": 95,
+    "fire_rate": 20,
+    "range": "Medium to Long",
+    "magazine_size": 6,
+    "reload_time": 3.8,
+    "special_features": [
+      "Automatic grenade launcher",
+      "High explosive damage",
+      "Area of effect",
+      "Sustained explosive fire"
+    ],
+    "best_for": [
+      "Area denial",
+      "Group engagements",
+      "Cover destruction",
+      "Sustained explosive damage"
+    ],
+    "weaknesses": [
+      "Slow fire rate",
+      "Limited magazine",
+      "Long reload",
+      "Can damage yourself"
+    ],
+    "tips": [
+      "Use for area control",
+      "Maintain distance",
+      "Aim for groups",
+      "Coordinate with team"
+    ],
+    "release": {
+      "update": "OB45",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "P90",
+    "title": "The Close Range Specialist",
+    "description": "A high-capacity SMG with excellent fire rate. The P90 dominates in close-range engagements with its large magazine and fast fire rate.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 48,
+    "fire_rate": 76,
+    "range": "Short to Medium",
+    "magazine_size": 50,
+    "reload_time": 2.0,
+    "special_features": [
+      "Large magazine capacity",
+      "High fire rate",
+      "Good mobility",
+      "Low recoil"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Aggressive gameplay",
+      "Spray and pray"
+    ],
+    "weaknesses": [
+      "Lower damage per shot",
+      "Limited range effectiveness",
+      "High ammo consumption",
+      "Less effective at distance"
+    ],
+    "tips": [
+      "Get close to enemies",
+      "Use for rushing",
+      "Spray control is important",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB20",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Xm8",
+    "title": "The Versatile AR",
+    "description": "A versatile assault rifle with good all-around stats. The XM8 is reliable in various combat situations.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 53,
+    "fire_rate": 58,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.3,
+    "special_features": [
+      "Balanced stats",
+      "Good accuracy",
+      "Versatile performance",
+      "Reliable weapon"
+    ],
+    "best_for": [
+      "All combat ranges",
+      "Versatile gameplay",
+      "Balanced playstyle",
+      "Reliable performance"
+    ],
+    "weaknesses": [
+      "No exceptional strengths",
+      "Moderate in all areas",
+      "Requires skill"
+    ],
+    "tips": [
+      "Good for all situations",
+      "Use attachments",
+      "Versatile choice",
+      "Pair with specialized weapon"
+    ],
+    "release": {
+      "update": "OB18",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M60",
+    "title": "The Heavy Suppressor",
+    "description": "A heavy machine gun with high damage and large magazine. The M60 provides sustained suppressive fire.",
+    "type": "Heavy Machine Gun",
+    "weapon_type": "LMG",
+    "damage": 50,
+    "fire_rate": 72,
+    "range": "Medium to Long",
+    "magazine_size": 100,
+    "reload_time": 4.2,
+    "special_features": [
+      "Large magazine",
+      "High damage",
+      "Suppressive fire",
+      "Sustained damage"
+    ],
+    "best_for": [
+      "Holding positions",
+      "Suppressive fire",
+      "Team support",
+      "Long engagements"
+    ],
+    "weaknesses": [
+      "High recoil",
+      "Long reload",
+      "Reduced mobility",
+      "Heavy weapon"
+    ],
+    "tips": [
+      "Control recoil",
+      "Use for defense",
+      "Coordinate with team",
+      "Manage ammo"
+    ],
+    "release": {
+      "update": "OB22",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Spas12",
+    "title": "The Auto Shotgun",
+    "description": "An automatic shotgun with fast fire rate. The SPAS12 offers rapid close-range devastation.",
+    "type": "Shotgun",
+    "weapon_type": "Auto Shotgun",
+    "damage": 95,
+    "fire_rate": 45,
+    "range": "Very Short",
+    "magazine_size": 7,
+    "reload_time": 2.8,
+    "special_features": [
+      "Automatic firing",
+      "High damage",
+      "Fast for a shotgun",
+      "Close range beast"
+    ],
+    "best_for": [
+      "Close quarters",
+      "Indoor combat",
+      "Rushing enemies",
+      "High damage output"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Limited magazine",
+      "Ineffective at distance",
+      "Requires close engagement"
+    ],
+    "tips": [
+      "Get very close",
+      "Use in buildings",
+      "Fast fire rate advantage",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Bat",
+    "title": "The Melee Classic",
+    "description": "A basic melee weapon with decent damage. The Bat is a simple but effective close-range option.",
+    "type": "Melee",
+    "weapon_type": "Blunt Weapon",
+    "damage": 85,
+    "attack_speed": 1.0,
+    "range": "Melee",
+    "special_features": [
+      "High melee damage",
+      "Fast attack speed",
+      "Silent eliminations",
+      "Basic weapon"
+    ],
+    "best_for": [
+      "Stealth kills",
+      "Close combat",
+      "Surprise attacks",
+      "Finishing enemies"
+    ],
+    "weaknesses": [
+      "Melee range only",
+      "Vulnerable to ranged",
+      "No ranged option",
+      "Difficult against groups"
+    ],
+    "tips": [
+      "Surprise from behind",
+      "Use cover",
+      "High risk play",
+      "Backup option"
+    ],
+    "release": {
+      "update": "OB5",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Svd",
+    "title": "The Sniper Rifle",
+    "description": "A semi-automatic sniper rifle with high damage. The SVD is excellent for long-range precision shots.",
+    "type": "Sniper Rifle",
+    "weapon_type": "DMR",
+    "damage": 85,
+    "fire_rate": 30,
+    "range": "Very Long",
+    "magazine_size": 10,
+    "reload_time": 2.7,
+    "special_features": [
+      "High damage",
+      "Semi-automatic",
+      "Long range",
+      "Good accuracy"
+    ],
+    "best_for": [
+      "Long-range engagements",
+      "Precision shots",
+      "Marksman role",
+      "Sniping"
+    ],
+    "weaknesses": [
+      "Slow fire rate",
+      "Small magazine",
+      "Ineffective close range",
+      "Requires skill"
+    ],
+    "tips": [
+      "Aim for headshots",
+      "Use scope",
+      "Pair with close-range weapon",
+      "Take time to aim"
+    ],
+    "release": {
+      "update": "OB20",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Crossbow",
+    "title": "The Silent Killer",
+    "description": "A silent weapon that fires bolts. The Crossbow is perfect for stealth eliminations without alerting enemies.",
+    "type": "Special / Stealth",
+    "weapon_type": "Bow",
+    "damage": 90,
+    "fire_rate": 25,
+    "range": "Medium",
+    "magazine_size": 1,
+    "reload_time": 2.5,
+    "special_features": [
+      "Completely silent",
+      "High single-shot damage",
+      "No sound when firing",
+      "Stealth eliminations"
+    ],
+    "best_for": [
+      "Stealth gameplay",
+      "Silent eliminations",
+      "Surprise attacks",
+      "Not alerting enemies"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Single shot reload",
+      "Projectile travel time",
+      "Requires precision"
+    ],
+    "tips": [
+      "Use for stealth",
+      "Aim carefully",
+      "One-shot potential",
+      "Don't miss shots"
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Famas",
+    "title": "The Burst Rifle",
+    "description": "A three-round burst assault rifle with high fire rate. The FAMAS excels in close to medium range combat.",
+    "type": "Assault Rifle",
+    "weapon_type": "Burst AR",
+    "damage": 54,
+    "fire_rate": 65,
+    "range": "Medium",
+    "magazine_size": 30,
+    "reload_time": 2.1,
+    "special_features": [
+      "Three-round burst",
+      "High fire rate",
+      "Good damage",
+      "Low recoil"
+    ],
+    "best_for": [
+      "Close to medium range",
+      "Burst firing",
+      "Aggressive gameplay",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Less effective at long range",
+      "Burst mode requires skill",
+      "Limited for sniping"
+    ],
+    "tips": [
+      "Use burst mode effectively",
+      "Good for close-medium range",
+      "Control bursts",
+      "Aggressive playstyle"
+    ],
+    "release": {
+      "update": "OB15",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M500",
+    "title": "The Powerful Revolver",
+    "description": "A high-damage revolver pistol. The M500 packs a punch but has limited capacity and slow reload.",
+    "type": "Pistol",
+    "weapon_type": "Revolver",
+    "damage": 70,
+    "fire_rate": 35,
+    "range": "Short to Medium",
+    "magazine_size": 6,
+    "reload_time": 2.8,
+    "special_features": [
+      "High damage for pistol",
+      "Good accuracy",
+      "Powerful shots",
+      "Reliable"
+    ],
+    "best_for": [
+      "Close range backup",
+      "High damage sidearm",
+      "Finishing enemies",
+      "Early game"
+    ],
+    "weaknesses": [
+      "Small magazine",
+      "Slow reload",
+      "Limited range",
+      "Slow fire rate"
+    ],
+    "tips": [
+      "Use as backup",
+      "Aim for headshots",
+      "Powerful but limited",
+      "Good early game option"
+    ],
+    "release": {
+      "update": "OB10",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Mp40",
+    "title": "The Classic SMG",
+    "description": "A reliable SMG with good fire rate and mobility. The MP40 is effective in close-range combat.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 46,
+    "fire_rate": 70,
+    "range": "Short",
+    "magazine_size": 30,
+    "reload_time": 1.8,
+    "special_features": [
+      "Fast fire rate",
+      "Good mobility",
+      "Low recoil",
+      "Reliable"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Rushing",
+      "Mobile gameplay"
+    ],
+    "weaknesses": [
+      "Limited range",
+      "Lower damage",
+      "Less effective at distance",
+      "High ammo consumption"
+    ],
+    "tips": [
+      "Get close to enemies",
+      "Use for rushing",
+      "Good mobility",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB8",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M79",
+    "title": "The Grenade Launcher",
+    "description": "A single-shot grenade launcher with explosive damage. The M79 is devastating but slow to reload.",
+    "type": "Explosive / Launcher",
+    "weapon_type": "Grenade Launcher",
+    "damage": 100,
+    "fire_rate": 6,
+    "range": "Medium to Long",
+    "magazine_size": 1,
+    "reload_time": 3.5,
+    "special_features": [
+      "High explosive damage",
+      "Area of effect",
+      "Can destroy cover",
+      "Devastating impact"
+    ],
+    "best_for": [
+      "Area denial",
+      "Group engagements",
+      "Cover destruction",
+      "Finishing enemies"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Single shot reload",
+      "Long reload time",
+      "Can damage yourself"
+    ],
+    "tips": [
+      "Aim for ground near enemies",
+      "Use for groups",
+      "Maintain distance",
+      "Coordinate with team"
+    ],
+    "release": {
+      "update": "OB25",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Kar98K",
+    "title": "The Bolt Action Sniper",
+    "description": "A bolt-action sniper rifle with extremely high damage. The Kar98K is the ultimate long-range weapon.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Bolt Action",
+    "damage": 90,
+    "fire_rate": 18,
+    "range": "Very Long",
+    "magazine_size": 5,
+    "reload_time": 3.2,
+    "special_features": [
+      "Extremely high damage",
+      "One-shot headshot potential",
+      "Long range",
+      "High precision"
+    ],
+    "best_for": [
+      "Long-range sniping",
+      "One-shot eliminations",
+      "Precision shots",
+      "Marksman role"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Small magazine",
+      "Bolt action reload",
+      "Ineffective close range"
+    ],
+    "tips": [
+      "Aim for headshots",
+      "Take time to aim",
+      "Use scope effectively",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB12",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M1873",
+    "title": "The Wild West Revolver",
+    "description": "A classic revolver with moderate damage. The M1873 is a reliable early-game sidearm.",
+    "type": "Pistol",
+    "weapon_type": "Revolver",
+    "damage": 55,
+    "fire_rate": 40,
+    "range": "Short to Medium",
+    "magazine_size": 6,
+    "reload_time": 2.5,
+    "special_features": [
+      "Reliable damage",
+      "Good accuracy",
+      "Classic design",
+      "Balanced stats"
+    ],
+    "best_for": [
+      "Early game",
+      "Backup weapon",
+      "Close range",
+      "Sidearm option"
+    ],
+    "weaknesses": [
+      "Small magazine",
+      "Limited range",
+      "Moderate damage",
+      "Slow reload"
+    ],
+    "tips": [
+      "Use early game",
+      "Good backup option",
+      "Aim for accuracy",
+      "Switch to primary when possible"
+    ],
+    "release": {
+      "update": "OB5",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M249",
+    "title": "The Machine Gun",
+    "description": "A light machine gun with large magazine and high fire rate. The M249 provides sustained suppressive fire.",
+    "type": "Heavy Machine Gun",
+    "weapon_type": "LMG",
+    "damage": 48,
+    "fire_rate": 78,
+    "range": "Medium to Long",
+    "magazine_size": 100,
+    "reload_time": 4.0,
+    "special_features": [
+      "Large magazine",
+      "High fire rate",
+      "Suppressive fire",
+      "Sustained damage"
+    ],
+    "best_for": [
+      "Suppressive fire",
+      "Holding positions",
+      "Team support",
+      "Long engagements"
+    ],
+    "weaknesses": [
+      "High recoil",
+      "Long reload",
+      "Reduced mobility",
+      "Heavy weapon"
+    ],
+    "tips": [
+      "Control recoil",
+      "Use for defense",
+      "Coordinate with team",
+      "Manage ammo"
+    ],
+    "release": {
+      "update": "OB18",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Grenade",
+    "title": "The Explosive",
+    "description": "A throwable explosive grenade. The Grenade provides area damage and can flush out enemies.",
+    "type": "Explosive / Throwable",
+    "weapon_type": "Grenade",
+    "damage": 100,
+    "range": "Throwable",
+    "special_features": [
+      "Area of effect damage",
+      "Throwable",
+      "Can destroy cover",
+      "High damage"
+    ],
+    "best_for": [
+      "Flushing enemies",
+      "Area damage",
+      "Finishing wounded enemies",
+      "Destroying cover"
+    ],
+    "weaknesses": [
+      "Requires good aim",
+      "Fuse time",
+      "Can damage yourself",
+      "Limited quantity"
+    ],
+    "tips": [
+      "Cook grenade before throwing",
+      "Aim for cover",
+      "Use to flush enemies",
+      "Be careful of range"
+    ],
+    "release": {
+      "update": "OB1",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M4A1",
+    "title": "The Classic AR",
+    "description": "A versatile assault rifle with balanced stats. The M4A1 is one of the most reliable weapons in Free Fire.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 53,
+    "fire_rate": 56,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.2,
+    "special_features": [
+      "Balanced stats",
+      "Low recoil",
+      "Versatile",
+      "Reliable"
+    ],
+    "best_for": [
+      "All combat ranges",
+      "Versatile gameplay",
+      "Balanced playstyle",
+      "Reliable choice"
+    ],
+    "weaknesses": [
+      "No exceptional strengths",
+      "Moderate damage",
+      "Requires attachments"
+    ],
+    "tips": [
+      "Use attachments",
+      "Good for all situations",
+      "Control recoil",
+      "Versatile choice"
+    ],
+    "release": {
+      "update": "OB3",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Ak47",
+    "title": "The High Damage AR",
+    "description": "A powerful assault rifle with high damage and recoil. The AK47 rewards skilled players with devastating firepower.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 61,
+    "fire_rate": 56,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.5,
+    "special_features": [
+      "High damage",
+      "Powerful shots",
+      "Good range",
+      "High damage output"
+    ],
+    "best_for": [
+      "Aggressive gameplay",
+      "High damage output",
+      "Medium range",
+      "Skilled players"
+    ],
+    "weaknesses": [
+      "High recoil",
+      "Requires control",
+      "Less accurate at range",
+      "Difficult to master"
+    ],
+    "tips": [
+      "Control recoil pattern",
+      "Use attachments",
+      "Tap fire at range",
+      "Practice recoil control"
+    ],
+    "release": {
+      "update": "OB3",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Awm",
+    "title": "The Sniper King",
+    "description": "A bolt-action sniper rifle with the highest damage. The AWM can eliminate enemies with a single headshot.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Bolt Action",
+    "damage": 100,
+    "fire_rate": 15,
+    "range": "Very Long",
+    "magazine_size": 5,
+    "reload_time": 3.5,
+    "special_features": [
+      "Highest damage",
+      "One-shot headshot",
+      "Long range",
+      "Ultimate precision"
+    ],
+    "best_for": [
+      "Long-range sniping",
+      "One-shot eliminations",
+      "Precision shots",
+      "Marksman role"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Small magazine",
+      "Bolt action reload",
+      "Ineffective close range"
+    ],
+    "tips": [
+      "Always aim for headshots",
+      "Take time to aim",
+      "Use scope effectively",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB8",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Sks",
+    "title": "The Semi-Auto Sniper",
+    "description": "A semi-automatic sniper rifle with good damage and fire rate. The SKS bridges assault rifles and sniper rifles.",
+    "type": "Sniper Rifle",
+    "weapon_type": "DMR",
+    "damage": 78,
+    "fire_rate": 32,
+    "range": "Long",
+    "magazine_size": 10,
+    "reload_time": 2.6,
+    "special_features": [
+      "Semi-automatic",
+      "Good damage",
+      "Better fire rate than bolt actions",
+      "Versatile range"
+    ],
+    "best_for": [
+      "Long-range engagements",
+      "Medium-long range",
+      "Semi-auto precision",
+      "Marksman role"
+    ],
+    "weaknesses": [
+      "Lower damage than bolt actions",
+      "Requires precision",
+      "Small magazine",
+      "Moderate fire rate"
+    ],
+    "tips": [
+      "Tap fire for accuracy",
+      "Use for medium-long range",
+      "Aim for headshots",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB15",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Groza",
+    "title": "The Power AR",
+    "description": "A high-damage assault rifle with good fire rate. The Groza is excellent for aggressive gameplay.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 59,
+    "fire_rate": 62,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.4,
+    "special_features": [
+      "High damage",
+      "Good fire rate",
+      "Powerful shots",
+      "Aggressive weapon"
+    ],
+    "best_for": [
+      "Aggressive gameplay",
+      "Medium range",
+      "High damage output",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Moderate recoil",
+      "Requires control",
+      "Less effective at long range"
+    ],
+    "tips": [
+      "Use for aggressive plays",
+      "Control recoil",
+      "Good for medium range",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB20",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M1014",
+    "title": "The Auto Shotgun",
+    "description": "An automatic shotgun with rapid fire rate. The M1014 is devastating in close quarters.",
+    "type": "Shotgun",
+    "weapon_type": "Auto Shotgun",
+    "damage": 92,
+    "fire_rate": 48,
+    "range": "Very Short",
+    "magazine_size": 8,
+    "reload_time": 2.6,
+    "special_features": [
+      "Automatic firing",
+      "High damage",
+      "Fast fire rate",
+      "Close range specialist"
+    ],
+    "best_for": [
+      "Close quarters",
+      "Indoor combat",
+      "Rushing",
+      "High damage"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Limited magazine",
+      "Ineffective at distance",
+      "Requires close engagement"
+    ],
+    "tips": [
+      "Get very close",
+      "Use in buildings",
+      "Fast fire advantage",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB25",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Ump",
+    "title": "The Balanced SMG",
+    "description": "A balanced SMG with good damage and control. The UMP is reliable in close-range combat.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 50,
+    "fire_rate": 68,
+    "range": "Short to Medium",
+    "magazine_size": 30,
+    "reload_time": 1.9,
+    "special_features": [
+      "Good damage for SMG",
+      "Low recoil",
+      "Balanced stats",
+      "Reliable"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Rushing",
+      "Balanced SMG"
+    ],
+    "weaknesses": [
+      "Limited range",
+      "Moderate fire rate",
+      "Less effective at distance"
+    ],
+    "tips": [
+      "Use for close range",
+      "Good control",
+      "Reliable choice",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB12",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Mp5",
+    "title": "The Classic SMG",
+    "description": "A reliable SMG with good fire rate. The MP5 is effective in close-range engagements.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 48,
+    "fire_rate": 72,
+    "range": "Short",
+    "magazine_size": 30,
+    "reload_time": 1.8,
+    "special_features": [
+      "High fire rate",
+      "Good mobility",
+      "Low recoil",
+      "Classic SMG"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Rushing",
+      "Mobile gameplay"
+    ],
+    "weaknesses": [
+      "Limited range",
+      "Lower damage",
+      "Less effective at distance"
+    ],
+    "tips": [
+      "Get close to enemies",
+      "Use for rushing",
+      "Good mobility",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB5",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M14",
+    "title": "The Battle Rifle",
+    "description": "A powerful semi-automatic rifle with high damage. The M14 is excellent for medium to long range.",
+    "type": "Rifle",
+    "weapon_type": "Battle Rifle",
+    "damage": 68,
+    "fire_rate": 38,
+    "range": "Long",
+    "magazine_size": 20,
+    "reload_time": 2.5,
+    "special_features": [
+      "High damage",
+      "Good accuracy",
+      "Effective at range",
+      "Powerful shots"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "Precision shots",
+      "Marksman role",
+      "Single-shot damage"
+    ],
+    "weaknesses": [
+      "Moderate fire rate",
+      "Small magazine",
+      "Less effective close range"
+    ],
+    "tips": [
+      "Use for medium-long range",
+      "Tap fire for accuracy",
+      "High damage advantage",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB18",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Scar",
+    "title": "The Versatile AR",
+    "description": "A versatile assault rifle with excellent balance. The SCAR is reliable in various combat situations.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 55,
+    "fire_rate": 58,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.3,
+    "special_features": [
+      "Balanced stats",
+      "Good accuracy",
+      "Low recoil",
+      "Versatile"
+    ],
+    "best_for": [
+      "All combat ranges",
+      "Versatile gameplay",
+      "Balanced playstyle",
+      "Reliable choice"
+    ],
+    "weaknesses": [
+      "No exceptional strengths",
+      "Moderate damage",
+      "Requires attachments"
+    ],
+    "tips": [
+      "Use attachments",
+      "Good for all situations",
+      "Control recoil",
+      "Versatile choice"
+    ],
+    "release": {
+      "update": "OB10",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Vss",
+    "title": "The Silent Sniper",
+    "description": "An integrated sniper rifle with built-in silencer. The VSS is perfect for stealth sniping.",
+    "type": "Sniper Rifle",
+    "weapon_type": "DMR",
+    "damage": 75,
+    "fire_rate": 35,
+    "range": "Medium to Long",
+    "magazine_size": 10,
+    "reload_time": 2.5,
+    "special_features": [
+      "Built-in silencer",
+      "Semi-automatic",
+      "Silent firing",
+      "Stealth sniper"
+    ],
+    "best_for": [
+      "Stealth sniping",
+      "Silent eliminations",
+      "Medium-long range",
+      "Marksman role"
+    ],
+    "weaknesses": [
+      "Lower damage than other snipers",
+      "Moderate fire rate",
+      "Limited range",
+      "Small magazine"
+    ],
+    "tips": [
+      "Use for stealth",
+      "Silent advantage",
+      "Medium-long range",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB28",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Usp",
+    "title": "The Standard Pistol",
+    "description": "A reliable semi-automatic pistol. The USP is a balanced sidearm option.",
+    "type": "Pistol",
+    "weapon_type": "Semi-Auto",
+    "damage": 45,
+    "fire_rate": 50,
+    "range": "Short to Medium",
+    "magazine_size": 12,
+    "reload_time": 1.8,
+    "special_features": [
+      "Balanced stats",
+      "Good accuracy",
+      "Reliable",
+      "Standard pistol"
+    ],
+    "best_for": [
+      "Early game",
+      "Backup weapon",
+      "Close range",
+      "Sidearm option"
+    ],
+    "weaknesses": [
+      "Lower damage",
+      "Limited range",
+      "Small magazine",
+      "Moderate fire rate"
+    ],
+    "tips": [
+      "Use early game",
+      "Good backup option",
+      "Aim for accuracy",
+      "Switch to primary when possible"
+    ],
+    "release": {
+      "update": "OB3",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "G18",
+    "title": "The Auto Pistol",
+    "description": "An automatic pistol with high fire rate. The G18 provides rapid firepower in close range.",
+    "type": "Pistol",
+    "weapon_type": "Auto Pistol",
+    "damage": 40,
+    "fire_rate": 65,
+    "range": "Short",
+    "magazine_size": 20,
+    "reload_time": 2.0,
+    "special_features": [
+      "Automatic firing",
+      "High fire rate",
+      "Large magazine",
+      "Rapid fire"
+    ],
+    "best_for": [
+      "Close range backup",
+      "Rapid fire",
+      "Spray and pray",
+      "Emergency situations"
+    ],
+    "weaknesses": [
+      "Lower damage",
+      "Very short range",
+      "High recoil",
+      "High ammo consumption"
+    ],
+    "tips": [
+      "Use for close range",
+      "Rapid fire advantage",
+      "Control recoil",
+      "Backup option"
+    ],
+    "release": {
+      "update": "OB22",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Desert Eagle",
+    "title": "The Hand Cannon",
+    "description": "A powerful semi-automatic pistol with high damage. The Desert Eagle is the most powerful pistol in Free Fire.",
+    "type": "Pistol",
+    "weapon_type": "Semi-Auto",
+    "damage": 80,
+    "fire_rate": 30,
+    "range": "Short to Medium",
+    "magazine_size": 7,
+    "reload_time": 2.2,
+    "special_features": [
+      "Highest pistol damage",
+      "Good accuracy",
+      "Powerful shots",
+      "One-shot potential"
+    ],
+    "best_for": [
+      "High damage sidearm",
+      "Close range backup",
+      "Finishing enemies",
+      "Powerful pistol"
+    ],
+    "weaknesses": [
+      "Small magazine",
+      "Slow fire rate",
+      "Limited range",
+      "High recoil"
+    ],
+    "tips": [
+      "Aim for headshots",
+      "Powerful but limited",
+      "Use as backup",
+      "Take time to aim"
+    ],
+    "release": {
+      "update": "OB15",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Pan",
+    "title": "The Melee Pan",
+    "description": "A melee weapon that can also block shots. The Pan is both offensive and defensive.",
+    "type": "Melee",
+    "weapon_type": "Pan",
+    "damage": 88,
+    "attack_speed": 1.1,
+    "range": "Melee",
+    "special_features": [
+      "Can block shots",
+      "High damage",
+      "Defensive capability",
+      "Unique weapon"
+    ],
+    "best_for": [
+      "Melee combat",
+      "Blocking shots",
+      "Close combat",
+      "Defensive melee"
+    ],
+    "weaknesses": [
+      "Melee range only",
+      "Limited blocking",
+      "Vulnerable to ranged",
+      "Difficult against groups"
+    ],
+    "tips": [
+      "Use for blocking",
+      "Surprise attacks",
+      "High risk play",
+      "Unique defensive option"
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Parang",
+    "title": "The Machete",
+    "description": "A fast melee weapon with good attack speed. The Parang is effective for close combat.",
+    "type": "Melee",
+    "weapon_type": "Machete",
+    "damage": 87,
+    "attack_speed": 1.3,
+    "range": "Melee",
+    "special_features": [
+      "Fast attack speed",
+      "High damage",
+      "Quick eliminations",
+      "Fast melee"
+    ],
+    "best_for": [
+      "Fast melee combat",
+      "Quick eliminations",
+      "Close combat",
+      "High speed melee"
+    ],
+    "weaknesses": [
+      "Melee range only",
+      "Vulnerable to ranged",
+      "No ranged option",
+      "Difficult against groups"
+    ],
+    "tips": [
+      "Use for speed",
+      "Surprise attacks",
+      "Fast eliminations",
+      "High risk play"
+    ],
+    "release": {
+      "update": "OB25",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M1887",
+    "title": "The Lever Shotgun",
+    "description": "A lever-action shotgun with high damage. The M1887 offers powerful close-range shots.",
+    "type": "Shotgun",
+    "weapon_type": "Lever Shotgun",
+    "damage": 98,
+    "fire_rate": 32,
+    "range": "Very Short",
+    "magazine_size": 5,
+    "reload_time": 3.2,
+    "special_features": [
+      "High damage",
+      "Powerful shots",
+      "One-shot potential",
+      "Classic design"
+    ],
+    "best_for": [
+      "Close quarters",
+      "High damage",
+      "One-shot eliminations",
+      "Close range specialist"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Slow fire rate",
+      "Small magazine",
+      "Long reload"
+    ],
+    "tips": [
+      "Get very close",
+      "Aim for center mass",
+      "One-shot potential",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB20",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Thompson",
+    "title": "The Classic SMG",
+    "description": "A classic SMG with high fire rate. The Thompson is effective in close-range combat.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 47,
+    "fire_rate": 74,
+    "range": "Short",
+    "magazine_size": 30,
+    "reload_time": 1.9,
+    "special_features": [
+      "Very high fire rate",
+      "Good mobility",
+      "Low recoil",
+      "Classic SMG"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Rushing",
+      "High fire rate"
+    ],
+    "weaknesses": [
+      "Limited range",
+      "Lower damage",
+      "Less effective at distance",
+      "High ammo consumption"
+    ],
+    "tips": [
+      "Get close to enemies",
+      "Use for rushing",
+      "High fire rate advantage",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB12",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Hand-Cannon",
+    "title": "The Powerful Pistol",
+    "description": "A high-damage pistol with explosive rounds. The Hand-Cannon packs a serious punch.",
+    "type": "Pistol",
+    "weapon_type": "Special Pistol",
+    "damage": 75,
+    "fire_rate": 25,
+    "range": "Short to Medium",
+    "magazine_size": 6,
+    "reload_time": 2.5,
+    "special_features": [
+      "High damage",
+      "Explosive rounds",
+      "Area damage",
+      "Powerful shots"
+    ],
+    "best_for": [
+      "High damage sidearm",
+      "Explosive damage",
+      "Close range backup",
+      "Powerful pistol"
+    ],
+    "weaknesses": [
+      "Very slow fire rate",
+      "Small magazine",
+      "Limited range",
+      "Can damage yourself"
+    ],
+    "tips": [
+      "Use for high damage",
+      "Be careful of close range",
+      "Powerful but slow",
+      "Backup option"
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Plasma",
+    "title": "The Energy Weapon",
+    "description": "An energy-based weapon with unique mechanics. The Plasma fires energy projectiles with special effects.",
+    "type": "Special / Energy",
+    "weapon_type": "Energy Rifle",
+    "damage": 52,
+    "fire_rate": 54,
+    "range": "Medium to Long",
+    "magazine_size": 25,
+    "reload_time": 2.6,
+    "special_features": [
+      "Energy projectiles",
+      "Unique mechanics",
+      "Special effects",
+      "Futuristic weapon"
+    ],
+    "best_for": [
+      "Medium range combat",
+      "Unique gameplay",
+      "Special effects",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Requires understanding of mechanics",
+      "Moderate damage",
+      "Limited range",
+      "Unique playstyle needed"
+    ],
+    "tips": [
+      "Learn unique mechanics",
+      "Use for medium range",
+      "Special effects advantage",
+      "Practice with weapon"
+    ],
+    "release": {
+      "update": "OB40",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M82B",
+    "title": "The Anti-Material Rifle",
+    "description": "A powerful sniper rifle that can destroy vehicles. The M82B is devastating against both players and vehicles.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Anti-Material",
+    "damage": 95,
+    "fire_rate": 12,
+    "range": "Very Long",
+    "magazine_size": 5,
+    "reload_time": 3.8,
+    "special_features": [
+      "Very high damage",
+      "Can destroy vehicles",
+      "Penetrates cover",
+      "Anti-material capabilities"
+    ],
+    "best_for": [
+      "Vehicle destruction",
+      "Long-range sniping",
+      "Penetrating cover",
+      "High damage shots"
+    ],
+    "weaknesses": [
+      "Extremely slow fire rate",
+      "Small magazine",
+      "Very long reload",
+      "Heavy weapon"
+    ],
+    "tips": [
+      "Use for vehicles",
+      "Aim carefully",
+      "Very slow fire rate",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB38",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Aug",
+    "title": "The Bullpup AR",
+    "description": "A bullpup assault rifle with excellent accuracy. The AUG offers great control and precision.",
+    "type": "Assault Rifle",
+    "weapon_type": "Bullpup AR",
+    "damage": 54,
+    "fire_rate": 58,
+    "range": "Medium to Long",
+    "magazine_size": 30,
+    "reload_time": 2.3,
+    "special_features": [
+      "Excellent accuracy",
+      "Low recoil",
+      "Good range",
+      "Precise weapon"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "Precision shots",
+      "Accurate gameplay",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Moderate damage",
+      "Requires attachments",
+      "Less effective close range"
+    ],
+    "tips": [
+      "Use for accuracy",
+      "Medium-long range",
+      "Low recoil advantage",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB28",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Parafal",
+    "title": "The Battle Rifle",
+    "description": "A powerful battle rifle with high damage. The Parafal excels at medium to long range.",
+    "type": "Assault Rifle",
+    "weapon_type": "Battle Rifle",
+    "damage": 57,
+    "fire_rate": 52,
+    "range": "Long",
+    "magazine_size": 30,
+    "reload_time": 2.4,
+    "special_features": [
+      "High damage",
+      "Good accuracy",
+      "Effective at range",
+      "Powerful shots"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "High damage output",
+      "Precision shots",
+      "Versatile combat"
+    ],
+    "weaknesses": [
+      "Moderate fire rate",
+      "Requires recoil control",
+      "Less effective close range"
+    ],
+    "tips": [
+      "Use for medium-long range",
+      "High damage advantage",
+      "Control recoil",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Woodpecker",
+    "title": "The Marksman Rifle",
+    "description": "A semi-automatic marksman rifle with good damage. The Woodpecker is effective at medium to long range.",
+    "type": "Sniper Rifle",
+    "weapon_type": "DMR",
+    "damage": 80,
+    "fire_rate": 30,
+    "range": "Long",
+    "magazine_size": 10,
+    "reload_time": 2.7,
+    "special_features": [
+      "Semi-automatic",
+      "Good damage",
+      "Effective at range",
+      "Marksman weapon"
+    ],
+    "best_for": [
+      "Medium to long range",
+      "Marksman role",
+      "Precision shots",
+      "Semi-auto sniping"
+    ],
+    "weaknesses": [
+      "Moderate fire rate",
+      "Small magazine",
+      "Requires precision",
+      "Less effective close range"
+    ],
+    "tips": [
+      "Use for medium-long range",
+      "Tap fire for accuracy",
+      "Marksman advantage",
+      "Pair with close-range weapon"
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Vector",
+    "title": "The Rapid Fire SMG",
+    "description": "An SMG with extremely high fire rate. The Vector dominates in close-range combat with its rapid fire.",
+    "type": "Submachine Gun",
+    "weapon_type": "SMG",
+    "damage": 46,
+    "fire_rate": 82,
+    "range": "Short",
+    "magazine_size": 25,
+    "reload_time": 1.7,
+    "special_features": [
+      "Extremely high fire rate",
+      "Very fast reload",
+      "Low recoil",
+      "Rapid fire specialist"
+    ],
+    "best_for": [
+      "Close range combat",
+      "Indoor fights",
+      "Rushing",
+      "Rapid fire gameplay"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Lower damage",
+      "High ammo consumption",
+      "Small magazine"
+    ],
+    "tips": [
+      "Get very close",
+      "Use for rushing",
+      "Extremely fast fire rate",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Scythe",
+    "title": "The Melee Weapon",
+    "description": "A melee weapon with high damage. The Scythe is deadly in close combat.",
+    "type": "Melee",
+    "weapon_type": "Scythe",
+    "damage": 92,
+    "attack_speed": 1.0,
+    "range": "Melee",
+    "special_features": [
+      "Very high damage",
+      "One-shot potential",
+      "Silent eliminations",
+      "High damage melee"
+    ],
+    "best_for": [
+      "Melee combat",
+      "Stealth eliminations",
+      "Close combat",
+      "High damage melee"
+    ],
+    "weaknesses": [
+      "Melee range only",
+      "Vulnerable to ranged",
+      "No ranged option",
+      "Difficult against groups"
+    ],
+    "tips": [
+      "Surprise from behind",
+      "One-shot potential",
+      "High risk play",
+      "Use cover"
+    ],
+    "release": {
+      "update": "OB40",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Mag-7",
+    "title": "The Compact Shotgun",
+    "description": "A compact shotgun with good damage and fire rate. The MAG-7 is effective in close quarters.",
+    "type": "Shotgun",
+    "weapon_type": "Compact Shotgun",
+    "damage": 94,
+    "fire_rate": 42,
+    "range": "Very Short",
+    "magazine_size": 7,
+    "reload_time": 2.5,
+    "special_features": [
+      "Good fire rate for shotgun",
+      "High damage",
+      "Compact design",
+      "Fast reload"
+    ],
+    "best_for": [
+      "Close quarters",
+      "Indoor combat",
+      "Rushing",
+      "High damage"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Limited magazine",
+      "Ineffective at distance"
+    ],
+    "tips": [
+      "Get very close",
+      "Use in buildings",
+      "Good fire rate advantage",
+      "Pair with long-range weapon"
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Kord",
+    "title": "The Heavy Machine Gun",
+    "description": "A heavy machine gun with massive firepower. The Kord provides devastating suppressive fire.",
+    "type": "Heavy Machine Gun",
+    "weapon_type": "HMG",
+    "damage": 52,
+    "fire_rate": 80,
+    "range": "Medium to Long",
+    "magazine_size": 100,
+    "reload_time": 4.5,
+    "special_features": [
+      "Extremely high fire rate",
+      "Large magazine",
+      "Devastating suppressive fire",
+      "High damage output"
+    ],
+    "best_for": [
+      "Suppressive fire",
+      "Holding positions",
+      "Team support",
+      "Sustained damage"
+    ],
+    "weaknesses": [
+      "Very high recoil",
+      "Very long reload",
+      "Reduced mobility",
+      "Heavy weapon"
+    ],
+    "tips": [
+      "Control recoil carefully",
+      "Use for defense",
+      "Coordinate with team",
+      "Manage ammo"
+    ],
+    "release": {
+      "update": "OB42",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M1917",
+    "title": "The Classic Revolver",
+    "description": "A classic revolver with reliable damage. The M1917 is a dependable sidearm option.",
+    "type": "Pistol",
+    "weapon_type": "Revolver",
+    "damage": 60,
+    "fire_rate": 38,
+    "range": "Short to Medium",
+    "magazine_size": 6,
+    "reload_time": 2.6,
+    "special_features": [
+      "Reliable damage",
+      "Good accuracy",
+      "Classic design",
+      "Dependable"
+    ],
+    "best_for": [
+      "Early game",
+      "Backup weapon",
+      "Close range",
+      "Sidearm option"
+    ],
+    "weaknesses": [
+      "Small magazine",
+      "Limited range",
+      "Slow fire rate",
+      "Slow reload"
+    ],
+    "tips": [
+      "Use early game",
+      "Good backup option",
+      "Aim for accuracy",
+      "Switch to primary when possible"
+    ],
+    "release": {
+      "update": "OB8",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Usp-2",
+    "title": "The Enhanced Pistol",
+    "description": "An enhanced version of the USP pistol with better stats. The USP-2 offers improved performance.",
+    "type": "Pistol",
+    "weapon_type": "Semi-Auto",
+    "damage": 48,
+    "fire_rate": 55,
+    "range": "Short to Medium",
+    "magazine_size": 15,
+    "reload_time": 1.7,
+    "special_features": [
+      "Improved stats",
+      "Better accuracy",
+      "Larger magazine",
+      "Enhanced performance"
+    ],
+    "best_for": [
+      "Early game",
+      "Backup weapon",
+      "Close range",
+      "Enhanced sidearm"
+    ],
+    "weaknesses": [
+      "Still limited range",
+      "Lower damage than primaries",
+      "Moderate damage"
+    ],
+    "tips": [
+      "Use early game",
+      "Improved backup option",
+      "Aim for accuracy",
+      "Switch to primary when possible"
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Smoke Grenade",
+    "title": "The Tactical Smoke",
+    "description": "A throwable smoke grenade that creates cover. The Smoke Grenade is essential for tactical plays.",
+    "type": "Utility / Throwable",
+    "weapon_type": "Smoke Grenade",
+    "damage": 0,
+    "range": "Throwable",
+    "special_features": [
+      "Creates smoke screen",
+      "Provides cover",
+      "Tactical utility",
+      "Team support"
+    ],
+    "best_for": [
+      "Creating cover",
+      "Tactical positioning",
+      "Team support",
+      "Escape situations"
+    ],
+    "weaknesses": [
+      "No damage",
+      "Requires good placement",
+      "Limited duration",
+      "Can obscure vision"
+    ],
+    "tips": [
+      "Use for cover",
+      "Place strategically",
+      "Support team movements",
+      "Escape tool"
+    ],
+    "release": {
+      "update": "OB1",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Gloo Wall",
+    "title": "The Defensive Wall",
+    "description": "A deployable wall that provides cover. The Gloo Wall is essential for defensive gameplay.",
+    "type": "Utility / Deployable",
+    "weapon_type": "Gloo Wall",
+    "damage": 0,
+    "range": "Deployable",
+    "special_features": [
+      "Creates instant cover",
+      "Deployable anywhere",
+      "Essential defense",
+      "Tactical positioning"
+    ],
+    "best_for": [
+      "Defensive gameplay",
+      "Creating cover",
+      "Tactical positioning",
+      "Team protection"
+    ],
+    "weaknesses": [
+      "Can be destroyed",
+      "No offensive capability",
+      "Takes inventory slot",
+      "Limited quantity"
+    ],
+    "tips": [
+      "Use for cover",
+      "Place strategically",
+      "Protect teammates",
+      "Essential for defense"
+    ],
+    "release": {
+      "update": "OB1",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Flash Freeze",
+    "title": "The Cryo Grenade",
+    "description": "Flash Freeze is a throwable device that creates a temporary ice barrier, slowing enemies and blocking movement.",
+    "type": "Utility / Throwable",
+    "weapon_type": "Cryo Grenade",
+    "damage": 0,
+    "range": "Throw",
+    "special_features": [
+      "Creates temporary ice wall",
+      "Slows enemies inside radius",
+      "Blocks movement and rush paths",
+      "Great for zoning and area control"
+    ],
+    "best_for": [
+      "Blocking enemy rushes",
+      "Area control",
+      "Defensive gameplay",
+      "Temporary cover"
+    ],
+    "weaknesses": [
+      "Ice wall can be destroyed",
+      "Short duration",
+      "Not effective for damage",
+      "Requires precise throw timing"
+    ],
+    "tips": [
+      "Use to slow enemy pushes",
+      "Combine with long-range weapons",
+      "Throw before entering combat",
+      "Great for buying time in close fights"
+    ],
+    "release": {
+      "update": "OB41",
+      "type": "Utility Release"
+    }
+  },
+  {
+    "name": "FF Knife",
+    "title": "The Tactical Blade",
+    "description": "A melee weapon designed for quick, silent takedowns and high mobility.",
+    "type": "Melee Weapon",
+    "weapon_type": "Knife",
+    "damage": 50,
+    "range": "Close Range",
+    "special_features": [
+      "Fast melee attacks",
+      "High mobility",
+      "Silent eliminations",
+      "Lightweight weapon"
+    ],
+    "best_for": [
+      "Close combat",
+      "High mobility players",
+      "Stealth approaches",
+      "Finishing weakened opponents"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Low damage per hit compared to heavy melee",
+      "Requires precise timing",
+      "Risky in open fights"
+    ],
+    "tips": [
+      "Use for fast movement",
+      "Close distance quickly",
+      "Pair with rushing characters",
+      "Avoid open area fights"
+    ],
+    "release": {
+      "update": "OB5",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Kingfisher",
+    "title": "The Precision Rifle",
+    "description": "The Kingfisher is a fast-firing assault rifle designed for mid-range precision and stability.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 48,
+    "range": "Medium Range",
+    "special_features": [
+      "High accuracy",
+      "Fast rate of fire",
+      "Low recoil",
+      "Strong mid-range performance"
+    ],
+    "best_for": [
+      "Mid-range combat",
+      "Accurate tapping or burst fire",
+      "Balanced aggressive play",
+      "New players"
+    ],
+    "weaknesses": [
+      "Not ideal for long range",
+      "Lower damage per shot than heavier ARs",
+      "Recoil increases in long sprays",
+      "Requires attachment support"
+    ],
+    "tips": [
+      "Use burst-fire for accuracy",
+      "Ideal in mid-range duels",
+      "Pair with SMG or shotgun",
+      "Control recoil for max impact"
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Uzi",
+    "title": "The Pocket SMG",
+    "description": "A compact SMG with extremely high fire rate, perfect for close-range encounters.",
+    "type": "SMG",
+    "weapon_type": "Submachine Gun",
+    "damage": 22,
+    "range": "Close Range",
+    "special_features": [
+      "Extremely high fire rate",
+      "Compact and lightweight",
+      "Quick draw and ADS",
+      "Deadly in close quarters"
+    ],
+    "best_for": [
+      "Close-range rush",
+      "Fast takedowns",
+      "Backup weapon",
+      "Running-and-gunning"
+    ],
+    "weaknesses": [
+      "Low damage per bullet",
+      "Weak at medium/long range",
+      "High recoil in continuous spray",
+      "Small effective range"
+    ],
+    "tips": [
+      "Aim for upper body in close fights",
+      "Use while rushing",
+      "Pair with AR or sniper",
+      "Keep fights within tight spaces"
+    ],
+    "release": {
+      "update": "OB28",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Healing Sniper",
+    "title": "The Support Sniper",
+    "description": "A unique sniper rifle that heals teammates instead of dealing damage.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Support Sniper",
+    "damage": 0,
+    "range": "Long Range",
+    "special_features": [
+      "Heals teammates from distance",
+      "High healing per shot",
+      "Long-range support",
+      "Ideal for tactical plays"
+    ],
+    "best_for": [
+      "Team support",
+      "Healing from a distance",
+      "Providing safe assistance",
+      "Support-oriented squads"
+    ],
+    "weaknesses": [
+      "Cannot damage enemies",
+      "Slow fire rate",
+      "Requires accuracy",
+      "Not useful in solo fights"
+    ],
+    "tips": [
+      "Use to support teammates from behind",
+      "Stay positioned safely",
+      "Pair with strong secondary weapon",
+      "Heal rushing teammates"
+    ],
+    "release": {
+      "update": "OB31",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Flamethrower",
+    "title": "The Fire Breather",
+    "description": "A close-range weapon that deals continuous fire damage to enemies.",
+    "type": "Special Weapon",
+    "weapon_type": "Flame Gun",
+    "damage": 55,
+    "range": "Close Range",
+    "special_features": [
+      "Burn damage over time",
+      "Covers wide area",
+      "Great for flushing enemies",
+      "Ignores some cover"
+    ],
+    "best_for": [
+      "Close-range fights",
+      "Breaking enemy defense",
+      "Rushing campers",
+      "Holding small areas"
+    ],
+    "weaknesses": [
+      "Very short range",
+      "Consumes ammo fast",
+      "Low precision",
+      "Poor in open fields"
+    ],
+    "tips": [
+      "Use in tight spaces",
+      "Corner opponents",
+      "Combine with Gloo Walls",
+      "Stay near cover while rushing"
+    ],
+    "release": {
+      "update": "OB7",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "MAC10",
+    "title": "The Stabilized SMG",
+    "description": "A high fire-rate SMG with built-in silencer and strong stability.",
+    "type": "SMG",
+    "weapon_type": "Submachine Gun",
+    "damage": 24,
+    "range": "Close to Mid Range",
+    "special_features": [
+      "Built-in silencer",
+      "High fire rate",
+      "Stable spraying",
+      "Reliable mobility"
+    ],
+    "best_for": [
+      "Rush gameplay",
+      "Fast takedowns",
+      "Close-range duels",
+      "Stealthy attacks"
+    ],
+    "weaknesses": [
+      "Medium damage",
+      "Weak long-range performance",
+      "High ammo consumption",
+      "Needs good recoil control"
+    ],
+    "tips": [
+      "Aim for chest and head",
+      "Use while strafing",
+      "Pair with AR for range",
+      "Use as rush weapon"
+    ],
+    "release": {
+      "update": "OB31",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "AC80",
+    "title": "The Double-Shot Sniper",
+    "description": "A precision sniper that deals bonus damage when hitting consecutive shots.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Designated Marksman Rifle",
+    "damage": 72,
+    "range": "Long Range",
+    "special_features": [
+      "Bonus damage on consecutive hits",
+      "Fast follow-up shot",
+      "High armor penetration",
+      "Hybrid sniper-AR feel"
+    ],
+    "best_for": [
+      "Mid to long-range fights",
+      "Breaking gloo walls",
+      "High-accuracy players",
+      "Support and sniping"
+    ],
+    "weaknesses": [
+      "Requires accuracy",
+      "Slow reload",
+      "Not great in close range",
+      "Low magazine size"
+    ],
+    "tips": [
+      "Try to hit consecutive shots",
+      "Use as mid-range sniper",
+      "Stay on high ground",
+      "Pair with SMG"
+    ],
+    "release": {
+      "update": "OB29",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "G36",
+    "title": "The Adaptive AR",
+    "description": "An assault rifle with switchable firing modes for close and long-range combat.",
+    "type": "Assault Rifle",
+    "weapon_type": "AR",
+    "damage": 33,
+    "range": "Mid to Long Range",
+    "special_features": [
+      "Switchable firing modes",
+      "Great stability",
+      "Good accuracy",
+      "Versatile use"
+    ],
+    "best_for": [
+      "All-round combat",
+      "Mid-range duels",
+      "Stable spraying",
+      "New players"
+    ],
+    "weaknesses": [
+      "Lower headshot damage",
+      "Mode switching takes time",
+      "Not the highest DPS",
+      "Average recoil"
+    ],
+    "tips": [
+      "Switch firing modes based on distance",
+      "Use burst for long range",
+      "Use auto mode for close range",
+      "Pair with SMG or shotgun"
+    ],
+    "release": {
+      "update": "OB32",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Charge Buster",
+    "title": "The Charged Shotgun",
+    "description": "A shotgun that becomes more powerful the longer it is charged before firing.",
+    "type": "Shotgun",
+    "weapon_type": "SG",
+    "damage": 24,
+    "range": "Close Range",
+    "special_features": [
+      "Charge to increase damage",
+      "High burst potential",
+      "Good for holding angles",
+      "Massive close-range power"
+    ],
+    "best_for": [
+      "Close-range duels",
+      "Holding tight spaces",
+      "One-shot potential",
+      "Ambush gameplay"
+    ],
+    "weaknesses": [
+      "Charging slows movement",
+      "Weak when uncharged",
+      "Difficult in open fights",
+      "Timing required"
+    ],
+    "tips": [
+      "Charge before engaging",
+      "Hide while charging",
+      "Use gloo wall for protection",
+      "Fire from close distance"
+    ],
+    "release": {
+      "update": "OB34",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "M24",
+    "title": "The Lightweight Sniper",
+    "description": "A fast-handling sniper rifle with quick ADS and mobility.",
+    "type": "Sniper Rifle",
+    "weapon_type": "Sniper",
+    "damage": 88,
+    "range": "Long Range",
+    "special_features": [
+      "Quick scope-in",
+      "High mobility",
+      "Fast reload",
+      "Precision accuracy"
+    ],
+    "best_for": [
+      "Long-range sniping",
+      "Quick scoping",
+      "Mobile gameplay",
+      "Hit-and-run tactics"
+    ],
+    "weaknesses": [
+      "Lower damage than AWM",
+      "Not one-shot to the body",
+      "Requires good aim",
+      "Low magazine size"
+    ],
+    "tips": [
+      "Utilize quick ADS",
+      "Keep repositioning",
+      "Aim for head for instant kills",
+      "Pair with AR or SMG"
+    ],
+    "release": {
+      "update": "OB36",
+      "type": "Weapon Release"
+    }
+  },
+  {
+    "name": "Bizon",
+    "title": "The High-Capacity SMG",
+    "description": "A submachine gun with a large magazine and stable mid-range performance.",
+    "type": "SMG",
+    "weapon_type": "Submachine Gun",
+    "damage": 24,
+    "range": "Close to Mid Range",
+    "special_features": [
+      "Large magazine",
+      "Stable spraying",
+      "High mobility",
+      "Great for rush gameplay"
+    ],
+    "best_for": [
+      "Continuous spraying",
+      "Rush gameplay",
+      "Close-range fights",
+      "Players needing large ammo capacity"
+    ],
+    "weaknesses": [
+      "Lower per-bullet damage",
+      "Not good for long range",
+      "Mediocre accuracy",
+      "High ammo usage"
+    ],
+    "tips": [
+      "Spray continuously using large mag",
+      "Keep medium distance",
+      "Pair with sniper or AR",
+      "Aim for chest area"
+    ],
+    "release": {
+      "update": "OB33",
+      "type": "Weapon Release"
+    }
+  }
+]

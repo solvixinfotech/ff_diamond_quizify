@@ -79,44 +79,70 @@ const Index = () => {
           {CATEGORY_TABS.map((category) => (
             <TabsContent key={category.id} value={category.id}>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {categorizedQuizzes[category.id]?.map((quiz) => (
-                  <Card
-                    key={quiz.id}
-                    className="group hover:shadow-glow transition-all duration-300 hover:scale-105 border-border bg-card overflow-hidden"
-                  >
-                    <div className="relative h-48 overflow-hidden">
-                      <img
-                        src={quiz.image}
-                        alt={quiz.title}
-                        className="cover group-hover:scale-110 transition-transform duration-300"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-card to-transparent" />
-                    </div>
-                    <CardHeader>
-                      <div className="flex items-center justify-between text-sm uppercase tracking-wide text-primary">
-                        <span>{category.label}</span>
-                        <span>{quiz.questions.length} Questions</span>
-                      </div>
-                      <CardTitle className="text-2xl">{quiz.title}</CardTitle>
-                      <CardDescription className="text-muted-foreground">
-                        {quiz.description}
-                      </CardDescription>
-                    </CardHeader>
-                    <CardContent>
-                      <div className="flex items-center justify-between">
-                        <div className="flex items-center gap-2 text-primary">
-                          <span className="text-2xl">🪙</span>
-                          <span className="font-bold">50 Coins</span>
+                {categorizedQuizzes[category.id]?.map((quiz) => {
+                  // Extract the name from the quiz ID (format: category-name)
+                  const itemName = quiz.id.replace(`${category.id}-`, '');
+                  
+                  return (
+                    <Card
+                      key={quiz.id}
+                      className="group hover:shadow-glow transition-all duration-300 hover:scale-105 border-border bg-card overflow-hidden"
+                    >
+                      <Link to={`/details/${category.id}/${itemName}`}>
+                        <div className="relative h-48 overflow-hidden cursor-pointer">
+                          <img
+                            src={quiz.image}
+                            alt={quiz.title}
+                            className="cover group-hover:scale-110 transition-transform duration-300"
+                            onError={(e) => {
+                              (e.target as HTMLImageElement).src = '/placeholder.svg';
+                            }}
+                          />
+                          <div className="absolute inset-0 bg-gradient-to-t from-card to-transparent" />
+                          <div className="absolute top-3 right-3">
+                            <div className="bg-background/80 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-semibold">
+                              View Details →
+                            </div>
+                          </div>
                         </div>
-                        <Link to={`/quiz/${quiz.id}`}>
-                          <Button className="bg-gradient-primary hover:opacity-90 shadow-glow">
-                            Start Quiz
-                          </Button>
+                      </Link>
+                      <CardHeader>
+                        <div className="flex items-center justify-between text-sm uppercase tracking-wide text-primary">
+                          <span>{category.label}</span>
+                          <span>{quiz.questions.length} Questions</span>
+                        </div>
+                        <Link to={`/details/${category.id}/${itemName}`}>
+                          <CardTitle className="text-2xl hover:text-primary transition-colors cursor-pointer">
+                            {quiz.title}
+                          </CardTitle>
                         </Link>
-                      </div>
-                    </CardContent>
-                  </Card>
-                ))}
+                        <CardDescription className="text-muted-foreground line-clamp-2">
+                          {quiz.description}
+                        </CardDescription>
+                      </CardHeader>
+                      <CardContent>
+                        <div className="flex items-center justify-between gap-3">
+                          <div className="flex items-center gap-2 text-primary">
+                            <span className="text-2xl">🪙</span>
+                            <span className="font-bold">50 Coins</span>
+                          </div>
+                          <div className="flex gap-2">
+                            <Link to={`/details/${category.id}/${itemName}`}>
+                              <Button variant="outline" size="sm" className="border-primary text-primary hover:bg-primary hover:text-white">
+                                Details
+                              </Button>
+                            </Link>
+                            <Link to={`/quiz/${quiz.id}`}>
+                              <Button size="sm" className="bg-gradient-primary hover:opacity-90 shadow-glow">
+                                Quiz
+                              </Button>
+                            </Link>
+                          </div>
+                        </div>
+                      </CardContent>
+                    </Card>
+                  );
+                })}
               </div>
             </TabsContent>
           ))}

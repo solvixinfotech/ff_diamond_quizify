@@ -1,0 +1,2247 @@
+[
+  {
+    "name": "Nero",
+    "title": "The Dreamsmith",
+    "description": "A miraculous survivor of a brutal freeze, who gained the power to shape dreams. In the waking world he acts solitarily and stays untraceable; in his dream-space he is all-powerful.",
+    "role": "Controller / Area Denial",
+    "ability": {
+      "name": "Cryo Mind",
+      "type": "Active",
+      "details": {
+        "plush_hp": 150,
+        "duration_seconds": 12,
+        "throw_range_meters": 100,
+        "trigger_radius_meters": 8,
+        "dream_field_radius_meters": 8,
+        "damage_per_second": 12,
+        "cooldown_seconds": 45,
+        "effects": [
+          "Disables placement of Gloo Walls within the dream field",
+          "Deals continuous damage to enemies inside the zone",
+          "Marks the enemy for a short duration if they destroy the plush"
+        ]
+      }
+    },
+    "strengths": [
+      "Breaks enemy defense by disabling Gloo Walls",
+      "Strong area control and zoning",
+      "Pressure with continuous damage"
+    ],
+    "weaknesses": [
+      "Plush can be destroyed (150 HP)",
+      "Long cooldown",
+      "Using ability may expose Nero in some situations"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Nikita", "Wolfrahh", "Luna"],
+        "reason": "Boosts fire rate, headshot damage, and reduces enemy healing."
+      },
+      {
+        "combo": ["Andrew", "Maro", "Moco"],
+        "reason": "Provides damage reduction, long-range advantage, and enemy tracking."
+      },
+      {
+        "combo": ["Nikita", "Andrew", "J.Biebs"],
+        "reason": "Balanced between offense, defense and cooldown support."
+      }
+    ],
+    "release": {
+      "update": "OB51",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Rin",
+    "title": "Yagami Ninja",
+    "description": "Trained in ancient sword- and kunai-techniques, the younger sister of the Yagami family heir. Calm, skilled and built to disrupt enemy cover and defenses.",
+    "role": "Offensive / Cover Breaker",
+    "ability": {
+      "name": "Gale of Kunai",
+      "type": "Passive",
+      "details": {
+        "kunai_generation_interval_seconds": 8,
+        "max_kunai": 3,
+        "damage_against_gloo_walls": 16,
+        "damage_scaling_with_distance": true,
+        "special_effects": [
+          "Automatically summons kunai every 8 seconds (up to 3 stacked)",
+          "Kunai auto-target enemies or Gloo Walls when user hits target",
+          "Highly effective at breaking Gloo Wall defenses"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent at breaking Gloo Wall defenses",
+      "Automatic damage without needing to aim kunai manually",
+      "Strong in mid-range skirmishes and aggressive play"
+    ],
+    "weaknesses": [
+      "Effect is not as strong in very close-quarters without cover to break",
+      "Dependent on the action of hitting a target to trigger kunai",
+      "Best when combined with aggressive teammates"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Alok", "Kelly", "Jota"],
+        "reason": "Increases movement speed and sustain so Rin can flank and trigger kunai frequently."
+      },
+      {
+        "combo": ["Dasha", "Laura", "Tatsuya"],
+        "reason": "Reduces recoil/fall-damage & boosts accuracy—good for aggressive mid-range plays."
+      }
+    ],
+    "release": {
+      "update": "OB50",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Oscar",
+    "title": "Night Vigilante",
+    "description": "By day a brilliant student, by night a vigilante leaping through the shadows. Tactical, precise and built to break through fortified enemy positions.",
+    "role": "Initiator / Breacher",
+    "ability": {
+      "name": "Valiant Dash",
+      "type": "Active",
+      "details": {
+        "gloo_walls_destroyed": 3,
+        "damage_to_gloo_walls": 25,
+        "damage_to_enemies": 25,
+        "knockback_enemies": true,
+        "cooldown_seconds": 60,
+        "effects": [
+          "Dashes in the target direction",
+          "Destroys up to the first 3 Gloo Walls encountered",
+          "Deals damage to and knocks back enemies in the dash path"
+        ]
+      }
+    },
+    "strengths": [
+      "Breaks through enemy cover and defensive setups",
+      "Initiates fights and creates openings for team",
+      "Surprises enemies relying on Gloo Wall defenses"
+    ],
+    "weaknesses": [
+      "Cooldown is long (60 seconds)",
+      "Requires good timing and positioning to be effective",
+      "Dash can be predicted or countered if enemies anticipate it"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Clu", "Alok"],
+        "reason": "Provides enemy tagging & vision, plus mobility/heal support for Oscar’s initiations."
+      },
+      {
+        "combo": ["Andrew", "Ford", "Shani"],
+        "reason": "Increases Oscar’s survivability while he pushes into defensive enemy setups."
+      }
+    ],
+    "release": {
+      "update": "OB48",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Kassie",
+    "title": "The Mindlink Summoner",
+    "description": "Kassie is a prodigy psychologist whose experimental AM-Tracking Mindlink can synchronize senses with allies, detecting hidden threats and revealing enemies through barriers.",
+    "role": "Intel / Support",
+    "ability": {
+      "name": "Mindlink",
+      "type": "Active",
+      "details": {
+        "duration_seconds": 15,
+        "radius_meters": 25,
+        "ally_sync_slots": 1,
+        "cooldown_seconds": 60,
+        "effects": [
+          "Reveals nearby enemies within the scan radius",
+          "Shares enemy visibility with one synced ally",
+          "Enhances situational awareness through walls",
+          "Marks enemies briefly after they leave the scan zone"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent enemy scanning and wall-vision support",
+      "Boosts team coordination",
+      "Strong anti-camouflage and anti-flank detection"
+    ],
+    "weaknesses": [
+      "Long cooldown",
+      "Requires good communication with teammates",
+      "Provides no direct combat buff"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Laura", "Nikita"],
+        "reason": "Enhances tag duration, accuracy, and fire-rate synergy."
+      },
+      {
+        "combo": ["Dasha", "Kelly", "Wolfrahh"],
+        "reason": "Improves mobility and gun handling around scanned enemies."
+      },
+      {
+        "combo": ["Clu", "Moco", "Olivia"],
+        "reason": "Maximum intel support with backup healing synergy."
+      }
+    ],
+    "release": {
+      "update": "OB42",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Kairos",
+    "title": "The Elite Assault Operator",
+    "description": "Kairos is a former special forces soldier equipped with a kinetic energy suit that amplifies his combat potential. When activated, his suit generates recovery energy that restores EP rapidly in battle.",
+    "role": "Bruiser / Sustain Fighter",
+    "ability": {
+      "name": "Defense Breaker",
+      "type": "Passive",
+      "details": {
+        "ep_recovery_per_second": 4,
+        "max_ep_recovery": 50,
+        "armor_damage_bonus_percent": 15,
+        "cooldown_seconds": 20,
+        "effects": [
+          "Regenerates EP over time",
+          "Extra damage to enemy armor",
+          "Boosts survivability in extended fights"
+        ]
+      }
+    },
+    "strengths": [
+      "Great sustain with EP regen",
+      "Deals extra armor damage",
+      "Strong in close- to mid-range duels"
+    ],
+    "weaknesses": [
+      "Passive is slow for burst fights",
+      "Relies on EP for full value",
+      "Weaker long-range utility"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["A124", "Joseph", "Kelly"],
+        "reason": "Maximizes mobility and EP conversion for aggressive combat."
+      },
+      {
+        "combo": ["Xayne", "Hayato", "Moco"],
+        "reason": "Boosts armor penetration, durability, and enemy tracking."
+      },
+      {
+        "combo": ["Jota", "Luqueta", "Dimitri"],
+        "reason": "High sustain healing and durability stacking."
+      }
+    ],
+    "release": {
+      "update": "OB39",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Ryden",
+    "title": "The Spider Tech Prodigy",
+    "description": "Ryden is a 16-year-old genius inventor who created an autonomous spider bot capable of tracking and slowing enemies. His inventions help control fights by disrupting enemy mobility.",
+    "role": "Scout / Disruptor",
+    "ability": {
+      "name": "Spider Trap",
+      "type": "Active",
+      "details": {
+        "bot_hp": 100,
+        "duration_seconds": 13,
+        "throw_range_meters": 10,
+        "slow_effect_percent": 80,
+        "tracking_period_seconds": 3,
+        "cooldown_seconds": 45,
+        "effects": [
+          "Releases a spider bot that attaches to an enemy",
+          "Slows enemy movement drastically",
+          "Reveals enemy location while attached",
+          "Forces enemies to reposition or disengage"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent enemy slowdown and tracking",
+      "Great for isolating targets",
+      "Forces enemy movement decisions"
+    ],
+    "weaknesses": [
+      "Bot can be destroyed",
+      "Short deployment range",
+      "Cooldown is long for team fights"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Kelly", "Nikita"],
+        "reason": "Improves mobility, tagging, and quick eliminations."
+      },
+      {
+        "combo": ["D-Bee", "Joseph", "Dasha"],
+        "reason": "Maximizes strafing and movement while enemies are slowed."
+      },
+      {
+        "combo": ["Maro", "Hayato", "Andrew"],
+        "reason": "Boosts long-range elimination potential on slowed targets."
+      }
+    ],
+    "release": {
+      "update": "OB43",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Ignis",
+    "title": "The Flame Wielder",
+    "description": "Ignis is a resilient fighter who manipulates energy into burning walls of flame. His fiery barrier punishes enemies that try to rush or cross his line of defense.",
+    "role": "Controller / Anti-Rush",
+    "ability": {
+      "name": "Flame Mirage",
+      "type": "Active",
+      "details": {
+        "wall_hp": 200,
+        "duration_seconds": 15,
+        "range_meters": 20,
+        "burn_damage_per_second": 20,
+        "wall_length_meters": 10,
+        "cooldown_seconds": 45,
+        "effects": [
+          "Creates a flaming wall that blocks damage",
+          "Burns enemies crossing the flame line",
+          "Reduces enemy charge/ rush potential",
+          "Forces enemies to reposition"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong anti-rush zone control",
+      "High burn damage over time",
+      "Good for holding angles and defending"
+    ],
+    "weaknesses": [
+      "Wall can be destroyed (200 HP)",
+      "Not useful in open fights with no cover",
+      "Enemies can rotate around the wall"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Andrew", "Hayato", "Moco"],
+        "reason": "Gives damage reduction, armor penetration, and enemy marking."
+      },
+      {
+        "combo": ["Kelly", "Wolfrahh", "Nikita"],
+        "reason": "Boosts mobility, DPS, and anti-shield efficiency."
+      },
+      {
+        "combo": ["Jota", "Luqueta", "Dimitri"],
+        "reason": "Maximizes sustain when enemies push through flames."
+      }
+    ],
+    "release": {
+      "update": "OB36",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Suzy",
+    "title": "The Bounty Huntress",
+    "description": "Suzy is a fearless street enforcer who collects bounties from defeated enemies. Her skill grants extra eco-strength by rewarding players for aggressive eliminations.",
+    "role": "Economy / Aggressive Finisher",
+    "ability": {
+      "name": "Money Mark",
+      "type": "Passive",
+      "details": {
+        "bonus_coins_per_knock": 100,
+        "bonus_coins_per_elimination": 150,
+        "max_coins_per_match": 500,
+        "cooldown_seconds": 0,
+        "effects": [
+          "Earns bonus coins for each knocked enemy",
+          "Extra coins for confirmed eliminations",
+          "Supports faster weapon and utility purchases",
+          "Encourages consistent aggression"
+        ]
+      }
+    },
+    "strengths": [
+      "Best passive for gaining fast economy",
+      "Perfect for rush gameplay",
+      "Major advantage in early and mid-game loadouts"
+    ],
+    "weaknesses": [
+      "No combat stats provided",
+      "Useless if you can't secure kills",
+      "Economy cap can be reached quickly in some matches"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "D-Bee", "Nikita"],
+        "reason": "Boosts speed, accuracy, and fire rate — perfect for aggressive fights."
+      },
+      {
+        "combo": ["Moco", "Wolfrahh", "Hayato"],
+        "reason": "Marks enemies, increases damage scaling, and boosts penetration."
+      },
+      {
+        "combo": ["Jota", "Luqueta", "Joseph"],
+        "reason": "Strong healing + mobility ensures Suzy stays alive to farm coins."
+      }
+    ],
+    "release": {
+      "update": "OB41",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Sonia",
+    "title": "The Nano Guardian",
+    "description": "Sonia is a biotechnology researcher with a nano-shield system that temporarily saves her from fatal blows. She can continue fighting in a limited survivable state before collapsing.",
+    "role": "Clutch / Survival Specialist",
+    "ability": {
+      "name": "Nano Shield",
+      "type": "Active",
+      "details": {
+        "shield_hp": 150,
+        "revive_state_duration_seconds": 3,
+        "damage_reduction_percent": 70,
+        "move_speed_debuff_percent": 30,
+        "cooldown_seconds": 180,
+        "effects": [
+          "Activates a nano-shield preventing instant death",
+          "Allows Sonia to fight for a few seconds after lethal damage",
+          "Can eliminate enemies during survival state",
+          "If she kills someone, she revives with HP restored"
+        ]
+      }
+    },
+    "strengths": [
+      "Best clutch ability in tight fights",
+      "Allows second chance even after lethal damage",
+      "Great for close-range 1v2 or 1v3 situations"
+    ],
+    "weaknesses": [
+      "Very long cooldown",
+      "Movement speed reduced during survival state",
+      "Requires securing a kill to revive"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Jota", "Luqueta"],
+        "reason": "Maximizes the chance to secure kills during her survival window."
+      },
+      {
+        "combo": ["Hayato", "D-Bee", "Moco"],
+        "reason": "Boosts accuracy, mobility, and tagging to clutch enemies."
+      },
+      {
+        "combo": ["Joseph", "Nikita", "Wolfrahh"],
+        "reason": "Increases strafing, fire rate, and finishing potential."
+      }
+    ],
+    "release": {
+      "update": "OB38",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Orion",
+    "title": "The Shadow Predator",
+    "description": "Orion is a mysterious warrior infused with shadow energy. He can temporarily transform his body into a void-like form, making him immune to damage while absorbing enemy HP.",
+    "role": "Aggressor / Survival",
+    "ability": {
+      "name": "Crimson Crush",
+      "type": "Active",
+      "details": {
+        "duration_seconds": 3,
+        "hp_absorption": 15,
+        "max_absorption": 45,
+        "movement_speed_bonus_percent": 20,
+        "cooldown_seconds": 40,
+        "effects": [
+          "Transforms Orion into a shadow form immune to damage",
+          "Absorbs HP from nearby enemies",
+          "Increases mobility during active state",
+          "Allows safe repositioning or clutch engagements"
+        ]
+      }
+    },
+    "strengths": [
+      "Temporary invincibility",
+      "Strong HP-stealing mechanic",
+      "Effective for pushing squads or escaping fights"
+    ],
+    "weaknesses": [
+      "Very short duration",
+      "Requires close distance to absorb HP",
+      "Cannot deal normal weapon damage during ability"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Jota", "Hayato"],
+        "reason": "Enhances rushing capability, penetration, and sustain."
+      },
+      {
+        "combo": ["Moco", "D-Bee", "Wolfrahh"],
+        "reason": "Provides speed, accuracy, and enemy tracking."
+      },
+      {
+        "combo": ["Joseph", "Nikita", "Luqueta"],
+        "reason": "Improves strafing, fire rate, and survivability."
+      }
+    ],
+    "release": {
+      "update": "OB39",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Santino",
+    "title": "The Fashion Phantom",
+    "description": "Santino is a charismatic fashion icon with the ability to summon a digital mannequin that mimics his movements. This phantom can be positioned for strategic teleportation.",
+    "role": "Mobility / Outplay",
+    "ability": {
+      "name": "Shape Splitter",
+      "type": "Active",
+      "details": {
+        "mannequin_duration_seconds": 12,
+        "teleport_range_meters": 60,
+        "mannequin_hp": 120,
+        "cooldown_seconds": 60,
+        "effects": [
+          "Deploys a moving mannequin clone",
+          "Allows instant teleportation to the mannequin",
+          "Confuses enemies by duplicating movements",
+          "Useful for repositioning, flanking, or escaping"
+        ]
+      }
+    },
+    "strengths": [
+      "High mobility and repositioning",
+      "Great for solo outplays",
+      "Disorients enemies during firefights"
+    ],
+    "weaknesses": [
+      "Mannequin can be destroyed",
+      "Requires precise timing",
+      "Not ideal for straight combat buffs"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Joseph", "Moco"],
+        "reason": "Boosts mobility and provides enemy tracking."
+      },
+      {
+        "combo": ["D-Bee", "Dasha", "Wolfrahh"],
+        "reason": "Maximizes strafing and accuracy during repositioning."
+      },
+      {
+        "combo": ["Jota", "Luqueta", "Andrew"],
+        "reason": "Adds tankiness and survivability after teleport plays."
+      }
+    ],
+    "release": {
+      "update": "OB37",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Luna",
+    "title": "The Moon Blade Specialist",
+    "description": "Luna is a trained lunar assassin whose abilities manipulate tempo and rhythm of battle. Her passive increases firing-rate efficiency with every bullet landed.",
+    "role": "DPS / Duelist",
+    "ability": {
+      "name": "Fight-or-Flight",
+      "type": "Passive",
+      "details": {
+        "fire_rate_increase_percent": 8,
+        "max_stack_percent": 24,
+        "stack_duration_seconds": 5,
+        "reset_time_seconds": 8,
+        "effects": [
+          "Increases fire rate after dealing damage",
+          "Boosts short-burst combat effectiveness",
+          "Stacks quickly with SMGs and ARs",
+          "Perfect for duel-heavy skirmishes"
+        ]
+      }
+    },
+    "strengths": [
+      "Very high DPS potential",
+      "Great for close to mid-range duels",
+      "Synergizes with fast-firing weapons"
+    ],
+    "weaknesses": [
+      "Requires consistent gunshots to keep stacks",
+      "No defensive benefits",
+      "Less impactful in long-range fights"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Nikita", "Wolfrahh", "Kelly"],
+        "reason": "Maximizes fire rate, headshot multipliers, and speed."
+      },
+      {
+        "combo": ["Moco", "D-Bee", "Hayato"],
+        "reason": "Enhances tracking, accuracy, and damage penetration."
+      },
+      {
+        "combo": ["Joseph", "Dasha", "Jota"],
+        "reason": "Improves recoil control, strafing, and sustain in fights."
+      }
+    ],
+    "release": {
+      "update": "OB36",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Tatsuya",
+    "title": "The Street Sprinter",
+    "description": "Tatsuya is a rebellious street racer with incredible dash bursts that let him close distances or escape instantly.",
+    "role": "Mobility / Rush",
+    "ability": {
+      "name": "Rebel Rush",
+      "type": "Active",
+      "details": {
+        "dash_speed_percent": 100,
+        "dash_duration_seconds": 0.3,
+        "charges": 2,
+        "charge_recovery_seconds": 10,
+        "cooldown_seconds": 0,
+        "effects": [
+          "Allows extremely fast forward dashes",
+          "Great for entry fragging and surprise rushes",
+          "Can escape sniper shots instantly",
+          "Two charges allow combo movement"
+        ]
+      }
+    },
+    "strengths": [
+      "Best rush mobility in Free Fire",
+      "Amazing for dodging bullets",
+      "Great for aggressive entry fighting"
+    ],
+    "weaknesses": [
+      "Very short dash duration",
+      "Skillful timing required",
+      "No defensive buffs"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "D-Bee", "Jota"],
+        "reason": "Boosts sprint speed, accuracy, and healing on kills."
+      },
+      {
+        "combo": ["Hayato", "Moco", "Nikita"],
+        "reason": "Increases penetration, tracking, and fire rate."
+      },
+      {
+        "combo": ["Joseph", "Wolfrahh", "Luqueta"],
+        "reason": "Improves combat mobility and scaling."
+      }
+    ],
+    "release": {
+      "update": "OB36",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "A-Patroa",
+    "title": "The Rhythm Commander",
+    "description": "A-Patroa is a powerful performer whose presence energizes allies. Her energy field boosts movement and reload speed, enabling hyper-aggressive plays.",
+    "role": "Support / Aggressive",
+    "ability": {
+      "name": "Sonic Boost",
+      "type": "Passive",
+      "details": {
+        "movement_speed_bonus_percent": 10,
+        "reload_speed_bonus_percent": 20,
+        "team_effect_radius_meters": 15,
+        "effects": [
+          "Improves movement and reload speed",
+          "Affects teammates within radius",
+          "Ideal for coordinated team pushes",
+          "Helps win fast-paced gunfights"
+        ]
+      }
+    },
+    "strengths": [
+      "Teamwide movement and reload boost",
+      "Great for rush squads",
+      "No cooldown limitations"
+    ],
+    "weaknesses": [
+      "No healing or defensive advantages",
+      "Short effective range",
+      "Requires teammates to stay near"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "D-Bee", "Nikita"],
+        "reason": "Maximizes team mobility and DPS output."
+      },
+      {
+        "combo": ["Jota", "Andrew", "Luqueta"],
+        "reason": "Gives frontline durability and sustain."
+      },
+      {
+        "combo": ["Moco", "Hayato", "Wolfrahh"],
+        "reason": "Improves damage scaling and enemy marking."
+      }
+    ],
+    "release": {
+      "update": "OB33",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "Iris",
+    "title": "The Defense Breaker",
+    "description": "Iris is a young hacker who deploys EMP rounds that temporarily weaken enemy gloo walls while marking targets behind them.",
+    "role": "Anti-Gloo Wall / Intel",
+    "ability": {
+      "name": "Wall Breaker",
+      "type": "Active",
+      "details": {
+        "gloo_wall_penetration_percent": 20,
+        "enemy_mark_duration_seconds": 3,
+        "range_meters": 20,
+        "cooldown_seconds": 45,
+        "effects": [
+          "EMPs enemy gloo walls dealing bonus damage to them",
+          "Marks enemies hiding behind gloo walls",
+          "Helps rushers break defenses",
+          "Excellent counter to defensive players"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong anti-gloo wall tool",
+      "Provides vision advantage",
+      "Great for initiating pushes"
+    ],
+    "weaknesses": [
+      "Short range",
+      "No mobility or defensive boost",
+      "Requires team coordination"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Moco", "Nikita"],
+        "reason": "Enhances speed, enemy tracking, and fire rate for rushes."
+      },
+      {
+        "combo": ["Hayato", "Wolfrahh", "D-Bee"],
+        "reason": "Increases DPS, accuracy, and damage penetration."
+      },
+      {
+        "combo": ["Jota", "Luqueta", "Andrew"],
+        "reason": "Provides survivability when pushing broken gloo walls."
+      }
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "New Character Release"
+    }
+  },
+  {
+    "name": "J.Biebs",
+    "title": "The Silent Sentinel",
+    "description": "Inspired by Justin Bieber, J.Biebs uses his EP connection to protect himself and nearby allies, converting their energy into a defensive shield.",
+    "role": "Support / Defensive",
+    "ability": {
+      "name": "Night Silence",
+      "type": "Passive",
+      "details": {
+        "range_meters": 6,
+        "damage_block_percent": 7,
+        "ep_transfer": true,
+        "max_level": 6,
+        "effects": [
+          "Allies within range can block damage using their EP",
+          "EP used by allies is transferred back to J.Biebs"
+        ],
+        "scaling": [
+          {
+            "level": 1,
+            "range_m": 6,
+            "block_percent": 7
+          },
+          {
+            "level": 2,
+            "range_m": 8,
+            "block_percent": 7
+          },
+          {
+            "level": 3,
+            "range_m": 8,
+            "block_percent": 10
+          },
+          {
+            "level": 4,
+            "range_m": 10,
+            "block_percent": 10
+          },
+          {
+            "level": 5,
+            "range_m": 10,
+            "block_percent": 15
+          },
+          {
+            "level": 6,
+            "range_m": 12,
+            "block_percent": 15
+          }
+        ]
+      }
+    },
+    "strengths": [
+      "Protects both self and teammates via EP shield",
+      "Useful in team fights and defensive plays",
+      "Synergizes well with EP-generating characters"
+    ],
+    "weaknesses": [
+      "Dependent on allies’ EP",
+      "Only works within a small radius",
+      "No direct damage or mobility boost"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Alok", "A124", "Nairi"],
+        "reason": "Alok and A124 generate EP, Nairi provides defensive cover — all useful for J.Biebs’ shield."
+      },
+      {
+        "combo": ["K", "Joseph", "Maxim"],
+        "reason": "EP-centric team, helps maintain EP for damage blocking."
+      }
+    ],
+    "release": {
+      "update": "OB35",
+      "type": "Collaboration / Special Edition"
+    }
+  },
+  {
+    "name": "Homer",
+    "title": "The Blind Assassin",
+    "description": "Despite being blind from birth, Homer is a deadly assassin who uses a shockwave drone to disorient and damage his foes.",
+    "role": "Disruption / Debuffer",
+    "ability": {
+      "name": "Senses Shockwave",
+      "type": "Active",
+      "details": {
+        "pulse_radius_meters": 5,
+        "duration_seconds": 5,
+        "movement_slow_percent": 10,
+        "firing_slow_percent": 10,
+        "damage": 25,
+        "throw_range_meters": 100,
+        "cooldown_seconds": 140,
+        "effects": [
+          "Sends a drone that explodes on the nearest enemy",
+          "Reduces enemy movement and firing speed",
+          "Deals damage over the pulse area"
+        ],
+        "scaling": [
+          {
+            "level": 6,
+            "movement_slow": 60,
+            "firing_slow": 35,
+            "cooldown": 90
+          }
+        ]
+      }
+    },
+    "strengths": [
+      "Great at disrupting enemy mobility and firepower",
+      "Can be used to initiate or defend",
+      "Effective in both solo and team fights"
+    ],
+    "weaknesses": [
+      "Long cooldown at lower levels",
+      "Requires good timing to maximize impact",
+      "Skill effect is centered on a small area"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Kelly", "Dasha"],
+        "reason": "Tags enemies, brings mobility, and helps with aggressive plays while Homer slows them."
+      },
+      {
+        "combo": ["Alok", "Jota", "Nikita"],
+        "reason": "Sustain + firepower to exploit slowed enemies."
+      }
+    ],
+    "release": {
+      "update": "OB34",
+      "type": "New Character"
+    }
+  },
+  {
+    "name": "Kenta",
+    "title": "The Shield Swordsman",
+    "description": "Kenta is a frontline shield guardian. He can generate a frontal protective barrier that takes the brunt of enemy fire, shielding teammates behind him.",
+    "role": "Tank / Protector",
+    "ability": {
+      "name": "Swordsman's Wrath",
+      "type": "Active",
+      "details": {
+        "shield_width_meters": 5,
+        "damage_reduction_percent_front": 50,
+        "damage_reduction_firing_percent": 20,
+        "duration_seconds": 5,
+        "cooldown_seconds": 160,
+        "effects": [
+          "Generates a frontal shield that reduces incoming weapon damage",
+          "Shield effect weakens when Kenta fires his weapon"
+        ],
+        "scaling": [
+          {
+            "level": 1,
+            "duration": 2,
+            "cooldown": 210
+          },
+          {
+            "level": 6,
+            "duration": 5,
+            "cooldown": 160
+          }
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent for pushing with team",
+      "Protects teammates behind him",
+      "Very useful in tight firefights / narrow engagements"
+    ],
+    "weaknesses": [
+      "Shield breaks when he shoots",
+      "Long cooldown",
+      "Less effective in ranged fights or when flanked"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Alok", "Andrew", "Nikita"],
+        "reason": "Healing + sustain + penetration support to make a strong frontline."
+      },
+      {
+        "combo": ["Jota", "Dasha", "Orion"],
+        "reason": "Mobile team that can capitalize on protection and aggressive plays."
+      }
+    ],
+    "release": {
+      "update": "Heroes Arise",
+      "type": "New Character"
+    }
+  },
+  {
+    "name": "Nairi",
+    "title": "The Storm Chaser",
+    "description": "A climate-tech researcher who strengthens his Gloo Walls with self-healing durability, making them more resilient and useful as defensive cover.",
+    "role": "Support / Defense",
+    "ability": {
+      "name": "Ice Iron",
+      "type": "Passive",
+      "details": {
+        "gloo_heal_percent_per_second": 20,
+        "bonus_ar_damage_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Restores durability of deployed Gloo Walls over time",
+          "Increases damage to Gloo Walls when using assault rifles"
+        ],
+        "scaling": [
+          {
+            "level": 1,
+            "gloo_heal_percent": 20,
+            "bonus_damage_percent": 20
+          },
+          {
+            "level": 6,
+            "gloo_heal_percent": 30,
+            "bonus_damage_percent": 25
+          }
+        ]
+      }
+    },
+    "strengths": [
+      "Makes Gloo Walls very durable",
+      "Great for defensive or turtle strategies",
+      "Synergizes with assault rifle-heavy teams"
+    ],
+    "weaknesses": [
+      "Passive-only utility",
+      "Depends on deploying Gloo Walls",
+      "Less useful in very aggressive or fast-paced fights without usage of walls"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Jota", "Kenta"],
+        "reason": "Mobility + sustain + frontline protection to use her walls effectively."
+      },
+      {
+        "combo": ["Alok", "Maro", "Orion"],
+        "reason": "Healing + long-range damage + durability to create strong defended pushes."
+      }
+    ],
+    "release": {
+      "update": "OB31",
+      "type": "New Character"
+    }
+  },
+  {
+    "name": "Otho",
+    "title": "The Memory Engineer",
+    "description": "A tech genius who uses memory projection to reveal nearby enemies after a kill, giving his squad crucial intel during fights.",
+    "role": "Intel / Recon",
+    "ability": {
+      "name": "Memory Mist",
+      "type": "Passive",
+      "details": {
+        "reveal_range_percent": 25,
+        "max_level": 6,
+        "effects": [
+          "After knocking down / killing an enemy, reveals other nearby enemy locations",
+          "Reveal range increases with level"
+        ],
+        "scaling": [
+          {
+            "level": 1,
+            "range_percent": 25
+          },
+          {
+            "level": 6,
+            "range_percent": 50
+          }
+        ]
+      }
+    },
+    "strengths": [
+      "Provides good post-kill information",
+      "Helps in planning next moves or catching rotated enemies",
+      "Useful in both squad and solo play"
+    ],
+    "weaknesses": [
+      "Trigger condition depends on a kill",
+      "Passive only — no direct combat or defensive boost",
+      "Less useful in very passive or late-game fights"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Moco", "Hayato", "Jota"],
+        "reason": "Enemy tagging + damage + sustain to use the information well."
+      },
+      {
+        "combo": ["Dasha", "Kelly", "Andrew"],
+        "reason": "Mobility + durability to capitalize post-reveal."
+      }
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "New Character"
+    }
+  },
+  {
+    "name": "Leon",
+    "title": "The Comeback Star",
+    "description": "A rising basketball star who recovers health after surviving a fight, making him a resilient duelist who can stay in the fight longer.",
+    "role": "Sustain / Duelist",
+    "ability": {
+      "name": "Buzzer Beater",
+      "type": "Passive",
+      "details": {
+        "hp_recover_values": [5, 10, 15, 20, 25, 30],
+        "cooldown_condition": "after surviving combat",
+        "effects": [
+          "Recovers HP after a combat encounter",
+          "HP recovery increases with level"
+        ]
+      }
+    },
+    "strengths": [
+      "Very good sustain after fights",
+      "Helps clutch or survive exchanges",
+      "Good for aggressive but risky plays"
+    ],
+    "weaknesses": [
+      "Requires surviving a fight to trigger",
+      "No active or burst ability",
+      "Less utility outside duels or 1v1s"
+    ],
+    "best_combinations": [
+      {
+        "combo": ["Kelly", "Jota", "Alok"],
+        "reason": "Mobility + finish power + healing to extend fights."
+      },
+      {
+        "combo": ["K", "Nairi", "Orion"],
+        "reason": "Sustain + shield + aggressive playstyle."
+      }
+    ],
+    "release": {
+      "update": "OB30",
+      "type": "New Character"
+    }
+  },
+  {
+    "name": "Koda",
+    "title": "The Cyber Guardian",
+    "description": "Koda is a futuristic cyber-warrior who boosts reload and swap times, making gunfights faster and more efficient.",
+    "role": "Combat / Speed",
+    "ability": {
+      "name": "Switch Blitz",
+      "type": "Passive",
+      "details": {
+        "reload_speed_bonus_percent": 10,
+        "weapon_swap_speed_bonus_percent": 20,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "reload_bonus": 10, "swap_bonus": 20 },
+          { "level": 2, "reload_bonus": 12, "swap_bonus": 24 },
+          { "level": 3, "reload_bonus": 14, "swap_bonus": 28 },
+          { "level": 4, "reload_bonus": 16, "swap_bonus": 32 },
+          { "level": 5, "reload_bonus": 18, "swap_bonus": 36 },
+          { "level": 6, "reload_bonus": 20, "swap_bonus": 40 }
+        ]
+      }
+    },
+    "strengths": [
+      "Faster reload and weapon swap",
+      "Great for rush gameplay",
+      "Strong synergy with SMGs and ARs"
+    ],
+    "weaknesses": [
+      "No defensive buffs",
+      "No healing or mobility"
+    ]
+  },
+  {
+    "name": "Thiva",
+    "title": "The Rhythm Medic",
+    "description": "Thiva is a musician who specializes in saving teammates faster and providing bonus HP after successful rescues.",
+    "role": "Support / Revival",
+    "ability": {
+      "name": "Vital Vibes",
+      "type": "Passive",
+      "details": {
+        "revive_speed_percent": 15,
+        "bonus_hp_after_revive": 25,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "revive_speed": 15, "bonus_hp": 25 },
+          { "level": 6, "revive_speed": 30, "bonus_hp": 40 }
+        ]
+      }
+    },
+    "strengths": [
+      "Fastest revive character in Free Fire",
+      "Provides extra HP after reviving"
+    ],
+    "weaknesses": [
+      "Only helps during revives",
+      "No combat or defense buffs"
+    ]
+  },
+  {
+    "name": "Dimitri",
+    "title": "The Healing DJ",
+    "description": "Dimitri creates a healing zone where teammates recover HP and can self-revive.",
+    "role": "Support / Healing",
+    "ability": {
+      "name": "Healing Heartbeat",
+      "type": "Active",
+      "details": {
+        "duration_seconds": 10,
+        "heal_per_second": 3,
+        "radius_meters": 3.5,
+        "cooldown_seconds": 85,
+        "max_level": 6,
+        "effects": [
+          "Creates a healing zone",
+          "Continuous HP regeneration",
+          "Teammates can self-revive"
+        ]
+      }
+    },
+    "strengths": [
+      "Best self-revive skill in the game",
+      "Strong healing sustain for squads"
+    ],
+    "weaknesses": [
+      "Stationary healing zone",
+      "Can be countered with grenades"
+    ]
+  },
+  {
+    "name": "D-Bee",
+    "title": "The Hype Shooter",
+    "description": "D-Bee increases accuracy and movement speed when firing while moving.",
+    "role": "Aggressive / Rusher",
+    "ability": {
+      "name": "Bullet Beats",
+      "type": "Passive",
+      "details": {
+        "accuracy_increase_percent": 35,
+        "movement_speed_percent": 15,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "accuracy": 35, "speed": 15 },
+          { "level": 6, "accuracy": 60, "speed": 20 }
+        ]
+      }
+    },
+    "strengths": [
+      "Great for SMG rush gameplay",
+      "High accuracy when spraying"
+    ],
+    "weaknesses": [
+      "Requires movement to activate",
+      "Less effective with snipers"
+    ]
+  },
+  {
+    "name": "Maro",
+    "title": "The Falcon Marksman",
+    "description": "Maro deals extra damage based on distance and marks targets for increased damage.",
+    "role": "Sniper / Long Range",
+    "ability": {
+      "name": "Falcon Fervor",
+      "type": "Passive",
+      "details": {
+        "damage_increase_by_distance_percent": 10,
+        "marked_target_damage_percent": 25,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "distance_damage": 10, "mark_damage": 25 },
+          { "level": 6, "distance_damage": 25, "mark_damage": 30 }
+        ]
+      }
+    },
+    "strengths": [
+      "Best long-range damage character",
+      "Great synergy with Moco"
+    ],
+    "weaknesses": [
+      "Not useful in close combat",
+      "Requires line of sight"
+    ]
+  },
+  {
+    "name": "Skyler",
+    "title": "The Sonic CEO",
+    "description": "Skyler unleashes a sonic wave that destroys Gloo Walls and heals him based on the number destroyed.",
+    "role": "Anti-Gloo / Aggressive",
+    "ability": {
+      "name": "Riptide Rhythm",
+      "type": "Active",
+      "details": {
+        "sonic_wave_damage_to_gloo": 8,
+        "max_gloo_hit": 5,
+        "heal_per_gloo": 9,
+        "cooldown_seconds": 60,
+        "max_level": 6,
+        "effects": [
+          "Destroys Gloo Walls in a straight line",
+          "Heals Skyler when destroying Gloo Walls",
+          "Works well in rush strategies"
+        ]
+      }
+    },
+    "strengths": [
+      "Best counter to Gloo Walls",
+      "Healing bonus during combat"
+    ],
+    "weaknesses": [
+      "Directional skill — requires aim",
+      "No passive effect"
+    ]
+  },
+  {
+    "name": "Xayne",
+    "title": "The Extreme Athlete",
+    "description": "Xayne is an adrenaline junkie who enters an enhanced combat state, boosting her HP temporarily and dealing increased damage to Gloo Walls and shields.",
+    "role": "Breaker / Aggressive Rusher",
+    "ability": {
+      "name": "Xtreme Encounter",
+      "type": "Active",
+      "details": {
+        "extra_hp": 80,
+        "shield_and_gloo_damage_percent": 100,
+        "duration_seconds": 8,
+        "cooldown_seconds": 150,
+        "effects": [
+          "Temporarily increases HP",
+          "Deals huge damage to shields",
+          "Rapidly destroys Gloo Walls",
+          "Great for final zone pushes"
+        ]
+      }
+    },
+    "strengths": [
+      "Massive burst damage to defenses",
+      "High survivability in close combat"
+    ],
+    "weaknesses": [
+      "Short duration",
+      "Long cooldown"
+    ]
+  },
+  {
+    "name": "Shirou",
+    "title": "The Delivery Guardian",
+    "description": "Shirou marks enemies who damage him and deals additional armor-penetrating damage on his next shot.",
+    "role": "Tracker / Counter-Attacker",
+    "ability": {
+      "name": "Damage Delivered",
+      "type": "Passive",
+      "details": {
+        "mark_duration_seconds": 6,
+        "penetration_percent": 50,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "penetration": 50 },
+          { "level": 6, "penetration": 100 }
+        ],
+        "effects": [
+          "Marks attacker for a few seconds",
+          "Next hit deals heavy armor penetration"
+        ]
+      }
+    },
+    "strengths": [
+      "Great for counter-attacking",
+      "High damage burst when returning fire"
+    ],
+    "weaknesses": [
+      "Trigger requires getting hit first"
+    ]
+  },
+  {
+    "name": "Chrono",
+    "title": "The Time Warrior",
+    "description": "Chrono creates a powerful force field that blocks incoming damage and boosts movement speed inside it.",
+    "role": "Defender / Anti-Rush",
+    "ability": {
+      "name": "Time Turner",
+      "type": "Active",
+      "details": {
+        "force_field_hp": 800,
+        "duration_seconds": 4,
+        "movement_speed_increase_percent": 15,
+        "cooldown_seconds": 180,
+        "effects": [
+          "Creates a damage-blocking force field",
+          "Increases movement speed",
+          "Used to take cover instantly during fights"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong temporary protection",
+      "Excellent during open-field fights"
+    ],
+    "weaknesses": [
+      "Very long cooldown",
+      "Reduced duration after nerfs"
+    ]
+  },
+  {
+    "name": "Dasha",
+    "title": "The Party Girl",
+    "description": "Dasha reduces recoil, weapon shake, and fall damage, making her useful for chaotic gunfights.",
+    "role": "Stability / Mobility",
+    "ability": {
+      "name": "Party On",
+      "type": "Passive",
+      "details": {
+        "recoil_reduction_percent": 10,
+        "recoil_recovery_percent": 10,
+        "fall_damage_reduction_percent": 45,
+        "fall_recovery_percent": 80,
+        "max_level": 6,
+        "effects": [
+          "Reduces total recoil",
+          "Reduces recoil buildup",
+          "Significantly reduces fall damage"
+        ]
+      }
+    },
+    "strengths": [
+      "Great for AR and LMG spray control",
+      "Safe from fall damage"
+    ],
+    "weaknesses": [
+      "No offensive damage boost"
+    ]
+  },
+  {
+    "name": "K",
+    "title": "Captain Booyah",
+    "description": "K has two EP-based modes—one boosts EP conversion and the other gradually restores EP to himself and teammates.",
+    "role": "Support / Sustain",
+    "ability": {
+      "name": "Master of All",
+      "type": "Active & Passive",
+      "details": {
+        "max_ep": 250,
+        "mode_switch_cooldown_seconds": 3,
+        "psychology_mode_ep_per_second": 3,
+        "jiu_jitsu_mode_conversion_percent": 600,
+        "effects": [
+          "Massive EP conversion increase for allies",
+          "EP regeneration field",
+          "Enhances long fights and survivability"
+        ]
+      }
+    },
+    "strengths": [
+      "Best EP sustain in the game",
+      "Provides healing utility for squad"
+    ],
+    "weaknesses": [
+      "Requires EP to function effectively"
+    ]
+  },
+  {
+    "name": "Luqueta",
+    "title": "The Rising Star",
+    "description": "Luqueta gains max HP after each kill, allowing him to become tankier as the match progresses.",
+    "role": "Survivability / Aggressive",
+    "ability": {
+      "name": "Hat Trick",
+      "type": "Passive",
+      "details": {
+        "max_hp_bonus_per_kill": 25,
+        "max_bonus_hp": 50,
+        "max_level": 6,
+        "effects": [
+          "Gain max HP after kills",
+          "Strong scaling for aggressive players"
+        ]
+      }
+    },
+    "strengths": [
+      "Becomes tanky very quickly",
+      "Perfect for rushers"
+    ],
+    "weaknesses": [
+      "Requires kills to activate"
+    ]
+  },
+  {
+    "name": "Kelly",
+    "title": "The Sprinter",
+    "description": "Kelly increases sprinting speed and, after awakening, deals extra damage on the first shot.",
+    "role": "Speed / Flanking",
+    "ability": {
+      "name": "Dash",
+      "type": "Passive",
+      "details": {
+        "movement_speed_percent": 6,
+        "awakening_extra_damage_percent": 110,
+        "effects": [
+          "Run faster",
+          "Awakened version increases first-shot damage"
+        ]
+      }
+    },
+    "strengths": [
+      "Great mobility",
+      "Perfect for flanks and rushes"
+    ],
+    "weaknesses": [
+      "Low impact in stationary fights"
+    ]
+  },
+  {
+    "name": "Hayato",
+    "title": "The Samurai",
+    "description": "Hayato increases armor penetration as his HP drops, becoming deadlier under pressure.",
+    "role": "Close Combat / Damage",
+    "ability": {
+      "name": "Bushido",
+      "type": "Passive",
+      "details": {
+        "armor_penetration_percent_low_hp": 10,
+        "awakening_damage_reduction_percent": 20,
+        "effects": [
+          "More armor penetration at lower HP",
+          "Awakened version reduces frontal damage"
+        ]
+      }
+    },
+    "strengths": [
+      "High kill potential in low HP situations",
+      "Good for clutch moments"
+    ],
+    "weaknesses": [
+      "Risky playstyle"
+    ]
+  },
+  {
+    "name": "Moco",
+    "title": "The Hacker",
+    "description": "Moco tags enemies she hits, revealing their location for her team for several seconds.",
+    "role": "Tracker / Intel",
+    "ability": {
+      "name": "Hacker’s Eye",
+      "type": "Passive",
+      "details": {
+        "tag_duration_seconds": 2,
+        "awakening_tag_duration_seconds": 6,
+        "effects": [
+          "Reveals enemy location after hitting them",
+          "Awakened version shares tracking with teammates"
+        ]
+      }
+    },
+    "strengths": [
+      "Best tracking character in the game",
+      "Huge advantage in squad fights"
+    ],
+    "weaknesses": [
+      "No direct combat buffs"
+    ]
+  },
+  {
+    "name": "Steffie",
+    "title": "The Explosive Genius",
+    "description": "Steffie reduces damage from explosives and throws grenades further, making her a defensive yet aggressive combatant.",
+    "role": "Defense / Offensive",
+    "ability": {
+      "name": "Sentry's Touch",
+      "type": "Passive",
+      "details": {
+        "explosive_damage_reduction_percent": 10,
+        "grenade_throw_distance_bonus_percent": 20,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "damage_reduction": 10, "throw_bonus": 20 },
+          { "level": 6, "damage_reduction": 20, "throw_bonus": 40 }
+        ],
+        "effects": [
+          "Reduces explosive damage taken",
+          "Increases throw distance of grenades and molotovs"
+        ]
+      }
+    },
+    "strengths": [
+      "Mitigates explosive damage",
+      "Excellent for grenade-focused tactics"
+    ],
+    "weaknesses": [
+      "No direct gunplay advantage",
+      "Limited in melee combat"
+    ]
+  },
+  {
+    "name": "Misha",
+    "title": "The Energy Guru",
+    "description": "Misha can convert EP into HP for herself and teammates, providing healing support in fights.",
+    "role": "Support / Healer",
+    "ability": {
+      "name": "Genius Energy",
+      "type": "Passive",
+      "details": {
+        "ep_to_hp_conversion_percent": 25,
+        "heal_range_meters": 6,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "conversion": 25 },
+          { "level": 6, "conversion": 50 }
+        ],
+        "effects": [
+          "Converts EP to HP",
+          "Affects nearby teammates within range"
+        ]
+      }
+    },
+    "strengths": [
+      "Sustain and healing utility",
+      "Useful for long fights"
+    ],
+    "weaknesses": [
+      "Dependent on EP availability",
+      "Limited in aggressive solo fights"
+    ]
+  },
+  {
+    "name": "Maxim",
+    "title": "The Arms Specialist",
+    "description": "Maxim gains HP when looting, making him more survivable in late-game loot runs.",
+    "role": "Survivability / Rusher",
+    "ability": {
+      "name": "Maxim Effect",
+      "type": "Passive",
+      "details": {
+        "hp_gain_per_loot": 5,
+        "max_bonus_hp": 50,
+        "effects": [
+          "Gains HP when picking up items",
+          "Stackable up to max bonus"
+        ]
+      }
+    },
+    "strengths": [
+      "Extra HP during looting",
+      "Good for survival in open areas"
+    ],
+    "weaknesses": [
+      "Requires frequent looting",
+      "No combat or damage boost"
+    ]
+  },
+  {
+    "name": "Andrew",
+    "title": "The Armor Master",
+    "description": "Andrew reduces vest durability loss, making him more tanky and effective in prolonged fights.",
+    "role": "Tank / Defensive",
+    "ability": {
+      "name": "Vests Expert",
+      "type": "Passive",
+      "details": {
+        "armor_reduction_percent": 30,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "reduction": 30 },
+          { "level": 6, "reduction": 45 }
+        ],
+        "effects": [
+          "Reduces vest durability loss",
+          "Effective in head-on fights"
+        ]
+      }
+    },
+    "strengths": [
+      "Prolongs armor life",
+      "Great for defensive strategies"
+    ],
+    "weaknesses": [
+      "No offensive ability",
+      "Limited effect against explosives"
+    ]
+  },
+  {
+    "name": "Lila",
+    "title": "The Energy Savior",
+    "description": "Lila can restore EP of herself and teammates faster, enhancing survivability in fights.",
+    "role": "Support / EP Restoration",
+    "ability": {
+      "name": "EP Savior",
+      "type": "Passive",
+      "details": {
+        "ep_restore_percent": 20,
+        "heal_range_meters": 6,
+        "max_level": 6,
+        "effects": [
+          "Restores EP to nearby teammates",
+          "Increases EP regeneration for self"
+        ]
+      }
+    },
+    "strengths": [
+      "Improves team sustain",
+      "Good for prolonged engagements"
+    ],
+    "weaknesses": [
+      "No damage increase",
+      "Effect limited to range"
+    ]
+  },
+  {
+    "name": "Caroline",
+    "title": "The Rebel Queen",
+    "description": "Caroline gains increased accuracy and fire rate while aiming down sights, making her deadly in mid-range firefights.",
+    "role": "Mid-Range / Damage",
+    "ability": {
+      "name": "Sharp Shooter",
+      "type": "Passive",
+      "details": {
+        "accuracy_bonus_percent": 10,
+        "fire_rate_bonus_percent": 10,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "accuracy": 10, "fire_rate": 10 },
+          { "level": 6, "accuracy": 25, "fire_rate": 25 }
+        ],
+        "effects": [
+          "Improves ADS accuracy",
+          "Improves fire rate when aiming"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong mid-range performance",
+      "Good for squad fights"
+    ],
+    "weaknesses": [
+      "No close combat advantage",
+      "No defensive ability"
+    ]
+  },
+  {
+    "name": "Laura",
+    "title": "The Sniper Master",
+    "description": "Laura increases accuracy while using scoped weapons, making her lethal at long range.",
+    "role": "Sniper / Long Range",
+    "ability": {
+      "name": "Sharp Shooter",
+      "type": "Passive",
+      "details": {
+        "scope_accuracy_bonus_percent": 15,
+        "max_level": 6,
+        "effects": [
+          "Improves precision with sniper and scoped weapons"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent for long-range kills",
+      "Supports squad with precision fire"
+    ],
+    "weaknesses": [
+      "Ineffective in close combat"
+    ]
+  },
+  {
+    "name": "Rafael",
+    "title": "The Firefighter",
+    "description": "Rafael can throw incendiary grenades farther and takes reduced fire and explosion damage.",
+    "role": "Offense / Defensive",
+    "ability": {
+      "name": "Deadeye",
+      "type": "Passive",
+      "details": {
+        "fire_and_explosion_damage_reduction_percent": 20,
+        "grenade_throw_distance_bonus_percent": 20,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "reduction": 20, "throw_bonus": 20 },
+          { "level": 6, "reduction": 40, "throw_bonus": 40 }
+        ],
+        "effects": [
+          "Reduces incoming fire and explosion damage",
+          "Throws grenades farther"
+        ]
+      }
+    },
+    "strengths": [
+      "Mitigates fire and explosive damage",
+      "Great for aggressive grenade play"
+    ],
+    "weaknesses": [
+      "No direct gunplay advantage",
+      "Limited solo combat utility"
+    ]
+  },
+  {
+    "name": "Alok",
+    "title": "The DJ of Healing",
+    "description": "Alok creates an aura that heals HP and increases movement speed for nearby allies.",
+    "role": "Support / Healer",
+    "ability": {
+      "name": "Drop the Beat",
+      "type": "Active",
+      "details": {
+        "heal_hp_per_second": 5,
+        "movement_speed_percent": 15,
+        "radius_meters": 5,
+        "duration_seconds": 5,
+        "cooldown_seconds": 45,
+        "max_level": 6,
+        "scaling": [
+          { "level": 1, "heal": 5, "speed": 15 },
+          { "level": 6, "heal": 10, "speed": 25 }
+        ],
+        "effects": [
+          "Heals allies over time",
+          "Increases movement speed",
+          "Very useful for squad fights"
+        ]
+      }
+    },
+    "strengths": [
+      "Best healer for team play",
+      "Combines mobility and sustain"
+    ],
+    "weaknesses": [
+      "Aura limited in range",
+      "Cooldown required between uses"
+    ]
+  },
+  {
+    "name": "Jota",
+    "title": "The Survivor",
+    "description": "Jota regenerates HP when eliminating enemies with SMGs or shotguns, making him a strong rusher.",
+    "role": "Rusher / Aggressive",
+    "ability": {
+      "name": "Sustained Raids",
+      "type": "Passive",
+      "details": {
+        "hp_regen_per_kill": 35,
+        "max_level": 6,
+        "effects": [
+          "Restores HP upon eliminating enemies",
+          "Works with SMG and Shotgun kills"
+        ]
+      }
+    },
+    "strengths": [
+      "Sustain in aggressive play",
+      "Great for close combat"
+    ],
+    "weaknesses": [
+      "Requires kills to benefit",
+      "Limited utility in long-range fights"
+    ]
+  },
+  {
+    "name": "Clu",
+    "title": "The Tracker",
+    "description": "Clu detects nearby enemies within a certain range and shares this info with teammates.",
+    "role": "Intel / Tracker",
+    "ability": {
+      "name": "Tracing Steps",
+      "type": "Passive",
+      "details": {
+        "detection_radius_meters": 30,
+        "info_share_duration_seconds": 5,
+        "max_level": 6,
+        "effects": [
+          "Reveals nearby enemies to self and teammates",
+          "Helps plan ambushes or avoid danger"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent for squad awareness",
+      "Detects nearby threats early"
+    ],
+    "weaknesses": [
+      "Passive detection only",
+      "Cannot tag enemies beyond radius"
+    ]
+  },
+  {
+    "name": "Wolfrahh",
+    "title": "The Headshot King",
+    "description": "Wolfrahh deals increased headshot damage, scaling up with distance, making him lethal at mid-long range.",
+    "role": "Sharpshooter / Damage",
+    "ability": {
+      "name": "Limelight",
+      "type": "Passive",
+      "details": {
+        "headshot_damage_bonus_percent": 10,
+        "distance_bonus_damage_percent": 10,
+        "max_level": 6,
+        "effects": [
+          "Higher headshot damage",
+          "Extra damage at longer ranges"
+        ]
+      }
+    },
+    "strengths": [
+      "High damage for skilled players",
+      "Strong in long-range duels"
+    ],
+    "weaknesses": [
+      "Requires precision aim",
+      "Less effective in close combat"
+    ]
+  },
+  {
+    "name": "Jai",
+    "title": "The Scout",
+    "description": "Jai has increased movement speed and jump height when outside safe zone, improving mobility for rotations.",
+    "role": "Mobility / Scout",
+    "ability": {
+      "name": "Dead Silent",
+      "type": "Passive",
+      "details": {
+        "movement_speed_percent": 10,
+        "jump_boost_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Faster movement outside safe zone",
+          "Higher jumps for mobility and escape"
+        ]
+      }
+    },
+    "strengths": [
+      "Excellent rotation and escape abilities",
+      "Good for flanking or repositioning"
+    ],
+    "weaknesses": [
+      "No combat buffs",
+      "Situational usage"
+    ]
+  },
+  {
+    "name": "Alvaro",
+    "title": "The Bomber",
+    "description": "Alvaro reduces grenade damage received and throws grenades farther, making him both offensive and resilient.",
+    "role": "Offense / Defense",
+    "ability": {
+      "name": "Raging Reload",
+      "type": "Passive",
+      "details": {
+        "grenade_damage_reduction_percent": 30,
+        "throw_distance_bonus_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Reduces explosive damage taken",
+          "Throws grenades further"
+        ]
+      }
+    },
+    "strengths": [
+      "Tanky against grenades",
+      "Enhanced offensive grenade usage"
+    ],
+    "weaknesses": [
+      "No direct gunplay improvement"
+    ]
+  },
+  {
+    "name": "Antonio",
+    "title": "The Brawler",
+    "description": "Antonio gains extra HP at the start of the game, making him tankier in the early phase.",
+    "role": "Tank / Survivability",
+    "ability": {
+      "name": "Demonic Blast",
+      "type": "Passive",
+      "details": {
+        "initial_hp_bonus": 150,
+        "max_level": 6,
+        "effects": [
+          "Extra HP at start",
+          "Better early-game survivability"
+        ]
+      }
+    },
+    "strengths": [
+      "Stronger in early combat",
+      "Survivable in open fights"
+    ],
+    "weaknesses": [
+      "Does not scale with late-game fights",
+      "No combat ability boost"
+    ]
+  },
+  {
+    "name": "Paloma",
+    "title": "The Arms Dealer",
+    "description": "Paloma starts with extra ammo for all weapons, giving her an advantage in early-game fights.",
+    "role": "Support / Ammo Advantage",
+    "ability": {
+      "name": "Arms Deal",
+      "type": "Passive",
+      "details": {
+        "extra_ammo_per_weapon": 30,
+        "max_level": 6,
+        "effects": [
+          "Extra ammo for all guns at start",
+          "Reduces early-game looting time"
+        ]
+      }
+    },
+    "strengths": [
+      "Ammo sustainability",
+      "Early aggression advantage"
+    ],
+    "weaknesses": [
+      "No defensive or combat buffs"
+    ]
+  },
+  {
+    "name": "Miguel",
+    "title": "The Berserker",
+    "description": "Miguel gains HP every time he kills an enemy, enhancing survivability in extended fights.",
+    "role": "Aggressive / Rusher",
+    "ability": {
+      "name": "Crazy Slayer",
+      "type": "Passive",
+      "details": {
+        "hp_gain_per_kill": 25,
+        "max_level": 6,
+        "effects": [
+          "Gains HP after killing enemies",
+          "Allows aggressive gameplay with sustain"
+        ]
+      }
+    },
+    "strengths": [
+      "Good for aggressive play",
+      "Sustain during combat"
+    ],
+    "weaknesses": [
+      "Requires kills to benefit",
+      "Limited effect in late-game looting"
+    ]
+  },
+  {
+    "name": "Nikita",
+    "title": "The Gunslinger",
+    "description": "Nikita reloads SMGs faster, allowing her to maintain high DPS in close-range fights.",
+    "role": "Rusher / DPS",
+    "ability": {
+      "name": "Firepower",
+      "type": "Passive",
+      "details": {
+        "smg_reload_speed_bonus_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Faster SMG reload",
+          "Maintains consistent DPS"
+        ]
+      }
+    },
+    "strengths": [
+      "High close-range DPS",
+      "Fast SMG handling"
+    ],
+    "weaknesses": [
+      "Less effective with other weapon types"
+    ]
+  },
+  {
+    "name": "Kapella",
+    "title": "The Healer",
+    "description": "Kapella increases the healing received from medkits and other healing items, making her vital in team fights.",
+    "role": "Support / Healer",
+    "ability": {
+      "name": "Healing Song",
+      "type": "Passive",
+      "details": {
+        "heal_boost_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Increases healing from medkits, bandages, and other consumables",
+          "Supports long fights and team survivability"
+        ]
+      }
+    },
+    "strengths": [
+      "Boosts HP recovery for herself and teammates",
+      "Strong sustain in squad fights"
+    ],
+    "weaknesses": [
+      "No offensive ability",
+      "Dependent on consumables"
+    ]
+  },
+  {
+    "name": "Joseph",
+    "title": "The Mechanic",
+    "description": "Joseph takes reduced damage when vaulting over obstacles and throws, giving him mobility and tankiness in urban fights.",
+    "role": "Mobility / Defense",
+    "ability": {
+      "name": "Thrill of Battle",
+      "type": "Passive",
+      "details": {
+        "vault_damage_reduction_percent": 15,
+        "max_level": 6,
+        "effects": [
+          "Reduces damage while vaulting or jumping over obstacles",
+          "Improves survivability in close-range urban combat"
+        ]
+      }
+    },
+    "strengths": [
+      "Better mobility in buildings",
+      "Reduces accidental damage"
+    ],
+    "weaknesses": [
+      "No direct damage boost",
+      "Situational utility"
+    ]
+  },
+  {
+    "name": "Notora",
+    "title": "The Sniper Specialist",
+    "description": "Notora increases weapon accuracy when using sniper rifles and DMRs after standing still for a short time.",
+    "role": "Sniper / Precision",
+    "ability": {
+      "name": "Precision",
+      "type": "Passive",
+      "details": {
+        "accuracy_bonus_percent": 20,
+        "max_level": 6,
+        "effects": [
+          "Increases sniper and DMR accuracy",
+          "Reward players who hold position for precise shots"
+        ]
+      }
+    },
+    "strengths": [
+      "High damage from a distance",
+      "Ideal for stationary sniping"
+    ],
+    "weaknesses": [
+      "Limited mobility during ability",
+      "Not effective in rush fights"
+    ]
+  },
+  {
+    "name": "A124",
+    "title": "The Android",
+    "description": "A124 can heal herself automatically after taking damage when HP is low, and shields nearby allies temporarily.",
+    "role": "Support / Survival",
+    "ability": {
+      "name": "Thrill of Battle",
+      "type": "Passive",
+      "details": {
+        "auto_heal_percent": 10,
+        "shield_hp_to_allies": 50,
+        "trigger_hp_threshold_percent": 40,
+        "max_level": 6,
+        "effects": [
+          "Automatically heals herself when low HP",
+          "Grants shield to nearby allies"
+        ]
+      }
+    },
+    "strengths": [
+      "Self-sustain in critical moments",
+      "Provides protection to teammates"
+    ],
+    "weaknesses": [
+      "Ability triggers only under low HP",
+      "Shield is temporary"
+    ]
+  },
+  {
+    "name": "Kla",
+    "title": "The Muay Thai Fighter",
+    "description": "Kla deals extra punch damage and increases movement speed after a kill, excelling in close-range fights.",
+    "role": "Close Combat / Rusher",
+    "ability": {
+      "name": "Muay Thai",
+      "type": "Passive",
+      "details": {
+        "extra_punch_damage_percent": 30,
+        "movement_speed_after_kill_percent": 5,
+        "max_level": 6,
+        "effects": [
+          "Deals increased melee damage",
+          "Temporary movement boost after eliminating an enemy"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong in melee combat",
+      "High mobility after kills"
+    ],
+    "weaknesses": [
+      "Less effective at range",
+      "Dependent on kills to activate speed boost"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "title": "The Trickster",
+    "description": "Wukong can camouflage as a bush, giving him stealth and the ability to ambush unsuspecting enemies.",
+    "role": "Stealth / Ambusher",
+    "ability": {
+      "name": "Camouflage",
+      "type": "Active",
+      "details": {
+        "duration_seconds": 10,
+        "cooldown_seconds": 90,
+        "effects": [
+          "Transforms into a bush to hide from enemies",
+          "Ideal for ambush or escape tactics"
+        ]
+      }
+    },
+    "strengths": [
+      "Effective stealth and surprise attacks",
+      "Useful for scouting or ambushing"
+    ],
+    "weaknesses": [
+      "Can be spotted by enemies",
+      "Short duration"
+    ]
+  },
+  {
+    "name": "Olivia",
+    "title": "The Strategist",
+    "description": "Olivia can heal teammates faster and revive them with extra HP, enhancing team survivability.",
+    "role": "Support / Healer",
+    "ability": {
+      "name": "Healing Touch",
+      "type": "Passive",
+      "details": {
+        "revive_bonus_hp": 40,
+        "heal_speed_bonus_percent": 10,
+        "max_level": 6,
+        "effects": [
+          "Revives teammates with extra HP",
+          "Heals faster than normal"
+        ]
+      }
+    },
+    "strengths": [
+      "Strong team support",
+      "Boosts survivability during fights"
+    ],
+    "weaknesses": [
+      "No offensive capabilities",
+      "Dependent on teammates"
+    ]
+  },
+  {
+    "name": "Ford",
+    "title": "The Defense Expert",
+    "description": "Ford gains reduced damage when inside the safe zone, improving survivability for long fights.",
+    "role": "Tank / Defense",
+    "ability": {
+      "name": "Iron Will",
+      "type": "Passive",
+      "details": {
+        "damage_reduction_inside_safe_zone_percent": 10,
+        "max_level": 6,
+        "effects": [
+          "Reduces incoming damage inside safe zone",
+          "Enhances tankiness in prolonged games"
+        ]
+      }
+    },
+    "strengths": [
+      "Better survivability in final zones",
+      "Good for defensive plays"
+    ],
+    "weaknesses": [
+      "Limited effect outside safe zone",
+      "No combat buff"
+    ]
+  },
+  {
+    "name": "Shani",
+    "title": "The Armor Specialist",
+    "description": "Shani repairs armor when damaged, maintaining survivability in long battles.",
+    "role": "Support / Tank",
+    "ability": {
+      "name": "Gear Recycle",
+      "type": "Passive",
+      "details": {
+        "armor_repair_percent": 6,
+        "max_level": 6,
+        "effects": [
+          "Repairs armor automatically when damaged",
+          "Sustains longer in fights"
+        ]
+      }
+    },
+    "strengths": [
+      "Maintains armor durability",
+      "Enhances tankiness in combat"
+    ],
+    "weaknesses": [
+      "No offensive enhancement",
+      "Dependent on armor usage"
+    ]
+  }
+]
