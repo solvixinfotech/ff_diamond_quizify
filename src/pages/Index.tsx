@@ -44,7 +44,7 @@ const Index = () => {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center space-y-4 px-4">
             <h1 className="text-5xl md:text-7xl font-bold text-gradient animate-slide-up">
-              Free Fire Quiz Master
+              FF Diamond Quizify
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground animate-slide-up" style={{ animationDelay: "0.1s" }}>
               Test Your Knowledge, Earn Rewards!

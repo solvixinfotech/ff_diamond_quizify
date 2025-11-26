@@ -14,7 +14,7 @@ const Navbar = () => {
             <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center shadow-glow">
               <span className="text-xl font-bold">FF</span>
             </div>
-            <span className="text-xl font-bold text-gradient">Quiz Master</span>
+            <span className="text-xl font-bold text-gradient">Diamond Quizify</span>
           </Link>
           
           <div className="flex items-center gap-6">
