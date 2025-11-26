@@ -1,4 +1,4 @@
-import { useParams, useNavigate, Link } from "react-router-dom";
+import { useParams, useNavigate, Link, useLocation } from "react-router-dom";
 import { ArrowLeft, Trophy, Zap, Shield, Target, Info } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -11,6 +11,8 @@ import { getItemDetails, type ItemDetails, type QuizCategory } from "@/data/quiz
 const Details = () => {
   const { category, name } = useParams<{ category: string; name: string }>();
   const navigate = useNavigate();
+  const location = useLocation();
+  const image = location.state?.image;
 
   if (!category || !name) {
     navigate("/");
@@ -32,7 +34,7 @@ const Details = () => {
     );
   }
 
-  const imagePath = `/images/${category}/${name}.webp`;
+  const imagePath = image || `/images/${category}/${name}.webp`;
 
   return (
     <div className="min-h-screen bg-background">
@@ -59,7 +61,7 @@ const Details = () => {
                   <img
                     src={imagePath}
                     alt={details.name}
-                    className="w-full h-full object-cover"
+                    className="absolute top-2/4 -translate-y-1/2 w-full cover"
                     onError={(e) => {
                       (e.target as HTMLImageElement).src = "/placeholder.svg";
                     }}
@@ -384,4 +386,3 @@ const Details = () => {
 };
 
 export default Details;
-

@@ -88,7 +88,7 @@ const Index = () => {
                       key={quiz.id}
                       className="group hover:shadow-glow transition-all duration-300 hover:scale-105 border-border bg-card overflow-hidden"
                     >
-                      <Link to={`/details/${category.id}/${itemName}`}>
+                      <Link to={`/details/${category.id}/${itemName}`} state={{ image: quiz.image }}>
                         <div className="relative h-48 overflow-hidden cursor-pointer">
                           <img
                             src={quiz.image}
@@ -111,7 +111,7 @@ const Index = () => {
                           <span>{category.label}</span>
                           <span>{quiz.questions.length} Questions</span>
                         </div>
-                        <Link to={`/details/${category.id}/${itemName}`}>
+                        <Link to={`/details/${category.id}/${itemName}`} state={{ image: quiz.image }}>
                           <CardTitle className="text-2xl hover:text-primary transition-colors cursor-pointer">
                             {quiz.title}
                           </CardTitle>
@@ -127,7 +127,7 @@ const Index = () => {
                             <span className="font-bold">50 Coins</span>
                           </div>
                           <div className="flex gap-2">
-                            <Link to={`/details/${category.id}/${itemName}`}>
+                            <Link to={`/details/${category.id}/${itemName}`} state={{ image: quiz.image }}>
                               <Button variant="outline" size="sm" className="border-primary text-primary hover:bg-primary hover:text-white">
                                 Details
                               </Button>
