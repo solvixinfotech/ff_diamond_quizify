@@ -17,6 +17,14 @@ interface FreeFireApiResponse {
   [key: string]: any; // Store the entire API response
 }
 
+interface CompletedQuiz {
+  quizId: string;
+  completedAt: string;
+  score: number;
+  totalQuestions: number;
+  coinsEarned: number;
+}
+
 interface UserData {
   uid: string;
   email: string | null;
@@ -28,6 +36,7 @@ interface UserData {
   createdAt?: string;
   totalCoins?: number;
   quizzesCompleted?: number;
+  completedQuizzes?: CompletedQuiz[];
 }
 
 interface AuthContextType {
@@ -41,6 +50,9 @@ interface AuthContextType {
   loginWithFreeFire: (freeFireId: string, region: string) => Promise<void>;
   logout: () => Promise<void>;
   refreshUserData: () => Promise<void>;
+  completeQuiz: (quizId: string, score: number, totalQuestions: number, coinsEarned: number) => Promise<void>;
+  isQuizCompleted: (quizId: string) => boolean;
+  updateCoins: (amount: number) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -241,6 +253,97 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     setUserData(null);
   };
 
+  // Check if a quiz is completed
+  const isQuizCompleted = (quizId: string): boolean => {
+    if (!userData?.completedQuizzes) return false;
+    return userData.completedQuizzes.some((q) => q.quizId === quizId);
+  };
+
+  // Complete a quiz and update user data
+  const completeQuiz = async (
+    quizId: string,
+    score: number,
+    totalQuestions: number,
+    coinsEarned: number
+  ) => {
+    if (!currentUser) {
+      throw new Error("User must be logged in to complete a quiz");
+    }
+
+    // Check if quiz is already completed
+    if (isQuizCompleted(quizId)) {
+      throw new Error("Quiz already completed");
+    }
+
+    const userDocRef = doc(db, "users", currentUser.uid);
+    const userDoc = await getDoc(userDocRef);
+    
+    if (!userDoc.exists()) {
+      throw new Error("User document not found");
+    }
+
+    const currentData = userDoc.data() as UserData;
+    const completedQuizzes = currentData.completedQuizzes || [];
+    
+    // Add new completed quiz
+    const newCompletedQuiz: CompletedQuiz = {
+      quizId,
+      completedAt: new Date().toISOString(),
+      score,
+      totalQuestions,
+      coinsEarned,
+    };
+
+    // Update user data
+    const updatedData: Partial<UserData> = {
+      completedQuizzes: [...completedQuizzes, newCompletedQuiz],
+      totalCoins: (currentData.totalCoins || 0) + coinsEarned,
+      quizzesCompleted: (currentData.quizzesCompleted || 0) + 1,
+    };
+
+    await setDoc(userDocRef, updatedData, { merge: true });
+    
+    // Update local state
+    if (userData) {
+      setUserData({
+        ...userData,
+        ...updatedData,
+        completedQuizzes: [...completedQuizzes, newCompletedQuiz],
+      });
+    }
+  };
+
+  // Update coins in database
+  const updateCoins = async (amount: number) => {
+    if (!currentUser) {
+      throw new Error("User must be logged in to update coins");
+    }
+
+    const userDocRef = doc(db, "users", currentUser.uid);
+    const userDoc = await getDoc(userDocRef);
+    
+    if (!userDoc.exists()) {
+      throw new Error("User document not found");
+    }
+
+    const currentData = userDoc.data() as UserData;
+    const newTotalCoins = (currentData.totalCoins || 0) + amount;
+
+    await setDoc(
+      userDocRef,
+      { totalCoins: newTotalCoins },
+      { merge: true }
+    );
+
+    // Update local state
+    if (userData) {
+      setUserData({
+        ...userData,
+        totalCoins: newTotalCoins,
+      });
+    }
+  };
+
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, async (user) => {
       setCurrentUser(user);
@@ -266,6 +369,9 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     loginWithFreeFire,
     logout,
     refreshUserData,
+    completeQuiz,
+    isQuizCompleted,
+    updateCoins,
   };
 
   return <AuthContext.Provider value={value}>{!loading && children}</AuthContext.Provider>;

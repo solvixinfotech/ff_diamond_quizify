@@ -1,13 +1,17 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import Navbar from "@/components/Navbar";
 import CoinDisplay from "@/components/CoinDisplay";
+import { useAuth } from "@/contexts/AuthContext";
 import { quizzes } from "@/data/quizzes";
 import type { Quiz } from "@/data/quizzes";
 import heroImage from "@/assets/hero-character.jpg";
+import { CheckCircle2, Lock } from "lucide-react";
+import { toast } from "sonner";
 
 const CATEGORY_TABS = [
   { id: "characters", label: "Characters" },
@@ -27,6 +31,23 @@ const categorizedQuizzes: Record<CategoryId, Quiz[]> = CATEGORY_TABS.reduce(
 
 const Index = () => {
   const [activeCategory, setActiveCategory] = useState<CategoryId>("characters");
+  const { currentUser, isQuizCompleted } = useAuth();
+  const navigate = useNavigate();
+
+  const handleQuizClick = (quiz: Quiz) => {
+    if (!currentUser) {
+      toast.error("Please log in to take quizzes");
+      navigate("/login");
+      return;
+    }
+    
+    if (isQuizCompleted(quiz.id)) {
+      toast.info("You have already completed this quiz");
+      return;
+    }
+    
+    navigate(`/quiz/${quiz.id}`);
+  };
 
   return (
     <div className="min-h-screen bg-background">
@@ -125,6 +146,12 @@ const Index = () => {
                           <div className="flex items-center gap-2 text-primary">
                             <span className="text-2xl">🪙</span>
                             <span className="font-bold">50 Coins</span>
+                            {currentUser && isQuizCompleted(quiz.id) && (
+                              <Badge variant="secondary" className="ml-2">
+                                <CheckCircle2 className="w-3 h-3 mr-1" />
+                                Completed
+                              </Badge>
+                            )}
                           </div>
                           <div className="flex gap-2">
                             <Link to={`/details/${category.id}/${itemName}`} state={{ image: quiz.image }}>
@@ -132,11 +159,29 @@ const Index = () => {
                                 Details
                               </Button>
                             </Link>
-                            <Link to={`/quiz/${quiz.id}`}>
-                              <Button size="sm" className="bg-gradient-primary hover:opacity-90 shadow-glow">
+                            {currentUser && isQuizCompleted(quiz.id) ? (
+                              <Button 
+                                size="sm" 
+                                variant="outline" 
+                                disabled
+                                className="opacity-50"
+                              >
+                                <CheckCircle2 className="w-4 h-4 mr-1" />
+                                Completed
+                              </Button>
+                            ) : (
+                              <Button 
+                                size="sm" 
+                                className="bg-gradient-primary hover:opacity-90 shadow-glow"
+                                onClick={(e) => {
+                                  e.preventDefault();
+                                  handleQuizClick(quiz);
+                                }}
+                              >
+                                {!currentUser && <Lock className="w-3 h-3 mr-1" />}
                                 Quiz
                               </Button>
-                            </Link>
+                            )}
                           </div>
                         </div>
                       </CardContent>

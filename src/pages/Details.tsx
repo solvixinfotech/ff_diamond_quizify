@@ -1,18 +1,46 @@
 import { useParams, useNavigate, Link, useLocation } from "react-router-dom";
-import { ArrowLeft, Trophy, Zap, Shield, Target, Info } from "lucide-react";
+import { ArrowLeft, Trophy, Zap, Shield, Target, Info, CheckCircle2, Lock } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import Navbar from "@/components/Navbar";
 import CoinDisplay from "@/components/CoinDisplay";
+import { useAuth } from "@/contexts/AuthContext";
 import { getItemDetails, type ItemDetails, type QuizCategory } from "@/data/quizzes";
+import { quizzes } from "@/data/quizzes";
+import { toast } from "sonner";
 
 const Details = () => {
   const { category, name } = useParams<{ category: string; name: string }>();
   const navigate = useNavigate();
   const location = useLocation();
   const image = location.state?.image;
+  const { currentUser, isQuizCompleted } = useAuth();
+
+  // Find the quiz for this item
+  const quizId = category && name 
+    ? `${category}-${name.toLowerCase().replace(/\s+/g, '-')}`
+    : null;
+  const quiz = quizId ? quizzes.find((q) => q.id === quizId) : null;
+  const completed = quiz && currentUser ? isQuizCompleted(quiz.id) : false;
+
+  const handleStartQuiz = () => {
+    if (!currentUser) {
+      toast.error("Please log in to take quizzes");
+      navigate("/login");
+      return;
+    }
+    
+    if (completed) {
+      toast.info("You have already completed this quiz");
+      return;
+    }
+    
+    if (quiz) {
+      navigate(`/quiz/${quiz.id}`);
+    }
+  };
 
   if (!category || !name) {
     navigate("/");
@@ -338,16 +366,48 @@ const Details = () => {
               <CardHeader>
                 <CardTitle className="text-center">Ready to Test?</CardTitle>
                 <CardDescription className="text-center">
-                  Take the quiz to earn coins!
+                  {completed 
+                    ? "You've already completed this quiz!" 
+                    : currentUser 
+                    ? "Take the quiz to earn coins!"
+                    : "Log in to take the quiz and earn coins!"}
                 </CardDescription>
               </CardHeader>
-              <CardContent>
-                <Link to={`/quiz/${category}-${name.toLowerCase().replace(/\s+/g, '-')}`}>
-                  <Button className="w-full bg-gradient-primary hover:opacity-90 shadow-glow">
-                    <Trophy className="w-4 h-4 mr-2" />
-                    Start Quiz
-                  </Button>
-                </Link>
+              <CardContent className="space-y-3">
+                {completed && (
+                  <Badge variant="secondary" className="w-full justify-center py-2">
+                    <CheckCircle2 className="w-4 h-4 mr-2" />
+                    Quiz Completed
+                  </Badge>
+                )}
+                {!currentUser && (
+                  <Badge variant="outline" className="w-full justify-center py-2 text-muted-foreground">
+                    <Lock className="w-4 h-4 mr-2" />
+                    Login Required
+                  </Badge>
+                )}
+                <Button 
+                  className="w-full bg-gradient-primary hover:opacity-90 shadow-glow"
+                  onClick={handleStartQuiz}
+                  disabled={completed}
+                >
+                  {completed ? (
+                    <>
+                      <CheckCircle2 className="w-4 h-4 mr-2" />
+                      Already Completed
+                    </>
+                  ) : !currentUser ? (
+                    <>
+                      <Lock className="w-4 h-4 mr-2" />
+                      Log In to Start
+                    </>
+                  ) : (
+                    <>
+                      <Trophy className="w-4 h-4 mr-2" />
+                      Start Quiz
+                    </>
+                  )}
+                </Button>
               </CardContent>
             </Card>
           </div>
