@@ -11,6 +11,10 @@ import Redeem from "./pages/Redeem";
 import Profile from "./pages/Profile";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
+import Leaderboard from "./pages/Leaderboard";
+import QuizHistory from "./pages/QuizHistory";
+import Achievements from "./pages/Achievements";
+import About from "./pages/About";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -28,6 +32,10 @@ const App = () => (
                         <Route path="/quiz/:id" element={<Quiz />} />
                         <Route path="/redeem" element={<Redeem />} />
                         <Route path="/profile" element={<Profile />} />
+                        <Route path="/leaderboard" element={<Leaderboard />} />
+                        <Route path="/history" element={<QuizHistory />} />
+                        <Route path="/achievements" element={<Achievements />} />
+                        <Route path="/about" element={<About />} />
                         <Route path="/login" element={<Login />} />
                         <Route path="/signup" element={<Signup />} />
                         <Route path="*" element={<NotFound />} />

@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { Home, User, Trophy, LogIn, LogOut } from "lucide-react";
+import { Home, User, Trophy, LogIn, LogOut, Award, History, Info, BarChart3 } from "lucide-react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import {
@@ -47,7 +47,7 @@ const Navbar = () => {
             <span className="text-xl font-bold text-gradient">Diamond Quizify</span>
           </Link>
           
-          <div className="flex items-center gap-6">
+          <div className="flex items-center gap-4 md:gap-6">
             <Link 
               to="/" 
               className={`flex items-center gap-2 transition-colors ${
@@ -55,8 +55,39 @@ const Navbar = () => {
               }`}
             >
               <Home className="w-5 h-5" />
-              <span className="hidden sm:inline">Home</span>
+              <span className="hidden lg:inline">Home</span>
             </Link>
+            {currentUser && (
+              <>
+                <Link 
+                  to="/leaderboard" 
+                  className={`flex items-center gap-2 transition-colors ${
+                    isActive("/leaderboard") ? "text-primary" : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <BarChart3 className="w-5 h-5" />
+                  <span className="hidden lg:inline">Leaderboard</span>
+                </Link>
+                <Link 
+                  to="/history" 
+                  className={`flex items-center gap-2 transition-colors ${
+                    isActive("/history") ? "text-primary" : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <History className="w-5 h-5" />
+                  <span className="hidden lg:inline">History</span>
+                </Link>
+                <Link 
+                  to="/achievements" 
+                  className={`flex items-center gap-2 transition-colors ${
+                    isActive("/achievements") ? "text-primary" : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <Award className="w-5 h-5" />
+                  <span className="hidden lg:inline">Achievements</span>
+                </Link>
+              </>
+            )}
             <Link 
               to="/redeem" 
               className={`flex items-center gap-2 transition-colors ${
@@ -64,7 +95,16 @@ const Navbar = () => {
               }`}
             >
               <Trophy className="w-5 h-5" />
-              <span className="hidden sm:inline">Redeem</span>
+              <span className="hidden lg:inline">Redeem</span>
+            </Link>
+            <Link 
+              to="/about" 
+              className={`flex items-center gap-2 transition-colors ${
+                isActive("/about") ? "text-primary" : "text-muted-foreground hover:text-foreground"
+              }`}
+            >
+              <Info className="w-5 h-5" />
+              <span className="hidden lg:inline">About</span>
             </Link>
             {/* User Menu or Login Button */}
             {currentUser && userData ? (
@@ -91,6 +131,24 @@ const Navbar = () => {
                     <Link to="/profile" className="cursor-pointer">
                       <User className="mr-2 h-4 w-4" />
                       <span>Profile</span>
+                    </Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link to="/history" className="cursor-pointer">
+                      <History className="mr-2 h-4 w-4" />
+                      <span>Quiz History</span>
+                    </Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link to="/achievements" className="cursor-pointer">
+                      <Award className="mr-2 h-4 w-4" />
+                      <span>Achievements</span>
+                    </Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem asChild>
+                    <Link to="/leaderboard" className="cursor-pointer">
+                      <BarChart3 className="mr-2 h-4 w-4" />
+                      <span>Leaderboard</span>
                     </Link>
                   </DropdownMenuItem>
                   <DropdownMenuItem asChild>
