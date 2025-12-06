@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="FF Diamond Quizify favicon">
+  <defs>
+    <!-- warm diamond gradient -->
+    <linearGradient id="dg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffd75a"/>
+      <stop offset="0.45" stop-color="#ff9a3c"/>
+      <stop offset="1" stop-color="#ff5a8a"/>
+    </linearGradient>
+    <linearGradient id="facet" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- dark rounded background square -->
+  <rect width="64" height="64" rx="10" fill="#0b1220" />
+
+  <g transform="translate(8,8)">
+    <!-- diamond outer silhouette -->
+    <polygon points="24,0 40,16 24,48 8,16" fill="url(#dg)" filter="url(#glow)" />
+
+    <!-- facets: top left, top right, center, bottom-left, bottom-right -->
+    <polygon points="24,0 32,12 24,20 16,12" fill="#ffffff" fill-opacity="0.14" />
+    <polygon points="32,12 40,16 24,20" fill="#ffffff" fill-opacity="0.06" />
+    <polygon points="16,12 24,20 8,16" fill="#ffffff" fill-opacity="0.06" />
+    <polygon points="24,20 40,16 24,48" fill-opacity="0.06" fill="black" />
+
+    <!-- bright central highlight -->
+    <path d="M24 6 L30 14 L24 18 L18 14 Z" fill="url(#facet)" />
+
+    <!-- subtle rim stroke to lift shape -->
+    <polygon points="24,0 40,16 24,48 8,16" fill="none" stroke="#ffdfa8" stroke-opacity="0.14" stroke-width="0.8" />
+
+    <!-- small sparkle at top-right of the diamond -->
+    <g transform="translate(36,-4) scale(0.6)">
+      <path d="M2 0 L3 2 L5 3 L3 4 L2 6 L1 4 L-1 3 L1 2 Z" fill="#fff7c9" fill-opacity="0.95" />
+    </g>
+  </g>
+</svg>
